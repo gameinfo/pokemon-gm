@@ -7842,7 +7842,7 @@ item_templates {
     egg_incubator {
       incubator_type: INCUBATOR_DISTANCE
       uses: 3
-      distance_multiplier: 0.666666687
+      distance_multiplier: 0.66666669
     }
   }
 }
@@ -8268,40 +8268,40 @@ item_templates {
     cp_multiplier: 0.094
     cp_multiplier: 0.16639787
     cp_multiplier: 0.21573247
-    cp_multiplier: 0.255720049
-    cp_multiplier: 0.290249884
-    cp_multiplier: 0.321087599
-    cp_multiplier: 0.349212676
-    cp_multiplier: 0.375235587
-    cp_multiplier: 0.399567276
+    cp_multiplier: 0.25572005
+    cp_multiplier: 0.29024988
+    cp_multiplier: 0.3210876
+    cp_multiplier: 0.34921268
+    cp_multiplier: 0.37523559
+    cp_multiplier: 0.39956728
     cp_multiplier: 0.4225
-    cp_multiplier: 0.443107545
-    cp_multiplier: 0.462798387
-    cp_multiplier: 0.481684953
-    cp_multiplier: 0.499858439
-    cp_multiplier: 0.517393947
-    cp_multiplier: 0.534354329
-    cp_multiplier: 0.550792694
+    cp_multiplier: 0.44310755
+    cp_multiplier: 0.46279839
+    cp_multiplier: 0.48168495
+    cp_multiplier: 0.49985844
+    cp_multiplier: 0.51739395
+    cp_multiplier: 0.53435433
+    cp_multiplier: 0.55079269
     cp_multiplier: 0.56675452
-    cp_multiplier: 0.582278907
+    cp_multiplier: 0.58227891
     cp_multiplier: 0.5974
-    cp_multiplier: 0.612157285
-    cp_multiplier: 0.626567125
-    cp_multiplier: 0.640652955
-    cp_multiplier: 0.654435635
+    cp_multiplier: 0.61215729
+    cp_multiplier: 0.62656713
+    cp_multiplier: 0.64065295
+    cp_multiplier: 0.65443563
     cp_multiplier: 0.667934
     cp_multiplier: 0.68116492
-    cp_multiplier: 0.694143653
-    cp_multiplier: 0.706884205
-    cp_multiplier: 0.719399095
+    cp_multiplier: 0.69414365
+    cp_multiplier: 0.70688421
+    cp_multiplier: 0.71939909
     cp_multiplier: 0.7317
-    cp_multiplier: 0.737769485
-    cp_multiplier: 0.743789434
-    cp_multiplier: 0.749761045
-    cp_multiplier: 0.755685508
-    cp_multiplier: 0.761563838
-    cp_multiplier: 0.767397165
-    cp_multiplier: 0.773186505
+    cp_multiplier: 0.73776948
+    cp_multiplier: 0.74378943
+    cp_multiplier: 0.74976104
+    cp_multiplier: 0.75568551
+    cp_multiplier: 0.76156384
+    cp_multiplier: 0.76739717
+    cp_multiplier: 0.7731865
     cp_multiplier: 0.77893275
     cp_multiplier: 0.784637
     cp_multiplier: 0.7903
@@ -12844,7 +12844,7 @@ item_templates {
     animation_time: 0
     animation_time: 2.1667
     animation_time: 1.4
-    animation_time: 1.46666706
+    animation_time: 1.4666671
     evolution_ids: IVYSAUR
     evolution_pips: 1
     pokedex_height_m: 0.7
@@ -12919,7 +12919,7 @@ item_templates {
     animation_time: 0
     animation_time: 2
     animation_time: 1.6667
-    animation_time: 1.73333299
+    animation_time: 1.733333
     evolution_ids: VENUSAUR
     evolution_pips: 1
     pokedex_height_m: 1
@@ -12996,7 +12996,7 @@ item_templates {
     animation_time: 0
     animation_time: 2.1333
     animation_time: 2
-    animation_time: 2.06666708
+    animation_time: 2.0666671
     evolution_pips: 1
     pokedex_height_m: 2
     pokedex_weight_kg: 100
@@ -13064,7 +13064,7 @@ item_templates {
     animation_time: 0
     animation_time: 2.1333
     animation_time: 1.1667
-    animation_time: 1.33333302
+    animation_time: 1.333333
     evolution_ids: CHARMELEON
     evolution_pips: 1
     pokedex_height_m: 0.6
@@ -13135,10 +13135,10 @@ item_templates {
     animation_time: 0.6667
     animation_time: 1.8333
     animation_time: 1.5
-    animation_time: 6.66666698
+    animation_time: 6.666667
     animation_time: 2.3333
     animation_time: 2
-    animation_time: 2.53333402
+    animation_time: 2.533334
     evolution_ids: CHARIZARD
     evolution_pips: 1
     pokedex_height_m: 1.1
@@ -13212,7 +13212,7 @@ item_templates {
     animation_time: 0.6667
     animation_time: 1.6667
     animation_time: 0.8667
-    animation_time: 6.66666698
+    animation_time: 6.666667
     animation_time: 2
     animation_time: 1.6
     animation_time: 2
@@ -13283,7 +13283,7 @@ item_templates {
     animation_time: 0
     animation_time: 2.1667
     animation_time: 1
-    animation_time: 1.33333302
+    animation_time: 1.333333
     evolution_ids: WARTORTLE
     evolution_pips: 1
     pokedex_height_m: 0.5
@@ -13357,7 +13357,7 @@ item_templates {
     animation_time: 0
     animation_time: 1.8
     animation_time: 1.0667
-    animation_time: 1.13333297
+    animation_time: 1.133333
     evolution_ids: BLASTOISE
     evolution_pips: 1
     pokedex_height_m: 1
@@ -13411,7 +13411,7 @@ item_templates {
       dodge_probability: 0.15
       dodge_duration_s: 1
       dodge_distance: 1
-      camera_distance: 4.84687519
+      camera_distance: 4.8468752
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -13432,7 +13432,7 @@ item_templates {
     animation_time: 0
     animation_time: 2
     animation_time: 2.6667
-    animation_time: 1.33333302
+    animation_time: 1.333333
     evolution_pips: 1
     pokedex_height_m: 1.6
     pokedex_weight_kg: 85.5
@@ -13985,7 +13985,7 @@ item_templates {
     animation_time: 0
     animation_time: 1.8333
     animation_time: 0.8
-    animation_time: 1.33333302
+    animation_time: 1.333333
     evolution_ids: PIDGEOTTO
     evolution_pips: 1
     pokedex_height_m: 0.3
@@ -14732,7 +14732,7 @@ item_templates {
     animation_time: 0
     animation_time: 1.8
     animation_time: 1.1333
-    animation_time: 1.06666696
+    animation_time: 1.066667
     evolution_ids: RAICHU
     evolution_pips: 1
     pokedex_height_m: 0.4
@@ -14827,7 +14827,7 @@ item_templates {
     animation_time: 0
     animation_time: 2.6667
     animation_time: 1
-    animation_time: 1.13333297
+    animation_time: 1.133333
     evolution_pips: 1
     pokedex_height_m: 0.8
     pokedex_weight_kg: 30
@@ -15604,7 +15604,7 @@ item_templates {
     animation_time: 0
     animation_time: 2
     animation_time: 1.3333
-    animation_time: 1.66666698
+    animation_time: 1.666667
     evolution_ids: CLEFABLE
     evolution_pips: 1
     pokedex_height_m: 0.6
@@ -16021,7 +16021,7 @@ item_templates {
       dodge_probability: 0.15
       dodge_duration_s: 1
       dodge_distance: 1
-      camera_distance: 4.58906269
+      camera_distance: 4.5890627
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -16091,7 +16091,7 @@ item_templates {
       dodge_probability: 0.2
       dodge_duration_s: 0.7
       dodge_distance: 0.125
-      camera_distance: 4.81500053
+      camera_distance: 4.8150005
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -16260,7 +16260,7 @@ item_templates {
       dodge_probability: 0.15
       dodge_duration_s: 1
       dodge_distance: 1
-      camera_distance: 3.03750038
+      camera_distance: 3.0375004
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -16316,14 +16316,14 @@ item_templates {
     camera {
       disk_radius_m: 0.7425
       cylinder_radius_m: 0.495
-      cylinder_height_m: 0.880000114
+      cylinder_height_m: 0.88000011
       shoulder_mode_scale: 0.5
     }
     encounter {
       base_capture_rate: 0.3
       base_flee_rate: 0.07
       collision_radius_m: 0.4125
-      collision_height_m: 0.880000114
+      collision_height_m: 0.88000011
       collision_head_radius_m: 0.2475
       movement_type: MOVEMENT_JUMP
       movement_timer_s: 8
@@ -16544,7 +16544,7 @@ item_templates {
     animation_time: 0
     animation_time: 2.3333
     animation_time: 1.3333
-    animation_time: 1.53333294
+    animation_time: 1.5333329
     evolution_ids: PARASECT
     evolution_pips: 1
     pokedex_height_m: 0.3
@@ -16705,7 +16705,7 @@ item_templates {
       dodge_probability: 0.15
       dodge_duration_s: 1
       dodge_distance: 1
-      camera_distance: 4.39312506
+      camera_distance: 4.3931251
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -16905,7 +16905,7 @@ item_templates {
     animation_time: 0
     animation_time: 2.1667
     animation_time: 1.3333
-    animation_time: 1.33333302
+    animation_time: 1.333333
     evolution_ids: DUGTRIO
     evolution_pips: 1
     pokedex_height_m: 0.2
@@ -17382,7 +17382,7 @@ item_templates {
       dodge_probability: 0.15
       dodge_duration_s: 1
       dodge_distance: 1
-      camera_distance: 3.62812495
+      camera_distance: 3.628125
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -18181,7 +18181,7 @@ item_templates {
       base_capture_rate: 0.1
       base_flee_rate: 0.05
       collision_radius_m: 0.425
-      collision_height_m: 0.935000122
+      collision_height_m: 0.93500012
       collision_head_radius_m: 0.255
       movement_type: MOVEMENT_JUMP
       movement_timer_s: 4
@@ -18280,7 +18280,7 @@ item_templates {
       dodge_probability: 0.15
       dodge_duration_s: 1
       dodge_distance: 1
-      camera_distance: 3.30000043
+      camera_distance: 3.3000004
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -18360,7 +18360,7 @@ item_templates {
     encounter {
       base_capture_rate: 0.25
       base_flee_rate: 0.07
-      collision_radius_m: 0.546000123
+      collision_radius_m: 0.54600012
       collision_height_m: 1.092
       collision_head_radius_m: 0.1365
       movement_type: MOVEMENT_JUMP
@@ -18470,7 +18470,7 @@ item_templates {
     animation_time: 0
     animation_time: 1.6667
     animation_time: 1.3333
-    animation_time: 1.33333302
+    animation_time: 1.333333
     evolution_pips: 1
     pokedex_height_m: 1.6
     pokedex_weight_kg: 130
@@ -18781,7 +18781,7 @@ item_templates {
     camera {
       disk_radius_m: 0.4725
       cylinder_radius_m: 0.315
-      cylinder_height_m: 0.918749928
+      cylinder_height_m: 0.91874993
       cylinder_ground_m: 0.25
       shoulder_mode_scale: 0.5
     }
@@ -18789,7 +18789,7 @@ item_templates {
       base_capture_rate: 0.5
       base_flee_rate: 0.15
       collision_radius_m: 0.21
-      collision_height_m: 0.918749928
+      collision_height_m: 0.91874993
       collision_head_radius_m: 0.1575
       movement_type: MOVEMENT_HOVERING
       movement_timer_s: 23
@@ -18799,7 +18799,7 @@ item_templates {
       dodge_probability: 0.15
       dodge_duration_s: 0.6
       dodge_distance: 0.6
-      camera_distance: 3.44531202
+      camera_distance: 3.445312
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -19241,7 +19241,7 @@ item_templates {
     animation_time: 0.6667
     animation_time: 1.6667
     animation_time: 1.5
-    animation_time: 5.33333302
+    animation_time: 5.333333
     animation_time: 2.3333
     animation_time: 1.6667
     animation_time: 0
@@ -19594,7 +19594,7 @@ item_templates {
     animation_time: 0
     animation_time: 2
     animation_time: 1.1667
-    animation_time: 1.16666698
+    animation_time: 1.166667
     evolution_ids: MAGNETON
     evolution_pips: 1
     pokedex_height_m: 0.3
@@ -20196,7 +20196,7 @@ item_templates {
       base_capture_rate: 0.5
       base_flee_rate: 0.1
       collision_radius_m: 0.49
-      collision_height_m: 0.833000124
+      collision_height_m: 0.83300012
       collision_head_radius_m: 0.294
       movement_type: MOVEMENT_JUMP
       movement_timer_s: 23
@@ -20471,7 +20471,7 @@ item_templates {
       base_flee_rate: 0.06
       collision_radius_m: 0.42
       collision_height_m: 1.05
-      collision_head_radius_m: 0.545999885
+      collision_head_radius_m: 0.54599988
       movement_type: MOVEMENT_HOVERING
       movement_timer_s: 3
       jump_time_s: 1
@@ -20765,7 +20765,7 @@ item_templates {
     animation_time: 0
     animation_time: 1.6667
     animation_time: 1.3333
-    animation_time: 1.66666698
+    animation_time: 1.666667
     evolution_pips: 1
     pokedex_height_m: 1.5
     pokedex_weight_kg: 40.5
@@ -22208,7 +22208,7 @@ item_templates {
     animation_time: 0.6667
     animation_time: 1.5
     animation_time: 0.6667
-    animation_time: 6.66666698
+    animation_time: 6.666667
     animation_time: 2
     animation_time: 2
     animation_time: 0
@@ -22284,7 +22284,7 @@ item_templates {
     animation_time: 0.6667
     animation_time: 1.6667
     animation_time: 0.6667
-    animation_time: 3.33333302
+    animation_time: 3.333333
     animation_time: 2.4667
     animation_time: 2.6667
     animation_time: 0
@@ -22519,7 +22519,7 @@ item_templates {
     animation_time: 0
     animation_time: 2.1667
     animation_time: 1.7333
-    animation_time: 1.66666698
+    animation_time: 1.666667
     evolution_pips: 1
     pokedex_height_m: 1.1
     pokedex_weight_kg: 34.6
@@ -22695,7 +22695,7 @@ item_templates {
     animation_time: 0
     animation_time: 2.3333
     animation_time: 2.3333
-    animation_time: 2.33333302
+    animation_time: 2.333333
     evolution_pips: 1
     pokedex_height_m: 2.2
     pokedex_weight_kg: 80
@@ -23073,14 +23073,14 @@ item_templates {
     camera {
       disk_radius_m: 0.6188
       cylinder_radius_m: 0.4125
-      cylinder_height_m: 0.880000114
+      cylinder_height_m: 0.88000011
       shoulder_mode_scale: 0.5
     }
     encounter {
       base_capture_rate: 0.5
       base_flee_rate: 0.15
       collision_radius_m: 0.4125
-      collision_height_m: 0.880000114
+      collision_height_m: 0.88000011
       collision_head_radius_m: 0.20625
       movement_type: MOVEMENT_JUMP
       movement_timer_s: 10
@@ -23090,7 +23090,7 @@ item_templates {
       dodge_probability: 0.2
       dodge_duration_s: 1
       dodge_distance: 1
-      camera_distance: 3.30000043
+      camera_distance: 3.3000004
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -24028,7 +24028,7 @@ item_templates {
     animation_time: 0
     animation_time: 2.4
     animation_time: 3
-    animation_time: 2.66666698
+    animation_time: 2.666667
     evolution_pips: 1
     pokedex_height_m: 2.5
     pokedex_weight_kg: 220
@@ -24192,7 +24192,7 @@ item_templates {
     animation_time: 0
     animation_time: 2.3333
     animation_time: 0.8667
-    animation_time: 1.23333299
+    animation_time: 1.233333
     evolution_ids: VAPOREON
     evolution_ids: JOLTEON
     evolution_ids: FLAREON
@@ -24264,7 +24264,7 @@ item_templates {
     camera {
       disk_radius_m: 0.5198
       cylinder_radius_m: 0.45
-      cylinder_height_m: 0.944999874
+      cylinder_height_m: 0.94499987
       shoulder_mode_scale: 0.4
     }
     encounter {
@@ -24283,7 +24283,7 @@ item_templates {
       dodge_probability: 0.15
       dodge_duration_s: 1
       dodge_distance: 1
-      camera_distance: 3.54374957
+      camera_distance: 3.5437496
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -24303,7 +24303,7 @@ item_templates {
     animation_time: 0
     animation_time: 2
     animation_time: 2.1333
-    animation_time: 2.13333297
+    animation_time: 2.133333
     evolution_pips: 1
     pokedex_height_m: 1
     pokedex_weight_kg: 29
@@ -24351,7 +24351,7 @@ item_templates {
     camera {
       disk_radius_m: 0.495
       cylinder_radius_m: 0.33
-      cylinder_height_m: 0.880000114
+      cylinder_height_m: 0.88000011
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -24370,7 +24370,7 @@ item_templates {
       dodge_probability: 0.2
       dodge_duration_s: 1
       dodge_distance: 1
-      camera_distance: 3.30000043
+      camera_distance: 3.3000004
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -24391,7 +24391,7 @@ item_templates {
     animation_time: 0
     animation_time: 2.6667
     animation_time: 1.3333
-    animation_time: 1.86666703
+    animation_time: 1.866667
     evolution_pips: 1
     pokedex_height_m: 0.8
     pokedex_weight_kg: 24.5
@@ -24479,7 +24479,7 @@ item_templates {
     animation_time: 0
     animation_time: 2.3333
     animation_time: 1
-    animation_time: 2.66666698
+    animation_time: 2.666667
     evolution_pips: 1
     pokedex_height_m: 0.9
     pokedex_weight_kg: 25
@@ -24527,7 +24527,7 @@ item_templates {
     camera {
       disk_radius_m: 0.825
       cylinder_radius_m: 0.55
-      cylinder_height_m: 0.935000122
+      cylinder_height_m: 0.93500012
       cylinder_ground_m: 0.5
       shoulder_mode_scale: 0.5
     }
@@ -24928,7 +24928,7 @@ item_templates {
     animation_time: 0
     animation_time: 2
     animation_time: 1.3333
-    animation_time: 1.66666698
+    animation_time: 1.666667
     evolution_pips: 1
     pokedex_height_m: 1.8
     pokedex_weight_kg: 59
@@ -24995,7 +24995,7 @@ item_templates {
     animation_time: 0
     animation_time: 2.5
     animation_time: 2.5
-    animation_time: 2.33333302
+    animation_time: 2.333333
     evolution_pips: 1
     pokedex_height_m: 2.1
     pokedex_weight_kg: 460
@@ -25063,7 +25063,7 @@ item_templates {
     animation_time: 0
     animation_time: 2.4
     animation_time: 1.3333
-    animation_time: 1.33333302
+    animation_time: 1.333333
     evolution_pips: 1
     rarity: POKEMON_RARITY_LEGENDARY
     pokedex_height_m: 1.7
@@ -25132,7 +25132,7 @@ item_templates {
     animation_time: 0
     animation_time: 2
     animation_time: 1
-    animation_time: 1.66666698
+    animation_time: 1.666667
     evolution_pips: 1
     rarity: POKEMON_RARITY_LEGENDARY
     pokedex_height_m: 1.6
@@ -25248,7 +25248,7 @@ item_templates {
       dodge_probability: 0.15
       dodge_duration_s: 1
       dodge_distance: 1
-      camera_distance: 3.12187505
+      camera_distance: 3.121875
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -25536,7 +25536,7 @@ item_templates {
       dodge_probability: 1
       dodge_duration_s: 1
       dodge_distance: 0.3
-      camera_distance: 2.90812492
+      camera_distance: 2.9081249
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -26081,7 +26081,7 @@ item_templates {
       dodge_probability: 0.15
       dodge_duration_s: 1
       dodge_distance: 1
-      camera_distance: 2.97112489
+      camera_distance: 2.9711249
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -26155,7 +26155,7 @@ item_templates {
       dodge_probability: 0.15
       dodge_duration_s: 1
       dodge_distance: 1
-      camera_distance: 3.81937504
+      camera_distance: 3.819375
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -26372,7 +26372,7 @@ item_templates {
       dodge_probability: 0.2
       dodge_duration_s: 1
       dodge_distance: 1
-      camera_distance: 3.45487499
+      camera_distance: 3.454875
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -26497,7 +26497,7 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 1
       cylinder_height_m: 1.7
-      cylinder_ground_m: 0.493827164
+      cylinder_ground_m: 0.49382716
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -26569,7 +26569,7 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.5
       cylinder_height_m: 0.9
-      cylinder_ground_m: 0.430107534
+      cylinder_ground_m: 0.43010753
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -26644,7 +26644,7 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.42
       cylinder_height_m: 1.162
-      cylinder_ground_m: 0.459770113
+      cylinder_ground_m: 0.45977011
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -26859,7 +26859,7 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 1.25
       cylinder_height_m: 1.5105
-      cylinder_ground_m: 1.13636363
+      cylinder_ground_m: 1.1363636
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -27005,7 +27005,7 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.5
       cylinder_height_m: 0.7
-      cylinder_ground_m: 0.459770113
+      cylinder_ground_m: 0.45977011
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -27510,7 +27510,7 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 1
       cylinder_height_m: 1.25
-      cylinder_ground_m: 0.246913582
+      cylinder_ground_m: 0.24691358
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -28145,7 +28145,7 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.6
       cylinder_height_m: 0.95
-      cylinder_ground_m: 0.412844032
+      cylinder_ground_m: 0.41284403
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -28220,7 +28220,7 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.6
       cylinder_height_m: 0.75
-      cylinder_ground_m: 0.423728824
+      cylinder_ground_m: 0.42372882
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -28298,7 +28298,7 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.45
       cylinder_height_m: 0.8
-      cylinder_ground_m: 0.442477882
+      cylinder_ground_m: 0.44247788
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -28579,7 +28579,7 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.7
       cylinder_height_m: 0.8
-      cylinder_ground_m: 0.315789461
+      cylinder_ground_m: 0.31578946
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -29081,7 +29081,7 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.45
       cylinder_height_m: 0.75
-      cylinder_ground_m: 0.245901644
+      cylinder_ground_m: 0.24590164
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -29167,7 +29167,7 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.35
       cylinder_height_m: 0.5
-      cylinder_ground_m: 0.222222224
+      cylinder_ground_m: 0.22222222
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -29510,7 +29510,7 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.9
       cylinder_height_m: 1.25
-      cylinder_ground_m: 0.326086968
+      cylinder_ground_m: 0.32608697
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -29684,7 +29684,7 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.6
       cylinder_height_m: 1.1
-      cylinder_ground_m: 0.103092782
+      cylinder_ground_m: 0.10309278
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -30035,7 +30035,7 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.55
       cylinder_height_m: 0.6
-      cylinder_ground_m: 0.444444448
+      cylinder_ground_m: 0.44444445
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -31084,7 +31084,7 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.32
       cylinder_height_m: 0.4
-      cylinder_ground_m: 0.387596905
+      cylinder_ground_m: 0.38759691
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -31347,7 +31347,7 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 1
       cylinder_height_m: 0.7
-      cylinder_ground_m: 0.342465758
+      cylinder_ground_m: 0.34246576
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -31434,7 +31434,7 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 1
       cylinder_height_m: 1.3
-      cylinder_ground_m: 0.649350643
+      cylinder_ground_m: 0.64935064
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -31700,7 +31700,7 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.85
       cylinder_height_m: 2
-      cylinder_ground_m: 0.641025662
+      cylinder_ground_m: 0.64102566
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -31966,7 +31966,7 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.5
       cylinder_height_m: 0.7
-      cylinder_ground_m: 0.322580636
+      cylinder_ground_m: 0.32258064
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -33382,7 +33382,7 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 3
       cylinder_height_m: 5
-      cylinder_ground_m: 0.238095239
+      cylinder_ground_m: 0.23809524
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -33470,7 +33470,7 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 4
       cylinder_height_m: 4.5
-      cylinder_ground_m: 0.188679248
+      cylinder_ground_m: 0.18867925
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -33559,7 +33559,7 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.4
       cylinder_height_m: 0.6
-      cylinder_ground_m: 0.416666657
+      cylinder_ground_m: 0.41666666
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -35306,7 +35306,7 @@ item_templates {
     family_id: FAMILY_LOTAD
     km_buddy_distance: 3
     buddy_size: BUDDY_BIG
-    model_height: 0.407407403
+    model_height: 0.4074074
     evolution_branch {
       evolution: LOMBRE
       candy_cost: 25
@@ -35399,7 +35399,7 @@ item_templates {
     family_id: FAMILY_LOTAD
     km_buddy_distance: 3
     buddy_size: BUDDY_BIG
-    model_height: 1.10869563
+    model_height: 1.1086956
     evolution_branch {
       evolution: LUDICOLO
       candy_cost: 100
@@ -35493,7 +35493,7 @@ item_templates {
     family_id: FAMILY_LOTAD
     km_buddy_distance: 3
     buddy_size: BUDDY_BIG
-    model_height: 1.96428573
+    model_height: 1.9642857
     model_scale_v2: 1
     buddy_offset_male: 20
     buddy_offset_male: 0
@@ -35765,7 +35765,7 @@ item_templates {
     family_id: FAMILY_SEEDOT
     km_buddy_distance: 3
     buddy_size: BUDDY_BIG
-    model_height: 1.27826083
+    model_height: 1.2782608
     model_scale_v2: 1
     buddy_offset_male: 20
     buddy_offset_male: 0
@@ -36031,7 +36031,7 @@ item_templates {
     family_id: FAMILY_WINGULL
     km_buddy_distance: 3
     buddy_size: BUDDY_FLYING
-    model_height: 1.73414636
+    model_height: 1.7341464
     evolution_branch {
       evolution: PELIPPER
       candy_cost: 50
@@ -36126,7 +36126,7 @@ item_templates {
     family_id: FAMILY_WINGULL
     km_buddy_distance: 3
     buddy_size: BUDDY_FLYING
-    model_height: 2.58285713
+    model_height: 2.5828571
     model_scale_v2: 0.96
     buddy_offset_male: 20
     buddy_offset_male: 0
@@ -36305,7 +36305,7 @@ item_templates {
     weight_std_dev: 2.525
     family_id: FAMILY_RALTS
     km_buddy_distance: 5
-    model_height: 0.945454538
+    model_height: 0.94545454
     evolution_branch {
       evolution: GARDEVOIR
       candy_cost: 100
@@ -36398,7 +36398,7 @@ item_templates {
     family_id: FAMILY_RALTS
     km_buddy_distance: 5
     buddy_size: BUDDY_BIG
-    model_height: 1.73414636
+    model_height: 1.7341464
     model_scale_v2: 1
     buddy_offset_male: 20
     buddy_offset_male: 0
@@ -36754,7 +36754,7 @@ item_templates {
     family_id: FAMILY_SHROOMISH
     km_buddy_distance: 3
     buddy_size: BUDDY_BIG
-    model_height: 1.26041663
+    model_height: 1.2604166
     model_scale_v2: 1
     buddy_offset_male: 20
     buddy_offset_male: 0
@@ -37018,7 +37018,7 @@ item_templates {
     family_id: FAMILY_SLAKOTH
     km_buddy_distance: 5
     buddy_size: BUDDY_BIG
-    model_height: 2.58904099
+    model_height: 2.589041
     model_scale_v2: 0.99
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -37103,7 +37103,7 @@ item_templates {
     weight_std_dev: 0.6875
     family_id: FAMILY_NINCADA
     km_buddy_distance: 5
-    model_height: 0.555555582
+    model_height: 0.55555558
     evolution_branch {
       evolution: NINJASK
       candy_cost: 50
@@ -37201,7 +37201,7 @@ item_templates {
     family_id: FAMILY_NINCADA
     km_buddy_distance: 5
     buddy_size: BUDDY_FLYING
-    model_height: 0.813913047
+    model_height: 0.81391305
     model_scale_v2: 1
     buddy_offset_male: 20
     buddy_offset_male: 0
@@ -37291,7 +37291,7 @@ item_templates {
     family_id: FAMILY_NINCADA
     km_buddy_distance: 5
     buddy_size: BUDDY_FLYING
-    model_height: 0.844907403
+    model_height: 0.8449074
     model_scale_v2: 1
     buddy_offset_male: 20
     buddy_offset_male: 0
@@ -38032,7 +38032,7 @@ item_templates {
     family_id: FAMILY_SKITTY
     km_buddy_distance: 3
     buddy_size: BUDDY_BIG
-    model_height: 1.26041663
+    model_height: 1.2604166
     model_scale_v2: 1
     buddy_offset_male: 20
     buddy_offset_male: 0
@@ -38525,7 +38525,7 @@ item_templates {
     family_id: FAMILY_MEDITITE
     km_buddy_distance: 3
     buddy_size: BUDDY_BIG
-    model_height: 1.51136363
+    model_height: 1.5113636
     model_scale_v2: 1
     buddy_offset_male: 20
     buddy_offset_male: 0
@@ -38666,7 +38666,7 @@ item_templates {
     family_id: FAMILY_ELECTRIKE
     km_buddy_distance: 3
     buddy_size: BUDDY_BIG
-    model_height: 1.60919535
+    model_height: 1.6091954
     model_scale_v2: 1
     buddy_offset_male: 20
     buddy_offset_male: 0
@@ -39001,7 +39001,7 @@ item_templates {
     weight_std_dev: 0.25
     family_id: FAMILY_ROSELIA
     km_buddy_distance: 3
-    model_height: 0.357142866
+    model_height: 0.35714287
     model_scale_v2: 1.27
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -39354,7 +39354,7 @@ item_templates {
     family_id: FAMILY_WAILMER
     km_buddy_distance: 1
     buddy_size: BUDDY_BIG
-    model_height: 1.65405405
+    model_height: 1.654054
     evolution_branch {
       evolution: WAILORD
       candy_cost: 400
@@ -39569,7 +39569,7 @@ item_templates {
     family_id: FAMILY_NUMEL
     km_buddy_distance: 3
     buddy_size: BUDDY_BIG
-    model_height: 1.84615386
+    model_height: 1.8461539
     model_scale_v2: 1
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -39774,7 +39774,7 @@ item_templates {
     family_id: FAMILY_SPOINK
     km_buddy_distance: 1
     buddy_size: BUDDY_BIG
-    model_height: 1.14905655
+    model_height: 1.1490566
     model_scale_v2: 1
     buddy_offset_male: 20
     buddy_offset_male: 0
@@ -40201,7 +40201,7 @@ item_templates {
     family_id: FAMILY_CACNEA
     km_buddy_distance: 3
     buddy_size: BUDDY_BIG
-    model_height: 1.37362635
+    model_height: 1.3736264
     model_scale_v2: 1
     buddy_offset_male: 10
     buddy_offset_male: 0
@@ -40684,7 +40684,7 @@ item_templates {
     weight_std_dev: 0.2375
     family_id: FAMILY_BARBOACH
     km_buddy_distance: 1
-    model_height: 0.486486495
+    model_height: 0.48648649
     evolution_branch {
       evolution: WHISCASH
       candy_cost: 50
@@ -40760,7 +40760,7 @@ item_templates {
     family_id: FAMILY_BARBOACH
     km_buddy_distance: 1
     buddy_size: BUDDY_BIG
-    model_height: 1.11428571
+    model_height: 1.1142857
     model_scale_v2: 1
     buddy_offset_male: 10
     buddy_offset_male: 0
@@ -42357,7 +42357,7 @@ item_templates {
     weight_std_dev: 5.875
     family_id: FAMILY_ABSOL
     km_buddy_distance: 5
-    model_height: 1.30434787
+    model_height: 1.3043479
     model_scale_v2: 1
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -42422,7 +42422,7 @@ item_templates {
     family_id: FAMILY_WOBBUFFET
     km_buddy_distance: 3
     buddy_size: BUDDY_BIG
-    model_height: 0.595833361
+    model_height: 0.59583336
     evolution_branch {
       evolution: WOBBUFFET
       candy_cost: 25
@@ -42492,7 +42492,7 @@ item_templates {
     weight_std_dev: 2.1
     family_id: FAMILY_SNORUNT
     km_buddy_distance: 3
-    model_height: 0.658119678
+    model_height: 0.65811968
     evolution_branch {
       evolution: GLALIE
       candy_cost: 50
@@ -42710,7 +42710,7 @@ item_templates {
     family_id: FAMILY_SPHEAL
     km_buddy_distance: 3
     buddy_size: BUDDY_BIG
-    model_height: 0.847058833
+    model_height: 0.84705883
     evolution_branch {
       evolution: WALREIN
       candy_cost: 100
@@ -42785,7 +42785,7 @@ item_templates {
     family_id: FAMILY_SPHEAL
     km_buddy_distance: 3
     buddy_size: BUDDY_BIG
-    model_height: 1.38764048
+    model_height: 1.3876405
     model_scale_v2: 1
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -42926,7 +42926,7 @@ item_templates {
     family_id: FAMILY_CLAMPERL
     km_buddy_distance: 3
     buddy_size: BUDDY_BIG
-    model_height: 2.14651155
+    model_height: 2.1465116
     model_scale_v2: 1
     buddy_offset_male: 10
     buddy_offset_male: 0
@@ -43838,7 +43838,7 @@ item_templates {
     family_id: FAMILY_LATIAS
     km_buddy_distance: 20
     buddy_size: BUDDY_FLYING
-    model_height: 1.52258062
+    model_height: 1.5225806
     model_scale_v2: 1
     buddy_offset_male: 20
     buddy_offset_male: 0
