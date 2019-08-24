@@ -2874,7 +2874,7 @@ item_templates {
     bundle_name: "f_shirt_acetrainerbw_bundle"
     asset_name: "f_shirt_acetrainerbw_0"
     group_name: "group_shirt"
-    sort_order: 193
+    sort_order: 189
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_BATTLE_TRAINING_WON
     iap_sku: "pgorelease.avatar.f_shirt_acetrainerbw_0"
@@ -2891,7 +2891,7 @@ item_templates {
     bundle_name: "f_shirt_acetrainersm_bundle"
     asset_name: "f_shirt_acetrainersm_0"
     group_name: "group_shirt"
-    sort_order: 194
+    sort_order: 190
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_ULTRA_LEAGUE
     iap_sku: "pgorelease.avatar.f_shirt_acetrainersm_0"
@@ -2908,7 +2908,7 @@ item_templates {
     bundle_name: "f_shirt_backpacker_bundle"
     asset_name: "f_shirt_backpacker_0"
     group_name: "group_shirt"
-    sort_order: 185
+    sort_order: 181
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_backpacker_0"
     icon_name: "f_shirt_backpacker_0_bundle_icon"
@@ -2923,7 +2923,7 @@ item_templates {
     bundle_name: "f_shirt_battlegirl_bundle"
     asset_name: "f_shirt_battlegirl_0"
     group_name: "group_shirt"
-    sort_order: 203
+    sort_order: 199
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_BATTLE_ATTACK_WON
     iap_sku: "pgorelease.avatar.f_shirt_battlegirl_0"
@@ -2939,7 +2939,7 @@ item_templates {
     bundle_name: "f_shirt_buttondown_bundle"
     asset_name: "f_shirt_buttondown_0"
     group_name: "group_shirt"
-    sort_order: 211
+    sort_order: 207
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_buttondown_0"
     icon_name: "f_shirt_buttondown_bundle_icon"
@@ -2954,7 +2954,7 @@ item_templates {
     bundle_name: "f_shirt_casual_0_bundle"
     asset_name: "f_shirt_casual_0"
     group_name: "group_shirt"
-    sort_order: 188
+    sort_order: 184
     unlock_type: DEFAULT
     icon_name: "f_shirt_casual_0_bundle_icon"
   }
@@ -2968,7 +2968,7 @@ item_templates {
     bundle_name: "f_shirt_casual_1_bundle"
     asset_name: "f_shirt_casual_1"
     group_name: "group_shirt"
-    sort_order: 189
+    sort_order: 185
     unlock_type: DEFAULT
     icon_name: "f_shirt_casual_1_bundle_icon"
   }
@@ -2982,7 +2982,7 @@ item_templates {
     bundle_name: "f_shirt_casual_2_bundle"
     asset_name: "f_shirt_casual_2"
     group_name: "group_shirt"
-    sort_order: 190
+    sort_order: 186
     unlock_type: DEFAULT
     icon_name: "f_shirt_casual_2_bundle_icon"
   }
@@ -2996,7 +2996,7 @@ item_templates {
     bundle_name: "f_shirt_casual_3_bundle"
     asset_name: "f_shirt_casual_3"
     group_name: "group_shirt"
-    sort_order: 191
+    sort_order: 187
     unlock_type: DEFAULT
     icon_name: "f_shirt_casual_3_bundle_icon"
   }
@@ -3010,7 +3010,7 @@ item_templates {
     bundle_name: "f_shirt_celebi_bundle"
     asset_name: "f_shirt_celebi_0"
     group_name: "group_shirt"
-    sort_order: 241
+    sort_order: 237
     unlock_type: DEFAULT
     icon_name: "f_shirt_celebi_bundle_icon"
   }
@@ -3024,7 +3024,7 @@ item_templates {
     bundle_name: "f_shirt_default_bundle"
     asset_name: "f_shirt_default_0"
     group_name: "group_shirt"
-    sort_order: 251
+    sort_order: 247
     unlock_type: DEFAULT
     icon_name: "f_shirt_default_bundle_icon"
   }
@@ -3038,7 +3038,7 @@ item_templates {
     bundle_name: "f_shirt_default_bundle"
     asset_name: "f_shirt_default_1"
     group_name: "group_shirt"
-    sort_order: 252
+    sort_order: 248
     unlock_type: DEFAULT
     icon_name: "f_shirt_default_bundle_icon"
   }
@@ -3052,7 +3052,7 @@ item_templates {
     bundle_name: "f_shirt_default_bundle"
     asset_name: "f_shirt_default_2"
     group_name: "group_shirt"
-    sort_order: 253
+    sort_order: 249
     unlock_type: DEFAULT
     icon_name: "f_shirt_default_bundle_icon"
   }
@@ -3066,7 +3066,7 @@ item_templates {
     bundle_name: "f_shirt_default_bundle"
     asset_name: "f_shirt_default_3"
     group_name: "group_shirt"
-    sort_order: 254
+    sort_order: 250
     unlock_type: DEFAULT
     icon_name: "f_shirt_default_bundle_icon"
   }
@@ -3080,7 +3080,7 @@ item_templates {
     bundle_name: "f_shirt_default_bundle"
     asset_name: "f_shirt_default_4"
     group_name: "group_shirt"
-    sort_order: 255
+    sort_order: 251
     unlock_type: DEFAULT
     icon_name: "f_shirt_default_bundle_icon"
   }
@@ -3094,7 +3094,7 @@ item_templates {
     bundle_name: "f_shirt_default_bundle"
     asset_name: "f_shirt_default_5"
     group_name: "group_shirt"
-    sort_order: 256
+    sort_order: 252
     unlock_type: DEFAULT
     icon_name: "f_shirt_default_bundle_icon"
   }
@@ -3108,7 +3108,7 @@ item_templates {
     bundle_name: "f_shirt_default_bundle"
     asset_name: "f_shirt_default_6"
     group_name: "group_shirt"
-    sort_order: 257
+    sort_order: 253
     unlock_type: DEFAULT
     icon_name: "f_shirt_default_bundle_icon"
   }
@@ -3122,7 +3122,7 @@ item_templates {
     bundle_name: "f_shirt_default_bundle"
     asset_name: "f_shirt_default_7"
     group_name: "group_shirt"
-    sort_order: 258
+    sort_order: 254
     unlock_type: DEFAULT
     icon_name: "f_shirt_default_bundle_icon"
   }
@@ -3136,7 +3136,7 @@ item_templates {
     bundle_name: "f_shirt_default_bundle"
     asset_name: "f_shirt_default_8"
     group_name: "group_shirt"
-    sort_order: 259
+    sort_order: 255
     unlock_type: DEFAULT
     icon_name: "f_shirt_default_bundle_icon"
   }
@@ -3150,7 +3150,7 @@ item_templates {
     bundle_name: "f_shirt_delibird_bundle"
     asset_name: "f_shirt_delibird_0"
     group_name: "group_shirt"
-    sort_order: 198
+    sort_order: 194
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_delibird_0"
     icon_name: "f_shirt_delibird_0_bundle_icon"
@@ -3165,7 +3165,7 @@ item_templates {
     bundle_name: "f_shirt_detectivepikachu_bundle"
     asset_name: "f_shirt_detectivepikachu_0"
     group_name: "group_shirt"
-    sort_order: 187
+    sort_order: 183
     unlock_type: DEFAULT
     icon_name: "f_shirt_detectivepikachu_0_bundle_icon"
   }
@@ -3179,7 +3179,7 @@ item_templates {
     bundle_name: "f_shirt_drifblim_bundle"
     asset_name: "f_shirt_drifblim_0"
     group_name: "group_shirt"
-    sort_order: 201
+    sort_order: 197
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_drifblim_0"
     icon_name: "f_shirt_drifblim_0_bundle_icon"
@@ -3194,7 +3194,7 @@ item_templates {
     bundle_name: "f_shirt_earthday_2018_bundle"
     asset_name: "f_shirt_earthday_2018"
     group_name: "group_shirt"
-    sort_order: 242
+    sort_order: 238
     unlock_type: DEFAULT
     icon_name: "f_shirt_earthday_2018_bundle_icon"
   }
@@ -3208,7 +3208,7 @@ item_templates {
     bundle_name: "f_shirt_fragment_bundle"
     asset_name: "f_shirt_fragment_0"
     group_name: "group_shirt"
-    sort_order: 243
+    sort_order: 239
     unlock_type: DEFAULT
     icon_name: "f_shirt_fragment_bundle_icon"
   }
@@ -3222,7 +3222,7 @@ item_templates {
     bundle_name: "f_shirt_frlg_bundle"
     asset_name: "f_shirt_frlg_0"
     group_name: "group_shirt"
-    sort_order: 204
+    sort_order: 200
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_POKEDEX_ENTRIES
     iap_sku: "pgorelease.avatar.f_shirt_frlg_0"
@@ -3239,7 +3239,7 @@ item_templates {
     bundle_name: "f_shirt_gengar_bundle"
     asset_name: "f_shirt_gengar_0"
     group_name: "group_shirt"
-    sort_order: 200
+    sort_order: 196
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_gengar_0"
     icon_name: "f_shirt_gengar_0_bundle_icon"
@@ -3254,7 +3254,7 @@ item_templates {
     bundle_name: "f_shirt_gofest_2019_bundle"
     asset_name: "f_shirt_gofest_2019"
     group_name: "group_shirt"
-    sort_order: 186
+    sort_order: 182
     unlock_type: DEFAULT
     icon_name: "f_shirt_gofest_2019_bundle_icon"
   }
@@ -3268,7 +3268,7 @@ item_templates {
     bundle_name: "f_shirt_gymleader_bundle"
     asset_name: "f_shirt_gymleader_0"
     group_name: "group_shirt"
-    sort_order: 205
+    sort_order: 201
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_HOURS_DEFENDED
     iap_sku: "pgorelease.avatar.f_shirt_gymleader_0"
@@ -3285,7 +3285,7 @@ item_templates {
     bundle_name: "f_shirt_gymleader_bundle"
     asset_name: "f_shirt_gymleader_1"
     group_name: "group_shirt"
-    sort_order: 206
+    sort_order: 202
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_HOURS_DEFENDED
     iap_sku: "pgorelease.avatar.f_shirt_gymleader_1"
@@ -3302,7 +3302,7 @@ item_templates {
     bundle_name: "f_shirt_gymleader_bundle"
     asset_name: "f_shirt_gymleader_2"
     group_name: "group_shirt"
-    sort_order: 207
+    sort_order: 203
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_HOURS_DEFENDED
     iap_sku: "pgorelease.avatar.f_shirt_gymleader_2"
@@ -3319,7 +3319,7 @@ item_templates {
     bundle_name: "f_shirt_hgss_bundle"
     asset_name: "f_shirt_hgss_0"
     group_name: "group_shirt"
-    sort_order: 208
+    sort_order: 204
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_POKEDEX_ENTRIES_GEN2
     iap_sku: "pgorelease.avatar.f_shirt_hgss_0"
@@ -3336,7 +3336,7 @@ item_templates {
     bundle_name: "f_shirt_ingress_bundle"
     asset_name: "f_shirt_ingress_0"
     group_name: "group_shirt"
-    sort_order: 244
+    sort_order: 240
     unlock_type: DEFAULT
     icon_name: "f_shirt_ingress_bundle_icon"
   }
@@ -3350,7 +3350,7 @@ item_templates {
     bundle_name: "f_shirt_ingress_e_bundle"
     asset_name: "f_shirt_ingress_e_0"
     group_name: "group_shirt"
-    sort_order: 245
+    sort_order: 241
     unlock_type: DEFAULT
     icon_name: "f_shirt_ingress_e_bundle_icon"
   }
@@ -3364,24 +3364,9 @@ item_templates {
     bundle_name: "f_shirt_ingress_r_bundle"
     asset_name: "f_shirt_ingress_r_0"
     group_name: "group_shirt"
-    sort_order: 246
+    sort_order: 242
     unlock_type: DEFAULT
     icon_name: "f_shirt_ingress_r_bundle_icon"
-  }
-}
-item_templates {
-  template_id: "AVATAR_f_shirt_jirachi"
-  avatar_customization {
-    enabled: true
-    avatar_type: PLAYER_AVATAR_FEMALE
-    slot: SHIRT
-    bundle_name: "f_shirt_jirachi_bundle"
-    asset_name: "f_shirt_jirachi_0"
-    group_name: "group_shirt"
-    sort_order: 176
-    unlock_type: IAP_CLOTHING
-    iap_sku: "pgorelease.avatar.f_shirt_jirachi_0"
-    icon_name: "f_shirt_jirachi_0_bundle_icon"
   }
 }
 item_templates {
@@ -3393,7 +3378,7 @@ item_templates {
     bundle_name: "f_shirt_latias_latios_bundle"
     asset_name: "f_shirt_latias_latios_0"
     group_name: "group_shirt"
-    sort_order: 209
+    sort_order: 205
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_latias_latios_0"
     icon_name: "f_shirt_latias_latios_bundle_icon"
@@ -3408,7 +3393,7 @@ item_templates {
     bundle_name: "f_shirt_meltan_bundle"
     asset_name: "f_shirt_meltan_0"
     group_name: "group_shirt"
-    sort_order: 192
+    sort_order: 188
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_meltan_0"
     icon_name: "f_shirt_meltan_0_bundle_icon"
@@ -3423,7 +3408,7 @@ item_templates {
     bundle_name: "f_shirt_mew_bundle"
     asset_name: "f_shirt_mew_0"
     group_name: "group_shirt"
-    sort_order: 210
+    sort_order: 206
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_mew_0"
     icon_name: "f_shirt_mew_bundle_icon"
@@ -3438,7 +3423,7 @@ item_templates {
     bundle_name: "f_shirt_mewtwo_bundle"
     asset_name: "f_shirt_mewtwo_0"
     group_name: "group_shirt"
-    sort_order: 180
+    sort_order: 176
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_mewtwo_0"
     icon_name: "f_shirt_mewtwo_0_bundle_icon"
@@ -3453,7 +3438,7 @@ item_templates {
     bundle_name: "f_shirt_misty_bundle"
     asset_name: "f_shirt_misty_0"
     group_name: "group_shirt"
-    sort_order: 199
+    sort_order: 195
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_misty_0"
     icon_name: "f_shirt_misty_0_bundle_icon"
@@ -3468,7 +3453,7 @@ item_templates {
     bundle_name: "f_shirt_pikachufan_bundle"
     asset_name: "f_shirt_pikachufan_0"
     group_name: "group_shirt"
-    sort_order: 212
+    sort_order: 208
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_PIKACHU
     iap_sku: "pgorelease.avatar.f_shirt_pikachufan_0"
@@ -3485,7 +3470,7 @@ item_templates {
     bundle_name: "f_shirt_ruinmaniac_bundle"
     asset_name: "f_shirt_ruinmaniac_0"
     group_name: "group_shirt"
-    sort_order: 184
+    sort_order: 180
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_ruinmaniac_0"
     icon_name: "f_shirt_ruinmaniac_0_bundle_icon"
@@ -3500,7 +3485,7 @@ item_templates {
     bundle_name: "f_shirt_spiritomb_bundle"
     asset_name: "f_shirt_spiritomb_0"
     group_name: "group_shirt"
-    sort_order: 202
+    sort_order: 198
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_spiritomb_0"
     icon_name: "f_shirt_spiritomb_0_bundle_icon"
@@ -3515,7 +3500,7 @@ item_templates {
     bundle_name: "f_shirt_sweater_bundle"
     asset_name: "f_shirt_sweater_30_0"
     group_name: "group_shirt"
-    sort_order: 213
+    sort_order: 209
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_sweater_30_0"
     icon_name: "f_shirt_sweater_30_bundle_icon"
@@ -3531,7 +3516,7 @@ item_templates {
     bundle_name: "f_shirt_sweater_bundle"
     asset_name: "f_shirt_sweater_30_1"
     group_name: "group_shirt"
-    sort_order: 214
+    sort_order: 210
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_sweater_30_1"
     icon_name: "f_shirt_sweater_30_bundle_icon"
@@ -3547,7 +3532,7 @@ item_templates {
     bundle_name: "f_shirt_sweater_bundle"
     asset_name: "f_shirt_sweater_30_2"
     group_name: "group_shirt"
-    sort_order: 215
+    sort_order: 211
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_sweater_30_2"
     icon_name: "f_shirt_sweater_30_bundle_icon"
@@ -3563,7 +3548,7 @@ item_templates {
     bundle_name: "f_shirt_sweater_bundle"
     asset_name: "f_shirt_sweater_instinct"
     group_name: "group_shirt"
-    sort_order: 216
+    sort_order: 212
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_sweater_instinct"
     icon_name: "f_shirt_sweater_instinct_bundle_icon"
@@ -3578,7 +3563,7 @@ item_templates {
     bundle_name: "f_shirt_sweater_bundle"
     asset_name: "f_shirt_sweater_mystic"
     group_name: "group_shirt"
-    sort_order: 217
+    sort_order: 213
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_sweater_mystic"
     icon_name: "f_shirt_sweater_mystic_bundle_icon"
@@ -3593,7 +3578,7 @@ item_templates {
     bundle_name: "f_shirt_sweater_bundle"
     asset_name: "f_shirt_sweater_valor"
     group_name: "group_shirt"
-    sort_order: 218
+    sort_order: 214
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_sweater_valor"
     icon_name: "f_shirt_sweater_valor_bundle_icon"
@@ -3608,7 +3593,7 @@ item_templates {
     bundle_name: "f_shirt_tanktop_bundle"
     asset_name: "f_shirt_tanktop_0"
     group_name: "group_shirt"
-    sort_order: 219
+    sort_order: 215
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_tanktop_0"
     icon_name: "f_shirt_tanktop_bundle_icon"
@@ -3623,7 +3608,7 @@ item_templates {
     bundle_name: "f_shirt_tanktop_bundle"
     asset_name: "f_shirt_tanktop_1"
     group_name: "group_shirt"
-    sort_order: 220
+    sort_order: 216
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_tanktop_1"
     icon_name: "f_shirt_tanktop_bundle_icon"
@@ -3638,7 +3623,7 @@ item_templates {
     bundle_name: "f_shirt_tanktop_bundle"
     asset_name: "f_shirt_tanktop_2"
     group_name: "group_shirt"
-    sort_order: 221
+    sort_order: 217
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_tanktop_2"
     icon_name: "f_shirt_tanktop_bundle_icon"
@@ -3653,7 +3638,7 @@ item_templates {
     bundle_name: "f_shirt_tanktop_bundle"
     asset_name: "f_shirt_tanktop_charizard_0"
     group_name: "group_shirt"
-    sort_order: 222
+    sort_order: 218
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_tanktop_charizard_0"
     icon_name: "f_shirt_tanktop_charizard_bundle_icon"
@@ -3668,7 +3653,7 @@ item_templates {
     bundle_name: "f_shirt_tanktop_bundle"
     asset_name: "f_shirt_tanktop_charizard_1"
     group_name: "group_shirt"
-    sort_order: 223
+    sort_order: 219
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_tanktop_charizard_1"
     icon_name: "f_shirt_tanktop_charizard_bundle_icon"
@@ -3683,7 +3668,7 @@ item_templates {
     bundle_name: "f_shirt_tanktop_bundle"
     asset_name: "f_shirt_tanktop_charizard_2"
     group_name: "group_shirt"
-    sort_order: 224
+    sort_order: 220
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_tanktop_charizard_2"
     icon_name: "f_shirt_tanktop_charizard_bundle_icon"
@@ -3698,7 +3683,7 @@ item_templates {
     bundle_name: "f_shirt_tanktop_bundle"
     asset_name: "f_shirt_tanktop_pikachu_0"
     group_name: "group_shirt"
-    sort_order: 225
+    sort_order: 221
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_tanktop_pikachu_0"
     icon_name: "f_shirt_tanktop_pikachu_bundle_icon"
@@ -3713,7 +3698,7 @@ item_templates {
     bundle_name: "f_shirt_tanktop_bundle"
     asset_name: "f_shirt_tanktop_pikachu_1"
     group_name: "group_shirt"
-    sort_order: 226
+    sort_order: 222
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_tanktop_pikachu_1"
     icon_name: "f_shirt_tanktop_pikachu_bundle_icon"
@@ -3728,7 +3713,7 @@ item_templates {
     bundle_name: "f_shirt_tanktop_bundle"
     asset_name: "f_shirt_tanktop_pikachu_2"
     group_name: "group_shirt"
-    sort_order: 227
+    sort_order: 223
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_tanktop_pikachu_2"
     icon_name: "f_shirt_tanktop_pikachu_bundle_icon"
@@ -3743,7 +3728,7 @@ item_templates {
     bundle_name: "f_shirt_teamaqua_bundle"
     asset_name: "f_shirt_teamaqua_0"
     group_name: "group_shirt"
-    sort_order: 197
+    sort_order: 193
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_teamaqua_0"
     icon_name: "f_shirt_teamaqua_0_bundle_icon"
@@ -3758,7 +3743,7 @@ item_templates {
     bundle_name: "f_shirt_teamblanche_bundle"
     asset_name: "f_shirt_teamblanche_0"
     group_name: "group_shirt"
-    sort_order: 183
+    sort_order: 179
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_teamblanche_0"
     icon_name: "f_shirt_teamblanche_0_bundle_icon"
@@ -3773,7 +3758,7 @@ item_templates {
     bundle_name: "f_shirt_teamcandela_bundle"
     asset_name: "f_shirt_teamcandela_0"
     group_name: "group_shirt"
-    sort_order: 182
+    sort_order: 178
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_teamcandela_0"
     icon_name: "f_shirt_teamcandela_0_bundle_icon"
@@ -3788,7 +3773,7 @@ item_templates {
     bundle_name: "f_shirt_teammagma_bundle"
     asset_name: "f_shirt_teammagma_0"
     group_name: "group_shirt"
-    sort_order: 196
+    sort_order: 192
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_teammagma_0"
     icon_name: "f_shirt_teammagma_0_bundle_icon"
@@ -3803,7 +3788,7 @@ item_templates {
     bundle_name: "f_shirt_teamrocket_bundle"
     asset_name: "f_shirt_teamrocket_0"
     group_name: "group_shirt"
-    sort_order: 228
+    sort_order: 224
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_teamrocket_0"
     icon_name: "f_shirt_teamrocket_0_bundle_icon"
@@ -3818,7 +3803,7 @@ item_templates {
     bundle_name: "f_shirt_teamrocket_bundle"
     asset_name: "f_shirt_teamrocket_1"
     group_name: "group_shirt"
-    sort_order: 229
+    sort_order: 225
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_teamrocket_1"
     icon_name: "f_shirt_teamrocket_1_bundle_icon"
@@ -3833,7 +3818,7 @@ item_templates {
     bundle_name: "f_shirt_teamspark_bundle"
     asset_name: "f_shirt_teamspark_0"
     group_name: "group_shirt"
-    sort_order: 181
+    sort_order: 177
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_teamspark_0"
     icon_name: "f_shirt_teamspark_0_bundle_icon"
@@ -3848,7 +3833,7 @@ item_templates {
     bundle_name: "f_shirt_tshirt_bundle"
     asset_name: "f_shirt_tshirt_cycling_0"
     group_name: "group_shirt"
-    sort_order: 230
+    sort_order: 226
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_tshirt_cycling_0"
     icon_name: "f_shirt_tshirt_cycling_bundle_icon"
@@ -3863,7 +3848,7 @@ item_templates {
     bundle_name: "f_shirt_tshirt_bundle"
     asset_name: "f_shirt_tshirt_cycling_1"
     group_name: "group_shirt"
-    sort_order: 231
+    sort_order: 227
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_tshirt_cycling_1"
     icon_name: "f_shirt_tshirt_cycling_bundle_icon"
@@ -3878,7 +3863,7 @@ item_templates {
     bundle_name: "f_shirt_tshirt_bundle"
     asset_name: "f_shirt_tshirt_cycling_2"
     group_name: "group_shirt"
-    sort_order: 232
+    sort_order: 228
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_tshirt_cycling_2"
     icon_name: "f_shirt_tshirt_cycling_bundle_icon"
@@ -3893,7 +3878,7 @@ item_templates {
     bundle_name: "f_shirt_tshirt_bundle"
     asset_name: "f_shirt_tshirt_cycling_3"
     group_name: "group_shirt"
-    sort_order: 233
+    sort_order: 229
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_tshirt_cycling_3"
     icon_name: "f_shirt_tshirt_cycling_bundle_icon"
@@ -3908,7 +3893,7 @@ item_templates {
     bundle_name: "f_shirt_tshirt_bundle"
     asset_name: "f_shirt_tshirt_fest_chicago_2017"
     group_name: "group_shirt"
-    sort_order: 247
+    sort_order: 243
     unlock_type: DEFAULT
     icon_name: "f_shirt_tshirt_fest_chicago_2017_bundle_icon"
   }
@@ -3922,7 +3907,7 @@ item_templates {
     bundle_name: "f_shirt_tshirt_bundle"
     asset_name: "f_shirt_tshirt_fest_chicago_2018"
     group_name: "group_shirt"
-    sort_order: 248
+    sort_order: 244
     unlock_type: DEFAULT
     icon_name: "f_shirt_tshirt_fest_chicago_2018_bundle_icon"
   }
@@ -3936,7 +3921,7 @@ item_templates {
     bundle_name: "f_shirt_tshirt_bundle"
     asset_name: "f_shirt_tshirt_global_goals_2017"
     group_name: "group_shirt"
-    sort_order: 249
+    sort_order: 245
     unlock_type: DEFAULT
     icon_name: "f_shirt_tshirt_global_goals_2017_bundle_icon"
   }
@@ -3950,7 +3935,7 @@ item_templates {
     bundle_name: "f_shirt_tshirt_bundle"
     asset_name: "f_shirt_tshirt_pikachu_0"
     group_name: "group_shirt"
-    sort_order: 234
+    sort_order: 230
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_tshirt_pikachu_0"
     icon_name: "f_shirt_tshirt_pikachu_bundle_icon"
@@ -3965,7 +3950,7 @@ item_templates {
     bundle_name: "f_shirt_tshirt_bundle"
     asset_name: "f_shirt_tshirt_pikachu_1"
     group_name: "group_shirt"
-    sort_order: 235
+    sort_order: 231
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_tshirt_pikachu_1"
     icon_name: "f_shirt_tshirt_pikachu_bundle_icon"
@@ -3980,7 +3965,7 @@ item_templates {
     bundle_name: "f_shirt_tshirt_bundle"
     asset_name: "f_shirt_tshirt_pikachu_2"
     group_name: "group_shirt"
-    sort_order: 236
+    sort_order: 232
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_tshirt_pikachu_2"
     icon_name: "f_shirt_tshirt_pikachu_bundle_icon"
@@ -3995,7 +3980,7 @@ item_templates {
     bundle_name: "f_shirt_tshirt_bundle"
     asset_name: "f_shirt_tshirt_pikachu_3"
     group_name: "group_shirt"
-    sort_order: 237
+    sort_order: 233
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_tshirt_pikachu_3"
     icon_name: "f_shirt_tshirt_pikachu_bundle_icon"
@@ -4010,7 +3995,7 @@ item_templates {
     bundle_name: "f_shirt_tshirt_bundle"
     asset_name: "f_shirt_tshirt_pikachu_4"
     group_name: "group_shirt"
-    sort_order: 238
+    sort_order: 234
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_tshirt_pikachu_4"
     icon_name: "f_shirt_tshirt_pikachu_bundle_icon"
@@ -4025,7 +4010,7 @@ item_templates {
     bundle_name: "f_shirt_tshirt_bundle"
     asset_name: "f_shirt_tshirt_pikachu_5"
     group_name: "group_shirt"
-    sort_order: 239
+    sort_order: 235
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_tshirt_pikachu_5"
     icon_name: "f_shirt_tshirt_pikachu_bundle_icon"
@@ -4040,7 +4025,7 @@ item_templates {
     bundle_name: "f_shirt_tshirt_bundle"
     asset_name: "f_shirt_tshirt_pikachu_6"
     group_name: "group_shirt"
-    sort_order: 240
+    sort_order: 236
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_tshirt_pikachu_6"
     icon_name: "f_shirt_tshirt_pikachu_bundle_icon"
@@ -4055,7 +4040,7 @@ item_templates {
     bundle_name: "f_shirt_ultra_bundle"
     asset_name: "f_shirt_ultra_0"
     group_name: "group_shirt"
-    sort_order: 250
+    sort_order: 246
     unlock_type: DEFAULT
     icon_name: "f_shirt_ultra_bundle_icon"
   }
@@ -4069,7 +4054,7 @@ item_templates {
     bundle_name: "f_shirt_veterantrainerxy_bundle"
     asset_name: "f_shirt_veterantrainerxy_0"
     group_name: "group_shirt"
-    sort_order: 195
+    sort_order: 191
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_ULTRA_LEAGUE
     iap_sku: "pgorelease.avatar.f_shirt_veterantrainerxy_0"
@@ -4086,7 +4071,7 @@ item_templates {
     bundle_name: "f_shoes_acetrainerbw_bundle"
     asset_name: "f_shoes_acetrainerbw_0"
     group_name: "group_shoes"
-    sort_order: 269
+    sort_order: 262
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_BATTLE_TRAINING_WON
     iap_sku: "pgorelease.avatar.f_shoes_acetrainerbw_0"
@@ -4103,7 +4088,7 @@ item_templates {
     bundle_name: "f_shoes_acetrainersm_bundle"
     asset_name: "f_shoes_acetrainersm_0"
     group_name: "group_shoes"
-    sort_order: 270
+    sort_order: 263
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_MASTER_LEAGUE
     iap_sku: "pgorelease.avatar.f_shoes_acetrainersm_0"
@@ -4120,7 +4105,7 @@ item_templates {
     bundle_name: "f_shoes_backpacker_bundle"
     asset_name: "f_shoes_backpacker_0"
     group_name: "group_shoes"
-    sort_order: 268
+    sort_order: 261
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shoes_backpacker_0"
     icon_name: "f_shoes_backpacker_0_bundle_icon"
@@ -4135,7 +4120,7 @@ item_templates {
     bundle_name: "f_shoes_battlegirl_bundle"
     asset_name: "f_shoes_battlegirl_0"
     group_name: "group_shoes"
-    sort_order: 276
+    sort_order: 269
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_BATTLE_ATTACK_WON
     iap_sku: "pgorelease.avatar.f_shoes_battlegirl_0"
@@ -4152,7 +4137,7 @@ item_templates {
     bundle_name: "f_shoes_default_bundle"
     asset_name: "f_shoes_default_0"
     group_name: "group_shoes"
-    sort_order: 286
+    sort_order: 279
     unlock_type: DEFAULT
     icon_name: "f_shoes_default_bundle_icon"
   }
@@ -4166,7 +4151,7 @@ item_templates {
     bundle_name: "f_shoes_default_bundle"
     asset_name: "f_shoes_default_1"
     group_name: "group_shoes"
-    sort_order: 287
+    sort_order: 280
     unlock_type: DEFAULT
     icon_name: "f_shoes_default_bundle_icon"
   }
@@ -4180,7 +4165,7 @@ item_templates {
     bundle_name: "f_shoes_default_bundle"
     asset_name: "f_shoes_default_2"
     group_name: "group_shoes"
-    sort_order: 288
+    sort_order: 281
     unlock_type: DEFAULT
     icon_name: "f_shoes_default_bundle_icon"
   }
@@ -4194,7 +4179,7 @@ item_templates {
     bundle_name: "f_shoes_default_bundle"
     asset_name: "f_shoes_default_3"
     group_name: "group_shoes"
-    sort_order: 289
+    sort_order: 282
     unlock_type: DEFAULT
     icon_name: "f_shoes_default_bundle_icon"
   }
@@ -4208,7 +4193,7 @@ item_templates {
     bundle_name: "f_shoes_default_bundle"
     asset_name: "f_shoes_default_4"
     group_name: "group_shoes"
-    sort_order: 290
+    sort_order: 283
     unlock_type: DEFAULT
     icon_name: "f_shoes_default_bundle_icon"
   }
@@ -4222,7 +4207,7 @@ item_templates {
     bundle_name: "f_shoes_default_bundle"
     asset_name: "f_shoes_default_5"
     group_name: "group_shoes"
-    sort_order: 291
+    sort_order: 284
     unlock_type: DEFAULT
     icon_name: "f_shoes_default_bundle_icon"
   }
@@ -4236,7 +4221,7 @@ item_templates {
     bundle_name: "f_shoes_default_bundle"
     asset_name: "f_shoes_default_6"
     group_name: "group_shoes"
-    sort_order: 292
+    sort_order: 285
     unlock_type: DEFAULT
     icon_name: "f_shoes_default_bundle_icon"
   }
@@ -4250,7 +4235,7 @@ item_templates {
     bundle_name: "f_shoes_delibird_bundle"
     asset_name: "f_shoes_delibird_0"
     group_name: "group_shoes"
-    sort_order: 274
+    sort_order: 267
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shoes_delibird_0"
     icon_name: "f_shoes_delibird_0_bundle_icon"
@@ -4265,7 +4250,7 @@ item_templates {
     bundle_name: "f_shoes_empty_bundle"
     asset_name: "f_shoes_empty"
     group_name: "group_shoes"
-    sort_order: 293
+    sort_order: 286
     unlock_type: DEFAULT
     icon_name: "f_shoes_empty_bundle_icon"
   }
@@ -4279,7 +4264,7 @@ item_templates {
     bundle_name: "f_shoes_frlg_bundle"
     asset_name: "f_shoes_frlg_0"
     group_name: "group_shoes"
-    sort_order: 277
+    sort_order: 270
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_POKEDEX_ENTRIES
     iap_sku: "pgorelease.avatar.f_shoes_frlg_0"
@@ -4296,7 +4281,7 @@ item_templates {
     bundle_name: "f_shoes_gymleader_bundle"
     asset_name: "f_shoes_gymleader_0"
     group_name: "group_shoes"
-    sort_order: 278
+    sort_order: 271
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_HOURS_DEFENDED
     iap_sku: "pgorelease.avatar.f_shoes_gymleader_0"
@@ -4313,7 +4298,7 @@ item_templates {
     bundle_name: "f_shoes_gymleader_bundle"
     asset_name: "f_shoes_gymleader_1"
     group_name: "group_shoes"
-    sort_order: 279
+    sort_order: 272
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_HOURS_DEFENDED
     iap_sku: "pgorelease.avatar.f_shoes_gymleader_1"
@@ -4330,7 +4315,7 @@ item_templates {
     bundle_name: "f_shoes_gymleader_bundle"
     asset_name: "f_shoes_gymleader_2"
     group_name: "group_shoes"
-    sort_order: 280
+    sort_order: 273
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_HOURS_DEFENDED
     iap_sku: "pgorelease.avatar.f_shoes_gymleader_2"
@@ -4347,7 +4332,7 @@ item_templates {
     bundle_name: "f_shoes_hgss_bundle"
     asset_name: "f_shoes_hgss_0"
     group_name: "group_shoes"
-    sort_order: 281
+    sort_order: 274
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_POKEDEX_ENTRIES_GEN2
     iap_sku: "pgorelease.avatar.f_shoes_hgss_0"
@@ -4364,7 +4349,7 @@ item_templates {
     bundle_name: "f_shoes_mewtwo_bundle"
     asset_name: "f_shoes_mewtwo_0"
     group_name: "group_shoes"
-    sort_order: 263
+    sort_order: 256
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shoes_mewtwo_0"
     icon_name: "f_shoes_mewtwo_0_bundle_icon"
@@ -4379,7 +4364,7 @@ item_templates {
     bundle_name: "f_shoes_misty_bundle"
     asset_name: "f_shoes_misty_0"
     group_name: "group_shoes"
-    sort_order: 275
+    sort_order: 268
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shoes_misty_0"
     icon_name: "f_shoes_misty_0_bundle_icon"
@@ -4394,7 +4379,7 @@ item_templates {
     bundle_name: "f_shoes_pikachufan_bundle"
     asset_name: "f_shoes_pikachufan_0"
     group_name: "group_shoes"
-    sort_order: 282
+    sort_order: 275
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_PIKACHU
     iap_sku: "pgorelease.avatar.f_shoes_pikachufan_0"
@@ -4411,7 +4396,7 @@ item_templates {
     bundle_name: "f_shoes_ruinmaniac_bundle"
     asset_name: "f_shoes_ruinmaniac_0"
     group_name: "group_shoes"
-    sort_order: 267
+    sort_order: 260
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shoes_ruinmaniac_0"
     icon_name: "f_shoes_ruinmaniac_0_bundle_icon"
@@ -4426,7 +4411,7 @@ item_templates {
     bundle_name: "f_shoes_teamaqua_bundle"
     asset_name: "f_shoes_teamaqua_0"
     group_name: "group_shoes"
-    sort_order: 273
+    sort_order: 266
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shoes_teamaqua_0"
     icon_name: "f_shoes_teamaqua_0_bundle_icon"
@@ -4441,7 +4426,7 @@ item_templates {
     bundle_name: "f_shoes_teamblanche_bundle"
     asset_name: "f_shoes_teamblanche_0"
     group_name: "group_shoes"
-    sort_order: 266
+    sort_order: 259
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shoes_teamblanche_0"
     icon_name: "f_shoes_teamblanche_0_bundle_icon"
@@ -4456,7 +4441,7 @@ item_templates {
     bundle_name: "f_shoes_teamcandela_bundle"
     asset_name: "f_shoes_teamcandela_0"
     group_name: "group_shoes"
-    sort_order: 265
+    sort_order: 258
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shoes_teamcandela_0"
     icon_name: "f_shoes_teamcandela_0_bundle_icon"
@@ -4471,7 +4456,7 @@ item_templates {
     bundle_name: "f_shoes_teammagma_bundle"
     asset_name: "f_shoes_teammagma_0"
     group_name: "group_shoes"
-    sort_order: 272
+    sort_order: 265
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shoes_teammagma_0"
     icon_name: "f_shoes_teammagma_0_bundle_icon"
@@ -4486,7 +4471,7 @@ item_templates {
     bundle_name: "f_shoes_teamrocket_bundle"
     asset_name: "f_shoes_teamrocket_0"
     group_name: "group_shoes"
-    sort_order: 283
+    sort_order: 276
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shoes_teamrocket_0"
     icon_name: "f_shoes_teamrocket_0_bundle_icon"
@@ -4501,7 +4486,7 @@ item_templates {
     bundle_name: "f_shoes_teamrocket_bundle"
     asset_name: "f_shoes_teamrocket_1"
     group_name: "group_shoes"
-    sort_order: 284
+    sort_order: 277
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shoes_teamrocket_1"
     icon_name: "f_shoes_teamrocket_1_bundle_icon"
@@ -4516,7 +4501,7 @@ item_templates {
     bundle_name: "f_shoes_teamspark_bundle"
     asset_name: "f_shoes_teamspark_0"
     group_name: "group_shoes"
-    sort_order: 264
+    sort_order: 257
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shoes_teamspark_0"
     icon_name: "f_shoes_teamspark_0_bundle_icon"
@@ -4531,7 +4516,7 @@ item_templates {
     bundle_name: "f_shoes_ultra_bundle"
     asset_name: "f_shoes_ultra_0"
     group_name: "group_shoes"
-    sort_order: 285
+    sort_order: 278
     unlock_type: DEFAULT
     icon_name: "f_shoes_ultra_bundle_icon"
   }
@@ -4545,7 +4530,7 @@ item_templates {
     bundle_name: "f_shoes_veterantrainerxy_bundle"
     asset_name: "f_shoes_veterantrainerxy_0"
     group_name: "group_shoes"
-    sort_order: 271
+    sort_order: 264
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_MASTER_LEAGUE
     iap_sku: "pgorelease.avatar.f_shoes_veterantrainerxy_0"
@@ -4561,7 +4546,7 @@ item_templates {
     slot: SKIN
     asset_name: "f_skin_0"
     group_name: "group_skin"
-    sort_order: 297
+    sort_order: 290
     unlock_type: DEFAULT
   }
 }
@@ -4573,7 +4558,7 @@ item_templates {
     slot: SKIN
     asset_name: "f_skin_1"
     group_name: "group_skin"
-    sort_order: 296
+    sort_order: 289
     unlock_type: DEFAULT
   }
 }
@@ -4585,7 +4570,7 @@ item_templates {
     slot: SKIN
     asset_name: "f_skin_10"
     group_name: "group_skin"
-    sort_order: 304
+    sort_order: 297
     unlock_type: DEFAULT
   }
 }
@@ -4597,7 +4582,7 @@ item_templates {
     slot: SKIN
     asset_name: "f_skin_11"
     group_name: "group_skin"
-    sort_order: 305
+    sort_order: 298
     unlock_type: DEFAULT
   }
 }
@@ -4609,7 +4594,7 @@ item_templates {
     slot: SKIN
     asset_name: "f_skin_2"
     group_name: "group_skin"
-    sort_order: 299
+    sort_order: 292
     unlock_type: DEFAULT
   }
 }
@@ -4621,7 +4606,7 @@ item_templates {
     slot: SKIN
     asset_name: "f_skin_3"
     group_name: "group_skin"
-    sort_order: 301
+    sort_order: 294
     unlock_type: DEFAULT
   }
 }
@@ -4633,7 +4618,7 @@ item_templates {
     slot: SKIN
     asset_name: "f_skin_4"
     group_name: "group_skin"
-    sort_order: 294
+    sort_order: 287
     unlock_type: DEFAULT
   }
 }
@@ -4645,7 +4630,7 @@ item_templates {
     slot: SKIN
     asset_name: "f_skin_5"
     group_name: "group_skin"
-    sort_order: 295
+    sort_order: 288
     unlock_type: DEFAULT
   }
 }
@@ -4657,7 +4642,7 @@ item_templates {
     slot: SKIN
     asset_name: "f_skin_6"
     group_name: "group_skin"
-    sort_order: 298
+    sort_order: 291
     unlock_type: DEFAULT
   }
 }
@@ -4669,7 +4654,7 @@ item_templates {
     slot: SKIN
     asset_name: "f_skin_7"
     group_name: "group_skin"
-    sort_order: 300
+    sort_order: 293
     unlock_type: DEFAULT
   }
 }
@@ -4681,7 +4666,7 @@ item_templates {
     slot: SKIN
     asset_name: "f_skin_8"
     group_name: "group_skin"
-    sort_order: 302
+    sort_order: 295
     unlock_type: DEFAULT
   }
 }
@@ -4693,7 +4678,7 @@ item_templates {
     slot: SKIN
     asset_name: "f_skin_9"
     group_name: "group_skin"
-    sort_order: 303
+    sort_order: 296
     unlock_type: DEFAULT
   }
 }
@@ -4706,7 +4691,7 @@ item_templates {
     bundle_name: "f_socks_default_bundle"
     asset_name: "f_socks_default_0"
     group_name: "group_socks"
-    sort_order: 308
+    sort_order: 301
     unlock_type: DEFAULT
     icon_name: "f_socks_default_bundle_icon"
   }
@@ -4720,7 +4705,7 @@ item_templates {
     bundle_name: "f_socks_default_bundle"
     asset_name: "f_socks_default_1"
     group_name: "group_socks"
-    sort_order: 309
+    sort_order: 302
     unlock_type: DEFAULT
     icon_name: "f_socks_default_bundle_icon"
   }
@@ -4734,7 +4719,7 @@ item_templates {
     bundle_name: "f_socks_default_bundle"
     asset_name: "f_socks_default_2"
     group_name: "group_socks"
-    sort_order: 310
+    sort_order: 303
     unlock_type: DEFAULT
     icon_name: "f_socks_default_bundle_icon"
   }
@@ -4748,7 +4733,7 @@ item_templates {
     bundle_name: "f_socks_empty_bundle"
     asset_name: "f_socks_empty"
     group_name: "group_socks"
-    sort_order: 312
+    sort_order: 305
     unlock_type: DEFAULT
     icon_name: "f_socks_empty_bundle_icon"
   }
@@ -4762,7 +4747,7 @@ item_templates {
     bundle_name: "f_socks_hgss_bundle"
     asset_name: "f_socks_hgss_0"
     group_name: "group_socks"
-    sort_order: 307
+    sort_order: 300
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_POKEDEX_ENTRIES_GEN2
     iap_sku: "pgorelease.avatar.f_socks_hgss_0"
@@ -4779,7 +4764,7 @@ item_templates {
     bundle_name: "f_socks_teamaqua_bundle"
     asset_name: "f_socks_teamaqua_0"
     group_name: "group_socks"
-    sort_order: 306
+    sort_order: 299
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_socks_teamaqua_0"
     icon_name: "f_socks_teamaqua_0_bundle_icon"
@@ -4794,7 +4779,7 @@ item_templates {
     bundle_name: "f_socks_thighhighs_bundle"
     asset_name: "f_socks_thighhighs_0"
     group_name: "group_socks"
-    sort_order: 311
+    sort_order: 304
     unlock_type: DEFAULT
     icon_name: "f_socks_thighhighs_bundle_icon"
   }
@@ -4807,7 +4792,7 @@ item_templates {
     bundle_name: "m_backpack_backpacker_bundle"
     asset_name: "m_backpack_backpacker_0"
     group_name: "group_backpack"
-    sort_order: 314
+    sort_order: 307
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_backpack_backpacker_0"
     icon_name: "m_backpack_backpacker_0_bundle_icon"
@@ -4821,7 +4806,7 @@ item_templates {
     bundle_name: "m_backpack_default_bundle"
     asset_name: "m_backpack_default_0"
     group_name: "group_backpack"
-    sort_order: 321
+    sort_order: 314
     unlock_type: DEFAULT
     icon_name: "m_backpack_default_bundle_icon"
   }
@@ -4834,7 +4819,7 @@ item_templates {
     bundle_name: "m_backpack_default_bundle"
     asset_name: "m_backpack_default_1"
     group_name: "group_backpack"
-    sort_order: 322
+    sort_order: 315
     unlock_type: DEFAULT
     icon_name: "m_backpack_default_bundle_icon"
   }
@@ -4847,7 +4832,7 @@ item_templates {
     bundle_name: "m_backpack_default_bundle"
     asset_name: "m_backpack_default_2"
     group_name: "group_backpack"
-    sort_order: 323
+    sort_order: 316
     unlock_type: DEFAULT
     icon_name: "m_backpack_default_bundle_icon"
   }
@@ -4860,7 +4845,7 @@ item_templates {
     bundle_name: "m_backpack_default_bundle"
     asset_name: "m_backpack_default_3"
     group_name: "group_backpack"
-    sort_order: 324
+    sort_order: 317
     unlock_type: DEFAULT
     icon_name: "m_backpack_default_bundle_icon"
   }
@@ -4873,7 +4858,7 @@ item_templates {
     bundle_name: "m_backpack_default_bundle"
     asset_name: "m_backpack_default_4"
     group_name: "group_backpack"
-    sort_order: 325
+    sort_order: 318
     unlock_type: DEFAULT
     icon_name: "m_backpack_default_bundle_icon"
   }
@@ -4886,7 +4871,7 @@ item_templates {
     bundle_name: "m_backpack_default_bundle"
     asset_name: "m_backpack_default_5"
     group_name: "group_backpack"
-    sort_order: 326
+    sort_order: 319
     unlock_type: DEFAULT
     icon_name: "m_backpack_default_bundle_icon"
   }
@@ -4899,7 +4884,7 @@ item_templates {
     bundle_name: "m_backpack_eggbackpack_bundle"
     asset_name: "m_backpack_eggbackpack_0"
     group_name: "group_backpack"
-    sort_order: 315
+    sort_order: 308
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_backpack_eggbackpack_0"
     icon_name: "m_backpack_eggbackpack_0_bundle_icon"
@@ -4913,7 +4898,7 @@ item_templates {
     bundle_name: "m_backpack_eggbackpack_bundle"
     asset_name: "m_backpack_eggbackpack_1"
     group_name: "group_backpack"
-    sort_order: 316
+    sort_order: 309
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_backpack_eggbackpack_1"
     icon_name: "m_backpack_eggbackpack_1_bundle_icon"
@@ -4927,7 +4912,7 @@ item_templates {
     bundle_name: "m_backpack_eggbackpack_bundle"
     asset_name: "m_backpack_eggbackpack_2"
     group_name: "group_backpack"
-    sort_order: 317
+    sort_order: 310
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_backpack_eggbackpack_2"
     icon_name: "m_backpack_eggbackpack_2_bundle_icon"
@@ -4941,7 +4926,7 @@ item_templates {
     bundle_name: "m_backpack_empty_bundle"
     asset_name: "m_backpack_empty"
     group_name: "group_backpack"
-    sort_order: 328
+    sort_order: 321
     unlock_type: DEFAULT
     icon_name: "m_backpack_empty_bundle_icon"
   }
@@ -4954,7 +4939,7 @@ item_templates {
     bundle_name: "m_backpack_frlg_bundle"
     asset_name: "m_backpack_frlg_0"
     group_name: "group_backpack"
-    sort_order: 318
+    sort_order: 311
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_POKEDEX_ENTRIES
     iap_sku: "pgorelease.avatar.m_backpack_frlg_0"
@@ -4970,7 +4955,7 @@ item_templates {
     bundle_name: "m_backpack_gengar_bundle"
     asset_name: "m_backpack_gengar_0"
     group_name: "group_backpack"
-    sort_order: 319
+    sort_order: 312
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_backpack_gengar_0"
     icon_name: "m_backpack_gengar_0_bundle_icon"
@@ -4984,7 +4969,7 @@ item_templates {
     bundle_name: "m_backpack_hgss_bundle"
     asset_name: "m_backpack_hgss_0"
     group_name: "group_backpack"
-    sort_order: 320
+    sort_order: 313
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_POKEDEX_ENTRIES_GEN2
     iap_sku: "pgorelease.avatar.m_backpack_hgss_0"
@@ -5000,7 +4985,7 @@ item_templates {
     bundle_name: "m_backpack_ruinmaniac_bundle"
     asset_name: "m_backpack_ruinmaniac_0"
     group_name: "group_backpack"
-    sort_order: 313
+    sort_order: 306
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_backpack_ruinmaniac_0"
     icon_name: "m_backpack_ruinmaniac_0_bundle_icon"
@@ -5014,7 +4999,7 @@ item_templates {
     bundle_name: "m_backpack_ultra_bundle"
     asset_name: "m_backpack_ultra"
     group_name: "group_backpack"
-    sort_order: 327
+    sort_order: 320
     unlock_type: DEFAULT
     icon_name: "m_backpack_ultra_bundle_icon"
   }
@@ -5027,7 +5012,7 @@ item_templates {
     bundle_name: "m_eyes_asset_bundle"
     asset_name: "m_eyes_0"
     group_name: "group_eyes"
-    sort_order: 329
+    sort_order: 322
     unlock_type: DEFAULT
     icon_name: "m_group_eye"
   }
@@ -5040,7 +5025,7 @@ item_templates {
     bundle_name: "m_eyes_asset_bundle"
     asset_name: "m_eyes_1"
     group_name: "group_eyes"
-    sort_order: 330
+    sort_order: 323
     unlock_type: DEFAULT
     icon_name: "m_group_eye"
   }
@@ -5053,7 +5038,7 @@ item_templates {
     bundle_name: "m_eyes_asset_bundle"
     asset_name: "m_eyes_2"
     group_name: "group_eyes"
-    sort_order: 331
+    sort_order: 324
     unlock_type: DEFAULT
     icon_name: "m_group_eye"
   }
@@ -5066,7 +5051,7 @@ item_templates {
     bundle_name: "m_eyes_asset_bundle"
     asset_name: "m_eyes_3"
     group_name: "group_eyes"
-    sort_order: 332
+    sort_order: 325
     unlock_type: DEFAULT
     icon_name: "m_group_eye"
   }
@@ -5079,7 +5064,7 @@ item_templates {
     bundle_name: "m_eyes_asset_bundle"
     asset_name: "m_eyes_4"
     group_name: "group_eyes"
-    sort_order: 333
+    sort_order: 326
     unlock_type: DEFAULT
     icon_name: "m_group_eye"
   }
@@ -5092,7 +5077,7 @@ item_templates {
     bundle_name: "m_glasses_3d_bundle"
     asset_name: "m_glasses_3d"
     group_name: "group_glasses"
-    sort_order: 334
+    sort_order: 327
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_glasses_3d"
     icon_name: "m_glasses_3d_bundle_icon"
@@ -5106,7 +5091,7 @@ item_templates {
     bundle_name: "m_glasses_empty_bundle"
     asset_name: "m_glasses_empty"
     group_name: "group_glasses"
-    sort_order: 344
+    sort_order: 337
     unlock_type: DEFAULT
     icon_name: "m_glasses_empty_bundle_icon"
   }
@@ -5119,7 +5104,7 @@ item_templates {
     bundle_name: "m_glasses_jogger_bundle"
     asset_name: "m_glasses_jogger_0"
     group_name: "group_glasses"
-    sort_order: 335
+    sort_order: 328
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_TRAVEL_KM
     iap_sku: "pgorelease.avatar.m_glasses_jogger_0"
@@ -5135,7 +5120,7 @@ item_templates {
     bundle_name: "m_glasses_mask_bundle"
     asset_name: "m_glasses_mask_0"
     group_name: "group_glasses"
-    sort_order: 336
+    sort_order: 329
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_glasses_mask_0"
     icon_name: "m_glasses_mask_bundle_icon"
@@ -5149,7 +5134,7 @@ item_templates {
     bundle_name: "m_glasses_mask_bundle"
     asset_name: "m_glasses_mask_1"
     group_name: "group_glasses"
-    sort_order: 337
+    sort_order: 330
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_glasses_mask_1"
     icon_name: "m_glasses_mask_bundle_icon"
@@ -5163,7 +5148,7 @@ item_templates {
     bundle_name: "m_glasses_teardrop_bundle"
     asset_name: "m_glasses_teardrop_0"
     group_name: "group_glasses"
-    sort_order: 338
+    sort_order: 331
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_glasses_teardrop_0"
     icon_name: "m_glasses_teardrop_bundle_icon"
@@ -5177,7 +5162,7 @@ item_templates {
     bundle_name: "m_glasses_thick_bundle"
     asset_name: "m_glasses_thick_0"
     group_name: "group_glasses"
-    sort_order: 339
+    sort_order: 332
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_glasses_thick_0"
     icon_name: "m_glasses_thick_bundle_icon"
@@ -5191,7 +5176,7 @@ item_templates {
     bundle_name: "m_glasses_thick_bundle"
     asset_name: "m_glasses_thick_1"
     group_name: "group_glasses"
-    sort_order: 340
+    sort_order: 333
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_glasses_thick_1"
     icon_name: "m_glasses_thick_bundle_icon"
@@ -5205,7 +5190,7 @@ item_templates {
     bundle_name: "m_glasses_thick_bundle"
     asset_name: "m_glasses_thick_2"
     group_name: "group_glasses"
-    sort_order: 341
+    sort_order: 334
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_glasses_thick_2"
     icon_name: "m_glasses_thick_bundle_icon"
@@ -5219,7 +5204,7 @@ item_templates {
     bundle_name: "m_glasses_thick_bundle"
     asset_name: "m_glasses_thick_3"
     group_name: "group_glasses"
-    sort_order: 342
+    sort_order: 335
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_glasses_thick_3"
     icon_name: "m_glasses_thick_bundle_icon"
@@ -5233,7 +5218,7 @@ item_templates {
     bundle_name: "m_glasses_thick_bundle"
     asset_name: "m_glasses_thick_4"
     group_name: "group_glasses"
-    sort_order: 343
+    sort_order: 336
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_glasses_thick_4"
     icon_name: "m_glasses_thick_bundle_icon"
@@ -5247,7 +5232,7 @@ item_templates {
     bundle_name: "m_gloves_acetrainersm_bundle"
     asset_name: "m_gloves_acetrainersm_0"
     group_name: "group_gloves"
-    sort_order: 346
+    sort_order: 339
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_GREAT_LEAGUE
     iap_sku: "pgorelease.avatar.m_gloves_acetrainersm_0"
@@ -5263,7 +5248,7 @@ item_templates {
     bundle_name: "m_gloves_default_bundle"
     asset_name: "m_gloves_default_0"
     group_name: "group_gloves"
-    sort_order: 354
+    sort_order: 347
     unlock_type: DEFAULT
     icon_name: "m_gloves_default_bundle_icon"
   }
@@ -5276,7 +5261,7 @@ item_templates {
     bundle_name: "m_gloves_default_bundle"
     asset_name: "m_gloves_default_1"
     group_name: "group_gloves"
-    sort_order: 355
+    sort_order: 348
     unlock_type: DEFAULT
     icon_name: "m_gloves_default_bundle_icon"
   }
@@ -5289,7 +5274,7 @@ item_templates {
     bundle_name: "m_gloves_default_bundle"
     asset_name: "m_gloves_default_2"
     group_name: "group_gloves"
-    sort_order: 356
+    sort_order: 349
     unlock_type: DEFAULT
     icon_name: "m_gloves_default_bundle_icon"
   }
@@ -5302,7 +5287,7 @@ item_templates {
     bundle_name: "m_gloves_default_bundle"
     asset_name: "m_gloves_default_3"
     group_name: "group_gloves"
-    sort_order: 357
+    sort_order: 350
     unlock_type: DEFAULT
     icon_name: "m_gloves_default_bundle_icon"
   }
@@ -5315,7 +5300,7 @@ item_templates {
     bundle_name: "m_gloves_delibird_bundle"
     asset_name: "m_gloves_delibird_0"
     group_name: "group_gloves"
-    sort_order: 349
+    sort_order: 342
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_gloves_delibird_0"
     icon_name: "m_gloves_delibird_0_bundle_icon"
@@ -5329,7 +5314,7 @@ item_templates {
     bundle_name: "m_gloves_empty_bundle"
     asset_name: "m_gloves_empty"
     group_name: "group_gloves"
-    sort_order: 358
+    sort_order: 351
     unlock_type: DEFAULT
     icon_name: "m_gloves_empty_bundle_icon"
   }
@@ -5342,7 +5327,7 @@ item_templates {
     bundle_name: "m_gloves_frlg_bundle"
     asset_name: "m_gloves_frlg_0"
     group_name: "group_gloves"
-    sort_order: 350
+    sort_order: 343
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_POKEDEX_ENTRIES
     iap_sku: "pgorelease.avatar.m_gloves_frlg_0"
@@ -5358,7 +5343,7 @@ item_templates {
     bundle_name: "m_gloves_gymleader_bundle"
     asset_name: "m_gloves_gymleader_0"
     group_name: "group_gloves"
-    sort_order: 351
+    sort_order: 344
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_HOURS_DEFENDED
     iap_sku: "pgorelease.avatar.m_gloves_gymleader_0"
@@ -5374,7 +5359,7 @@ item_templates {
     bundle_name: "m_gloves_jogger_bundle"
     asset_name: "m_gloves_jogger"
     group_name: "group_gloves"
-    sort_order: 352
+    sort_order: 345
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_TRAVEL_KM
     iap_sku: "pgorelease.avatar.m_gloves_jogger"
@@ -5390,7 +5375,7 @@ item_templates {
     bundle_name: "m_gloves_teamaqua_bundle"
     asset_name: "m_gloves_teamaqua_0"
     group_name: "group_gloves"
-    sort_order: 348
+    sort_order: 341
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_gloves_teamaqua_0"
     icon_name: "m_gloves_teamaqua_0_bundle_icon"
@@ -5404,7 +5389,7 @@ item_templates {
     bundle_name: "m_gloves_teammagma_bundle"
     asset_name: "m_gloves_teammagma_0"
     group_name: "group_gloves"
-    sort_order: 347
+    sort_order: 340
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_gloves_teammagma_0"
     icon_name: "m_gloves_teammagma_0_bundle_icon"
@@ -5418,7 +5403,7 @@ item_templates {
     bundle_name: "m_gloves_teamrocket_bundle"
     asset_name: "m_gloves_teamrocket_0"
     group_name: "group_gloves"
-    sort_order: 353
+    sort_order: 346
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_gloves_teamrocket_0"
     icon_name: "m_gloves_teamrocket_bundle_icon"
@@ -5432,7 +5417,7 @@ item_templates {
     bundle_name: "m_gloves_teamspark_bundle"
     asset_name: "m_gloves_teamspark_0"
     group_name: "group_gloves"
-    sort_order: 345
+    sort_order: 338
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_gloves_teamspark_0"
     icon_name: "m_gloves_teamspark_0_bundle_icon"
@@ -5446,7 +5431,7 @@ item_templates {
     bundle_name: "m_hair_default_asset_bundle"
     asset_name: "m_hair_default_0"
     group_name: "group_hair"
-    sort_order: 362
+    sort_order: 355
     unlock_type: DEFAULT
     icon_name: "m_group_hair"
   }
@@ -5459,7 +5444,7 @@ item_templates {
     bundle_name: "m_hair_default_asset_bundle"
     asset_name: "m_hair_default_1"
     group_name: "group_hair"
-    sort_order: 366
+    sort_order: 359
     unlock_type: DEFAULT
     icon_name: "m_group_hair"
   }
@@ -5472,7 +5457,7 @@ item_templates {
     bundle_name: "m_hair_default_asset_bundle"
     asset_name: "m_hair_default_10"
     group_name: "group_hair"
-    sort_order: 375
+    sort_order: 368
     unlock_type: DEFAULT
     icon_name: "m_group_hair"
   }
@@ -5485,7 +5470,7 @@ item_templates {
     bundle_name: "m_hair_default_asset_bundle"
     asset_name: "m_hair_default_11"
     group_name: "group_hair"
-    sort_order: 364
+    sort_order: 357
     unlock_type: DEFAULT
     icon_name: "m_group_hair"
   }
@@ -5498,7 +5483,7 @@ item_templates {
     bundle_name: "m_hair_default_asset_bundle"
     asset_name: "m_hair_default_12"
     group_name: "group_hair"
-    sort_order: 365
+    sort_order: 358
     unlock_type: DEFAULT
     icon_name: "m_group_hair"
   }
@@ -5511,7 +5496,7 @@ item_templates {
     bundle_name: "m_hair_default_asset_bundle"
     asset_name: "m_hair_default_13"
     group_name: "group_hair"
-    sort_order: 369
+    sort_order: 362
     unlock_type: DEFAULT
     icon_name: "m_group_hair"
   }
@@ -5524,7 +5509,7 @@ item_templates {
     bundle_name: "m_hair_default_asset_bundle"
     asset_name: "m_hair_default_14"
     group_name: "group_hair"
-    sort_order: 373
+    sort_order: 366
     unlock_type: DEFAULT
     icon_name: "m_group_hair"
   }
@@ -5537,7 +5522,7 @@ item_templates {
     bundle_name: "m_hair_default_asset_bundle"
     asset_name: "m_hair_default_15"
     group_name: "group_hair"
-    sort_order: 374
+    sort_order: 367
     unlock_type: DEFAULT
     icon_name: "m_group_hair"
   }
@@ -5550,7 +5535,7 @@ item_templates {
     bundle_name: "m_hair_default_asset_bundle"
     asset_name: "m_hair_default_16"
     group_name: "group_hair"
-    sort_order: 368
+    sort_order: 361
     unlock_type: DEFAULT
     icon_name: "m_group_hair"
   }
@@ -5563,7 +5548,7 @@ item_templates {
     bundle_name: "m_hair_default_asset_bundle"
     asset_name: "m_hair_default_17"
     group_name: "group_hair"
-    sort_order: 372
+    sort_order: 365
     unlock_type: DEFAULT
     icon_name: "m_group_hair"
   }
@@ -5576,7 +5561,7 @@ item_templates {
     bundle_name: "m_hair_default_asset_bundle"
     asset_name: "m_hair_default_2"
     group_name: "group_hair"
-    sort_order: 359
+    sort_order: 352
     unlock_type: DEFAULT
     icon_name: "m_group_hair"
   }
@@ -5589,7 +5574,7 @@ item_templates {
     bundle_name: "m_hair_default_asset_bundle"
     asset_name: "m_hair_default_3"
     group_name: "group_hair"
-    sort_order: 371
+    sort_order: 364
     unlock_type: DEFAULT
     icon_name: "m_group_hair"
   }
@@ -5602,7 +5587,7 @@ item_templates {
     bundle_name: "m_hair_default_asset_bundle"
     asset_name: "m_hair_default_4"
     group_name: "group_hair"
-    sort_order: 376
+    sort_order: 369
     unlock_type: DEFAULT
     icon_name: "m_group_hair"
   }
@@ -5615,7 +5600,7 @@ item_templates {
     bundle_name: "m_hair_default_asset_bundle"
     asset_name: "m_hair_default_5"
     group_name: "group_hair"
-    sort_order: 361
+    sort_order: 354
     unlock_type: DEFAULT
     icon_name: "m_group_hair"
   }
@@ -5628,7 +5613,7 @@ item_templates {
     bundle_name: "m_hair_default_asset_bundle"
     asset_name: "m_hair_default_6"
     group_name: "group_hair"
-    sort_order: 363
+    sort_order: 356
     unlock_type: DEFAULT
     icon_name: "m_group_hair"
   }
@@ -5641,7 +5626,7 @@ item_templates {
     bundle_name: "m_hair_default_asset_bundle"
     asset_name: "m_hair_default_7"
     group_name: "group_hair"
-    sort_order: 367
+    sort_order: 360
     unlock_type: DEFAULT
     icon_name: "m_group_hair"
   }
@@ -5654,7 +5639,7 @@ item_templates {
     bundle_name: "m_hair_default_asset_bundle"
     asset_name: "m_hair_default_8"
     group_name: "group_hair"
-    sort_order: 360
+    sort_order: 353
     unlock_type: DEFAULT
     icon_name: "m_group_hair"
   }
@@ -5667,7 +5652,7 @@ item_templates {
     bundle_name: "m_hair_default_asset_bundle"
     asset_name: "m_hair_default_9"
     group_name: "group_hair"
-    sort_order: 370
+    sort_order: 363
     unlock_type: DEFAULT
     icon_name: "m_group_hair"
   }
@@ -5680,7 +5665,7 @@ item_templates {
     bundle_name: "m_hat_acetrainersm_bundle"
     asset_name: "m_hat_acetrainersm_0"
     group_name: "group_hat"
-    sort_order: 382
+    sort_order: 375
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_GREAT_LEAGUE
     iap_sku: "pgorelease.avatar.m_hat_acetrainersm_0"
@@ -5696,7 +5681,7 @@ item_templates {
     bundle_name: "m_hat_adventure_bundle"
     asset_name: "m_hat_adventure_0"
     group_name: "group_hat"
-    sort_order: 409
+    sort_order: 402
     unlock_type: DEFAULT
     icon_name: "m_hat_adventure_bundle_icon"
   }
@@ -5709,7 +5694,7 @@ item_templates {
     bundle_name: "m_hat_casket_bundle"
     asset_name: "m_hat_casket_0"
     group_name: "group_hat"
-    sort_order: 393
+    sort_order: 386
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_hat_casket_0"
     icon_name: "m_hat_casket_bundle_icon"
@@ -5723,7 +5708,7 @@ item_templates {
     bundle_name: "m_hat_default_bundle"
     asset_name: "m_hat_default_0"
     group_name: "group_hat"
-    sort_order: 411
+    sort_order: 404
     unlock_type: DEFAULT
     icon_name: "m_hat_default_bundle_icon"
   }
@@ -5736,7 +5721,7 @@ item_templates {
     bundle_name: "m_hat_default_bundle"
     asset_name: "m_hat_default_1"
     group_name: "group_hat"
-    sort_order: 412
+    sort_order: 405
     unlock_type: DEFAULT
     icon_name: "m_hat_default_bundle_icon"
   }
@@ -5749,7 +5734,7 @@ item_templates {
     bundle_name: "m_hat_default_bundle"
     asset_name: "m_hat_default_2"
     group_name: "group_hat"
-    sort_order: 413
+    sort_order: 406
     unlock_type: DEFAULT
     icon_name: "m_hat_default_bundle_icon"
   }
@@ -5762,7 +5747,7 @@ item_templates {
     bundle_name: "m_hat_default_bundle"
     asset_name: "m_hat_default_3"
     group_name: "group_hat"
-    sort_order: 414
+    sort_order: 407
     unlock_type: DEFAULT
     icon_name: "m_hat_default_bundle_icon"
   }
@@ -5775,7 +5760,7 @@ item_templates {
     bundle_name: "m_hat_default_bundle"
     asset_name: "m_hat_default_4"
     group_name: "group_hat"
-    sort_order: 415
+    sort_order: 408
     unlock_type: DEFAULT
     icon_name: "m_hat_default_bundle_icon"
   }
@@ -5788,7 +5773,7 @@ item_templates {
     bundle_name: "m_hat_default_bundle"
     asset_name: "m_hat_default_5"
     group_name: "group_hat"
-    sort_order: 416
+    sort_order: 409
     unlock_type: DEFAULT
     icon_name: "m_hat_default_bundle_icon"
   }
@@ -5801,7 +5786,7 @@ item_templates {
     bundle_name: "m_hat_delibird_bundle"
     asset_name: "m_hat_delibird_0"
     group_name: "group_hat"
-    sort_order: 394
+    sort_order: 387
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_hat_delibird_0"
     icon_name: "m_hat_delibird_0_bundle_icon"
@@ -5815,7 +5800,7 @@ item_templates {
     bundle_name: "m_hat_detectivepikachu_bundle"
     asset_name: "m_hat_detectivepikachu_0"
     group_name: "group_hat"
-    sort_order: 380
+    sort_order: 373
     unlock_type: DEFAULT
     icon_name: "m_hat_detectivepikachu_0_bundle_icon"
   }
@@ -5828,7 +5813,7 @@ item_templates {
     bundle_name: "m_hat_drifloon_bundle"
     asset_name: "m_hat_drifloon_0"
     group_name: "group_hat"
-    sort_order: 395
+    sort_order: 388
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_hat_drifloon_0"
     icon_name: "m_hat_drifloon_0_bundle_icon"
@@ -5842,7 +5827,7 @@ item_templates {
     bundle_name: "m_hat_eeveecap_bundle"
     asset_name: "m_hat_eeveecap_0"
     group_name: "group_hat"
-    sort_order: 405
+    sort_order: 398
     unlock_type: DEFAULT
     icon_name: "m_hat_eeveecap_0_bundle_icon"
   }
@@ -5855,7 +5840,7 @@ item_templates {
     bundle_name: "m_hat_empty_bundle"
     asset_name: "m_hat_empty"
     group_name: "group_hat"
-    sort_order: 417
+    sort_order: 410
     unlock_type: DEFAULT
     icon_name: "m_hat_empty_bundle_icon"
   }
@@ -5868,7 +5853,7 @@ item_templates {
     bundle_name: "m_hat_fedora_bundle"
     asset_name: "m_hat_fedora_0"
     group_name: "group_hat"
-    sort_order: 396
+    sort_order: 389
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_hat_fedora_0"
     icon_name: "m_hat_fedora_bundle_icon"
@@ -5882,7 +5867,7 @@ item_templates {
     bundle_name: "m_hat_fedora_bundle"
     asset_name: "m_hat_fedora_1"
     group_name: "group_hat"
-    sort_order: 397
+    sort_order: 390
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_hat_fedora_1"
     icon_name: "m_hat_fedora_bundle_icon"
@@ -5896,7 +5881,7 @@ item_templates {
     bundle_name: "m_hat_fisher_bundle"
     asset_name: "m_hat_fisher_0"
     group_name: "group_hat"
-    sort_order: 398
+    sort_order: 391
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_BIG_MAGIKARP
     iap_sku: "pgorelease.avatar.m_hat_fisher_0"
@@ -5912,7 +5897,7 @@ item_templates {
     bundle_name: "m_hat_fragment_bundle"
     asset_name: "m_hat_fragment_0"
     group_name: "group_hat"
-    sort_order: 410
+    sort_order: 403
     unlock_type: DEFAULT
     icon_name: "m_hat_fragment_bundle_icon"
   }
@@ -5925,7 +5910,7 @@ item_templates {
     bundle_name: "m_hat_frlg_bundle"
     asset_name: "m_hat_frlg_0"
     group_name: "group_hat"
-    sort_order: 399
+    sort_order: 392
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_POKEDEX_ENTRIES
     iap_sku: "pgorelease.avatar.m_hat_frlg_0"
@@ -5941,7 +5926,7 @@ item_templates {
     bundle_name: "m_hat_gengar_bundle"
     asset_name: "m_hat_gengar_0"
     group_name: "group_hat"
-    sort_order: 400
+    sort_order: 393
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_hat_gengar_0"
     icon_name: "m_hat_gengar_0_bundle_icon"
@@ -5955,7 +5940,7 @@ item_templates {
     bundle_name: "m_hat_hgss_bundle"
     asset_name: "m_hat_hgss_0"
     group_name: "group_hat"
-    sort_order: 401
+    sort_order: 394
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_POKEDEX_ENTRIES_GEN2
     iap_sku: "pgorelease.avatar.m_hat_hgss_0"
@@ -5971,7 +5956,7 @@ item_templates {
     bundle_name: "m_hat_jogger_bundle"
     asset_name: "m_hat_jogger_0"
     group_name: "group_hat"
-    sort_order: 402
+    sort_order: 395
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_TRAVEL_KM
     iap_sku: "pgorelease.avatar.m_hat_jogger_0"
@@ -5987,7 +5972,7 @@ item_templates {
     bundle_name: "m_hat_magikarp_bundle"
     asset_name: "m_hat_magikarp"
     group_name: "group_hat"
-    sort_order: 407
+    sort_order: 400
     unlock_type: DEFAULT
     icon_name: "m_hat_magikarp_bundle_icon"
   }
@@ -6000,7 +5985,7 @@ item_templates {
     bundle_name: "m_hat_meltan_bundle"
     asset_name: "m_hat_meltan_0"
     group_name: "group_hat"
-    sort_order: 381
+    sort_order: 374
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_hat_meltan_0"
     icon_name: "m_hat_meltan_0_bundle_icon"
@@ -6014,7 +5999,7 @@ item_templates {
     bundle_name: "m_hat_mewtwo_bundle"
     asset_name: "m_hat_mewtwo_0"
     group_name: "group_hat"
-    sort_order: 378
+    sort_order: 371
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_hat_mewtwo_0"
     icon_name: "m_hat_mewtwo_0_bundle_icon"
@@ -6028,7 +6013,7 @@ item_templates {
     bundle_name: "m_hat_mimikyu_bundle"
     asset_name: "m_hat_mimikyu_0"
     group_name: "group_hat"
-    sort_order: 408
+    sort_order: 401
     unlock_type: DEFAULT
     icon_name: "m_hat_mimikyu_bundle_icon"
   }
@@ -6041,7 +6026,7 @@ item_templates {
     bundle_name: "m_hat_mismagius_bundle"
     asset_name: "m_hat_mismagius_0"
     group_name: "group_hat"
-    sort_order: 403
+    sort_order: 396
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_hat_mismagius_0"
     icon_name: "m_hat_mismagius_0_bundle_icon"
@@ -6055,7 +6040,7 @@ item_templates {
     bundle_name: "m_hat_pikachucap_bundle"
     asset_name: "m_hat_pikachucap_0"
     group_name: "group_hat"
-    sort_order: 404
+    sort_order: 397
     unlock_type: DEFAULT
     icon_name: "m_hat_pikachucap_0_bundle_icon"
   }
@@ -6068,7 +6053,7 @@ item_templates {
     bundle_name: "m_hat_pikachufan_bundle"
     asset_name: "m_hat_pikachufan_0"
     group_name: "group_hat"
-    sort_order: 391
+    sort_order: 384
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_PIKACHU
     iap_sku: "pgorelease.avatar.m_hat_pikachufan_0"
@@ -6084,7 +6069,7 @@ item_templates {
     bundle_name: "m_hat_pkmncap_bundle"
     asset_name: "m_hat_pkmncap_0"
     group_name: "group_hat"
-    sort_order: 384
+    sort_order: 377
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_hat_pkmncap_0"
     icon_name: "m_hat_pkmncap_0_bundle_icon"
@@ -6098,7 +6083,7 @@ item_templates {
     bundle_name: "m_hat_pkmncap_bundle"
     asset_name: "m_hat_pkmncap_1"
     group_name: "group_hat"
-    sort_order: 385
+    sort_order: 378
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_hat_pkmncap_1"
     icon_name: "m_hat_pkmncap_1_bundle_icon"
@@ -6112,7 +6097,7 @@ item_templates {
     bundle_name: "m_hat_pkmncap_bundle"
     asset_name: "m_hat_pkmncap_2"
     group_name: "group_hat"
-    sort_order: 386
+    sort_order: 379
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_hat_pkmncap_2"
     icon_name: "m_hat_pkmncap_2_bundle_icon"
@@ -6126,7 +6111,7 @@ item_templates {
     bundle_name: "m_hat_ruinmaniac_bundle"
     asset_name: "m_hat_ruinmaniac_0"
     group_name: "group_hat"
-    sort_order: 379
+    sort_order: 372
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_hat_ruinmaniac_0"
     icon_name: "m_hat_ruinmaniac_0_bundle_icon"
@@ -6140,7 +6125,7 @@ item_templates {
     bundle_name: "m_hat_strawhat_bundle"
     asset_name: "m_hat_strawhat_0"
     group_name: "group_hat"
-    sort_order: 377
+    sort_order: 370
     unlock_type: DEFAULT
     icon_name: "m_hat_strawhat_0_bundle_icon"
   }
@@ -6153,7 +6138,7 @@ item_templates {
     bundle_name: "m_hat_teamaqua_bundle"
     asset_name: "m_hat_teamaqua_0"
     group_name: "group_hat"
-    sort_order: 383
+    sort_order: 376
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_hat_teamaqua_0"
     icon_name: "m_hat_teamaqua_0_bundle_icon"
@@ -6167,7 +6152,7 @@ item_templates {
     bundle_name: "m_hat_teamleadercap_bundle"
     asset_name: "m_hat_teamleadercap_0"
     group_name: "group_hat"
-    sort_order: 387
+    sort_order: 380
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_hat_teamleadercap_0"
     icon_name: "m_hat_teamleadercap_0_bundle_icon"
@@ -6181,7 +6166,7 @@ item_templates {
     bundle_name: "m_hat_teamleadercap_bundle"
     asset_name: "m_hat_teamleadercap_1"
     group_name: "group_hat"
-    sort_order: 388
+    sort_order: 381
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_hat_teamleadercap_1"
     icon_name: "m_hat_teamleadercap_1_bundle_icon"
@@ -6195,7 +6180,7 @@ item_templates {
     bundle_name: "m_hat_teamleadercap_bundle"
     asset_name: "m_hat_teamleadercap_2"
     group_name: "group_hat"
-    sort_order: 389
+    sort_order: 382
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_hat_teamleadercap_2"
     icon_name: "m_hat_teamleadercap_2_bundle_icon"
@@ -6209,7 +6194,7 @@ item_templates {
     bundle_name: "m_hat_teamrocket_bundle"
     asset_name: "m_hat_teamrocket_0"
     group_name: "group_hat"
-    sort_order: 390
+    sort_order: 383
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_hat_teamrocket_0"
     icon_name: "m_hat_teamrocket_bundle_icon"
@@ -6223,7 +6208,7 @@ item_templates {
     bundle_name: "m_hat_tophat_bundle"
     asset_name: "m_hat_tophat_0"
     group_name: "group_hat"
-    sort_order: 392
+    sort_order: 385
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_hat_tophat_0"
     icon_name: "m_hat_tophat_bundle_icon"
@@ -6237,7 +6222,7 @@ item_templates {
     bundle_name: "m_hat_ultra_bundle"
     asset_name: "m_hat_ultra_0"
     group_name: "group_hat"
-    sort_order: 406
+    sort_order: 399
     unlock_type: DEFAULT
     icon_name: "m_hat_ultra_bundle_icon"
   }
@@ -6250,7 +6235,7 @@ item_templates {
     bundle_name: "m_pants_acetrainerbw_bundle"
     asset_name: "m_pants_acetrainerbw_0"
     group_name: "group_pants"
-    sort_order: 427
+    sort_order: 420
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_BATTLE_TRAINING_WON
     iap_sku: "pgorelease.avatar.m_pants_acetrainerbw_0"
@@ -6266,7 +6251,7 @@ item_templates {
     bundle_name: "m_pants_acetrainersm_bundle"
     asset_name: "m_pants_acetrainersm_0"
     group_name: "group_pants"
-    sort_order: 428
+    sort_order: 421
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_MASTER_LEAGUE
     iap_sku: "pgorelease.avatar.m_pants_acetrainersm_0"
@@ -6282,7 +6267,7 @@ item_templates {
     bundle_name: "m_pants_backpacker_bundle"
     asset_name: "m_pants_backpacker_0"
     group_name: "group_pants"
-    sort_order: 422
+    sort_order: 415
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_pants_backpacker_0"
     icon_name: "m_pants_backpacker_0_bundle_icon"
@@ -6296,7 +6281,7 @@ item_templates {
     bundle_name: "m_pants_brock_bundle"
     asset_name: "m_pants_brock_0"
     group_name: "group_pants"
-    sort_order: 430
+    sort_order: 423
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_pants_brock_0"
     icon_name: "m_pants_brock_0_bundle_icon"
@@ -6310,7 +6295,7 @@ item_templates {
     bundle_name: "m_pants_casual_0_bundle"
     asset_name: "m_pants_casual_0"
     group_name: "group_pants"
-    sort_order: 423
+    sort_order: 416
     unlock_type: DEFAULT
     icon_name: "m_pants_casual_0_bundle_icon"
   }
@@ -6323,7 +6308,7 @@ item_templates {
     bundle_name: "m_pants_casual_1_bundle"
     asset_name: "m_pants_casual_1"
     group_name: "group_pants"
-    sort_order: 424
+    sort_order: 417
     unlock_type: DEFAULT
     icon_name: "m_pants_casual_1_bundle_icon"
   }
@@ -6336,7 +6321,7 @@ item_templates {
     bundle_name: "m_pants_default_bundle"
     asset_name: "m_pants_default_0"
     group_name: "group_pants"
-    sort_order: 448
+    sort_order: 441
     unlock_type: DEFAULT
     icon_name: "m_pants_default_bundle_icon"
   }
@@ -6349,7 +6334,7 @@ item_templates {
     bundle_name: "m_pants_fisher_bundle"
     asset_name: "m_pants_fisher_0"
     group_name: "group_pants"
-    sort_order: 431
+    sort_order: 424
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_BIG_MAGIKARP
     iap_sku: "pgorelease.avatar.m_pants_fisher_0"
@@ -6365,7 +6350,7 @@ item_templates {
     bundle_name: "m_pants_frlg_bundle"
     asset_name: "m_pants_frlg_0"
     group_name: "group_pants"
-    sort_order: 432
+    sort_order: 425
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_POKEDEX_ENTRIES
     iap_sku: "pgorelease.avatar.m_pants_frlg_0"
@@ -6381,7 +6366,7 @@ item_templates {
     bundle_name: "m_pants_gymleader_bundle"
     asset_name: "m_pants_gymleader_0"
     group_name: "group_pants"
-    sort_order: 433
+    sort_order: 426
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_HOURS_DEFENDED
     iap_sku: "pgorelease.avatar.m_pants_gymleader_0"
@@ -6397,7 +6382,7 @@ item_templates {
     bundle_name: "m_pants_gymleader_bundle"
     asset_name: "m_pants_gymleader_1"
     group_name: "group_pants"
-    sort_order: 434
+    sort_order: 427
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_HOURS_DEFENDED
     iap_sku: "pgorelease.avatar.m_pants_gymleader_1"
@@ -6413,7 +6398,7 @@ item_templates {
     bundle_name: "m_pants_gymleader_bundle"
     asset_name: "m_pants_gymleader_2"
     group_name: "group_pants"
-    sort_order: 435
+    sort_order: 428
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_HOURS_DEFENDED
     iap_sku: "pgorelease.avatar.m_pants_gymleader_2"
@@ -6429,7 +6414,7 @@ item_templates {
     bundle_name: "m_pants_hgss_bundle"
     asset_name: "m_pants_hgss_0"
     group_name: "group_pants"
-    sort_order: 436
+    sort_order: 429
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_POKEDEX_ENTRIES_GEN2
     iap_sku: "pgorelease.avatar.m_pants_hgss_0"
@@ -6445,7 +6430,7 @@ item_templates {
     bundle_name: "m_pants_jogger_bundle"
     asset_name: "m_pants_jogger_0"
     group_name: "group_pants"
-    sort_order: 437
+    sort_order: 430
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_TRAVEL_KM
     iap_sku: "pgorelease.avatar.m_pants_jogger_0"
@@ -6461,7 +6446,7 @@ item_templates {
     bundle_name: "m_pants_mewtwo_bundle"
     asset_name: "m_pants_mewtwo_0"
     group_name: "group_pants"
-    sort_order: 418
+    sort_order: 411
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_pants_mewtwo_0"
     icon_name: "m_pants_mewtwo_0_bundle_icon"
@@ -6475,7 +6460,7 @@ item_templates {
     bundle_name: "m_pants_pikachufan_bundle"
     asset_name: "m_pants_pikachufan_0"
     group_name: "group_pants"
-    sort_order: 438
+    sort_order: 431
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_PIKACHU
     iap_sku: "pgorelease.avatar.m_pants_pikachufan_0"
@@ -6491,7 +6476,7 @@ item_templates {
     bundle_name: "m_pants_skinnyjeans_bundle"
     asset_name: "m_pants_skinnyjeans_0"
     group_name: "group_pants"
-    sort_order: 439
+    sort_order: 432
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_pants_skinnyjeans_0"
     icon_name: "m_pants_skinnyjeans_bundle_icon"
@@ -6505,7 +6490,7 @@ item_templates {
     bundle_name: "m_pants_skinnyjeans_bundle"
     asset_name: "m_pants_skinnyjeans_1"
     group_name: "group_pants"
-    sort_order: 440
+    sort_order: 433
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_pants_skinnyjeans_1"
     icon_name: "m_pants_skinnyjeans_bundle_icon"
@@ -6519,7 +6504,7 @@ item_templates {
     bundle_name: "m_pants_skinnyjeans_bundle"
     asset_name: "m_pants_skinnyjeans_2"
     group_name: "group_pants"
-    sort_order: 441
+    sort_order: 434
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_pants_skinnyjeans_2"
     icon_name: "m_pants_skinnyjeans_bundle_icon"
@@ -6533,7 +6518,7 @@ item_templates {
     bundle_name: "m_pants_sweats_bundle"
     asset_name: "m_pants_sweats_0"
     group_name: "group_pants"
-    sort_order: 442
+    sort_order: 435
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_pants_sweats_0"
     icon_name: "m_pants_sweats_bundle_icon"
@@ -6547,7 +6532,7 @@ item_templates {
     bundle_name: "m_pants_sweats_bundle"
     asset_name: "m_pants_sweats_1"
     group_name: "group_pants"
-    sort_order: 443
+    sort_order: 436
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_pants_sweats_1"
     icon_name: "m_pants_sweats_bundle_icon"
@@ -6561,7 +6546,7 @@ item_templates {
     bundle_name: "m_pants_sweats_bundle"
     asset_name: "m_pants_sweats_2"
     group_name: "group_pants"
-    sort_order: 444
+    sort_order: 437
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_pants_sweats_2"
     icon_name: "m_pants_sweats_bundle_icon"
@@ -6575,7 +6560,7 @@ item_templates {
     bundle_name: "m_pants_sweats_bundle"
     asset_name: "m_pants_sweats_3"
     group_name: "group_pants"
-    sort_order: 445
+    sort_order: 438
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_pants_sweats_3"
     icon_name: "m_pants_sweats_bundle_icon"
@@ -6589,7 +6574,7 @@ item_templates {
     bundle_name: "m_pants_sweats_bundle"
     asset_name: "m_pants_sweats_4"
     group_name: "group_pants"
-    sort_order: 446
+    sort_order: 439
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_pants_sweats_4"
     icon_name: "m_pants_sweats_bundle_icon"
@@ -6603,7 +6588,7 @@ item_templates {
     bundle_name: "m_pants_teamaqua_bundle"
     asset_name: "m_pants_teamaqua_0"
     group_name: "group_pants"
-    sort_order: 426
+    sort_order: 419
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_pants_teamaqua_0"
     icon_name: "m_pants_teamaqua_0_bundle_icon"
@@ -6617,7 +6602,7 @@ item_templates {
     bundle_name: "m_pants_teamblanche_bundle"
     asset_name: "m_pants_teamblanche_0"
     group_name: "group_pants"
-    sort_order: 421
+    sort_order: 414
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_pants_teamblanche_0"
     icon_name: "m_pants_teamblanche_0_bundle_icon"
@@ -6631,7 +6616,7 @@ item_templates {
     bundle_name: "m_pants_teamcandela_bundle"
     asset_name: "m_pants_teamcandela_0"
     group_name: "group_pants"
-    sort_order: 420
+    sort_order: 413
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_pants_teamcandela_0"
     icon_name: "m_pants_teamcandela_0_bundle_icon"
@@ -6645,7 +6630,7 @@ item_templates {
     bundle_name: "m_pants_teammagma_bundle"
     asset_name: "m_pants_teammagma_0"
     group_name: "group_pants"
-    sort_order: 425
+    sort_order: 418
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_pants_teammagma_0"
     icon_name: "m_pants_teammagma_0_bundle_icon"
@@ -6659,7 +6644,7 @@ item_templates {
     bundle_name: "m_pants_teamrocket_bundle"
     asset_name: "m_pants_teamrocket_0"
     group_name: "group_pants"
-    sort_order: 447
+    sort_order: 440
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_pants_teamrocket_0"
     icon_name: "m_pants_teamrocket_bundle_icon"
@@ -6673,7 +6658,7 @@ item_templates {
     bundle_name: "m_pants_teamspark_bundle"
     asset_name: "m_pants_teamspark_0"
     group_name: "group_pants"
-    sort_order: 419
+    sort_order: 412
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_pants_teamspark_0"
     icon_name: "m_pants_teamspark_0_bundle_icon"
@@ -6687,7 +6672,7 @@ item_templates {
     bundle_name: "m_pants_ultra_bundle"
     asset_name: "m_pants_ultra_0"
     group_name: "group_pants"
-    sort_order: 449
+    sort_order: 442
     unlock_type: DEFAULT
     icon_name: "m_pants_ultra_bundle_icon"
   }
@@ -6700,7 +6685,7 @@ item_templates {
     bundle_name: "m_pants_veterantrainerxy_bundle"
     asset_name: "m_pants_veterantrainerxy_0"
     group_name: "group_pants"
-    sort_order: 429
+    sort_order: 422
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_GREAT_LEAGUE
     iap_sku: "pgorelease.avatar.m_pants_veterantrainerxy_0"
@@ -6977,7 +6962,7 @@ item_templates {
     bundle_name: "m_shirt_acetrainerbw_bundle"
     asset_name: "m_shirt_acetrainerbw_0"
     group_name: "group_shirt"
-    sort_order: 467
+    sort_order: 456
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_BATTLE_TRAINING_WON
     iap_sku: "pgorelease.avatar.m_shirt_acetrainerbw_0"
@@ -6993,7 +6978,7 @@ item_templates {
     bundle_name: "m_shirt_acetrainersm_bundle"
     asset_name: "m_shirt_acetrainersm_0"
     group_name: "group_shirt"
-    sort_order: 468
+    sort_order: 457
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_ULTRA_LEAGUE
     iap_sku: "pgorelease.avatar.m_shirt_acetrainersm_0"
@@ -7009,7 +6994,7 @@ item_templates {
     bundle_name: "m_shirt_backpacker_bundle"
     asset_name: "m_shirt_backpacker_0"
     group_name: "group_shirt"
-    sort_order: 459
+    sort_order: 448
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_backpacker_0"
     icon_name: "m_shirt_backpacker_0_bundle_icon"
@@ -7023,7 +7008,7 @@ item_templates {
     bundle_name: "m_shirt_blazer_bundle"
     asset_name: "m_shirt_blazer_0"
     group_name: "group_shirt"
-    sort_order: 487
+    sort_order: 476
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_blazer_0"
     icon_name: "m_shirt_blazer_bundle_icon"
@@ -7037,7 +7022,7 @@ item_templates {
     bundle_name: "m_shirt_brock_bundle"
     asset_name: "m_shirt_brock_0"
     group_name: "group_shirt"
-    sort_order: 473
+    sort_order: 462
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_brock_0"
     icon_name: "m_shirt_brock_0_bundle_icon"
@@ -7051,7 +7036,7 @@ item_templates {
     bundle_name: "m_shirt_casual_0_bundle"
     asset_name: "m_shirt_casual_0"
     group_name: "group_shirt"
-    sort_order: 462
+    sort_order: 451
     unlock_type: DEFAULT
     icon_name: "m_shirt_casual_0_bundle_icon"
   }
@@ -7064,7 +7049,7 @@ item_templates {
     bundle_name: "m_shirt_casual_1_bundle"
     asset_name: "m_shirt_casual_1"
     group_name: "group_shirt"
-    sort_order: 463
+    sort_order: 452
     unlock_type: DEFAULT
     icon_name: "m_shirt_casual_1_bundle_icon"
   }
@@ -7077,7 +7062,7 @@ item_templates {
     bundle_name: "m_shirt_casual_2_bundle"
     asset_name: "m_shirt_casual_2"
     group_name: "group_shirt"
-    sort_order: 464
+    sort_order: 453
     unlock_type: DEFAULT
     icon_name: "m_shirt_casual_2_bundle_icon"
   }
@@ -7090,7 +7075,7 @@ item_templates {
     bundle_name: "m_shirt_casual_3_bundle"
     asset_name: "m_shirt_casual_3"
     group_name: "group_shirt"
-    sort_order: 465
+    sort_order: 454
     unlock_type: DEFAULT
     icon_name: "m_shirt_casual_3_bundle_icon"
   }
@@ -7103,7 +7088,7 @@ item_templates {
     bundle_name: "m_shirt_celebi_bundle"
     asset_name: "m_shirt_celebi_0"
     group_name: "group_shirt"
-    sort_order: 515
+    sort_order: 504
     unlock_type: DEFAULT
     icon_name: "m_shirt_celebi_bundle_icon"
   }
@@ -7116,7 +7101,7 @@ item_templates {
     bundle_name: "m_shirt_default_bundle"
     asset_name: "m_shirt_default_0"
     group_name: "group_shirt"
-    sort_order: 524
+    sort_order: 513
     unlock_type: DEFAULT
     icon_name: "m_shirt_default_0_bundle_icon"
   }
@@ -7129,7 +7114,7 @@ item_templates {
     bundle_name: "m_shirt_default_bundle"
     asset_name: "m_shirt_default_1"
     group_name: "group_shirt"
-    sort_order: 525
+    sort_order: 514
     unlock_type: DEFAULT
     icon_name: "m_shirt_default_1_bundle_icon"
   }
@@ -7142,7 +7127,7 @@ item_templates {
     bundle_name: "m_shirt_default_bundle"
     asset_name: "m_shirt_default_2"
     group_name: "group_shirt"
-    sort_order: 526
+    sort_order: 515
     unlock_type: DEFAULT
     icon_name: "m_shirt_default_2_bundle_icon"
   }
@@ -7155,7 +7140,7 @@ item_templates {
     bundle_name: "m_shirt_default_bundle"
     asset_name: "m_shirt_default_2B"
     group_name: "group_shirt"
-    sort_order: 527
+    sort_order: 516
     unlock_type: DEFAULT
     icon_name: "m_shirt_default_2_bundle_icon"
   }
@@ -7168,7 +7153,7 @@ item_templates {
     bundle_name: "m_shirt_default_bundle"
     asset_name: "m_shirt_default_3"
     group_name: "group_shirt"
-    sort_order: 528
+    sort_order: 517
     unlock_type: DEFAULT
     icon_name: "m_shirt_default_3_bundle_icon"
   }
@@ -7181,7 +7166,7 @@ item_templates {
     bundle_name: "m_shirt_default_bundle"
     asset_name: "m_shirt_default_4"
     group_name: "group_shirt"
-    sort_order: 529
+    sort_order: 518
     unlock_type: DEFAULT
     icon_name: "m_shirt_default_2_bundle_icon"
   }
@@ -7194,7 +7179,7 @@ item_templates {
     bundle_name: "m_shirt_default_bundle"
     asset_name: "m_shirt_default_5"
     group_name: "group_shirt"
-    sort_order: 530
+    sort_order: 519
     unlock_type: DEFAULT
     icon_name: "m_shirt_default_2_bundle_icon"
   }
@@ -7207,7 +7192,7 @@ item_templates {
     bundle_name: "m_shirt_default_bundle"
     asset_name: "m_shirt_default_6"
     group_name: "group_shirt"
-    sort_order: 531
+    sort_order: 520
     unlock_type: DEFAULT
     icon_name: "m_shirt_default_2_bundle_icon"
   }
@@ -7220,7 +7205,7 @@ item_templates {
     bundle_name: "m_shirt_default_bundle"
     asset_name: "m_shirt_default_7"
     group_name: "group_shirt"
-    sort_order: 532
+    sort_order: 521
     unlock_type: DEFAULT
     icon_name: "m_shirt_default_2_bundle_icon"
   }
@@ -7233,7 +7218,7 @@ item_templates {
     bundle_name: "m_shirt_delibird_bundle"
     asset_name: "m_shirt_delibird_0"
     group_name: "group_shirt"
-    sort_order: 472
+    sort_order: 461
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_delibird_0"
     icon_name: "m_shirt_delibird_0_bundle_icon"
@@ -7247,7 +7232,7 @@ item_templates {
     bundle_name: "m_shirt_detectivepikachu_bundle"
     asset_name: "m_shirt_detectivepikachu_0"
     group_name: "group_shirt"
-    sort_order: 461
+    sort_order: 450
     unlock_type: DEFAULT
     icon_name: "m_shirt_detectivepikachu_0_bundle_icon"
   }
@@ -7260,7 +7245,7 @@ item_templates {
     bundle_name: "m_shirt_drifblim_bundle"
     asset_name: "m_shirt_drifblim_0"
     group_name: "group_shirt"
-    sort_order: 474
+    sort_order: 463
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_drifblim_0"
     icon_name: "m_shirt_drifblim_0_bundle_icon"
@@ -7274,7 +7259,7 @@ item_templates {
     bundle_name: "m_shirt_earthday_2018_bundle"
     asset_name: "m_shirt_earthday_2018"
     group_name: "group_shirt"
-    sort_order: 516
+    sort_order: 505
     unlock_type: DEFAULT
     icon_name: "m_shirt_earthday_2018_bundle_icon"
   }
@@ -7287,7 +7272,7 @@ item_templates {
     bundle_name: "m_shirt_fisher_bundle"
     asset_name: "m_shirt_fisher_0"
     group_name: "group_shirt"
-    sort_order: 488
+    sort_order: 477
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_BIG_MAGIKARP
     iap_sku: "pgorelease.avatar.m_shirt_fisher_0"
@@ -7303,7 +7288,7 @@ item_templates {
     bundle_name: "m_shirt_fragment_bundle"
     asset_name: "m_shirt_fragment_0"
     group_name: "group_shirt"
-    sort_order: 517
+    sort_order: 506
     unlock_type: DEFAULT
     icon_name: "m_shirt_fragment_bundle_icon"
   }
@@ -7316,7 +7301,7 @@ item_templates {
     bundle_name: "m_shirt_frlg_bundle"
     asset_name: "m_shirt_frlg_0"
     group_name: "group_shirt"
-    sort_order: 478
+    sort_order: 467
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_POKEDEX_ENTRIES
     iap_sku: "pgorelease.avatar.m_shirt_frlg_0"
@@ -7332,7 +7317,7 @@ item_templates {
     bundle_name: "m_shirt_gengar_bundle"
     asset_name: "m_shirt_gengar_0"
     group_name: "group_shirt"
-    sort_order: 475
+    sort_order: 464
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_gengar_0"
     icon_name: "m_shirt_gengar_0_bundle_icon"
@@ -7346,7 +7331,7 @@ item_templates {
     bundle_name: "m_shirt_gofest_2019_bundle"
     asset_name: "m_shirt_gofest_2019"
     group_name: "group_shirt"
-    sort_order: 460
+    sort_order: 449
     unlock_type: DEFAULT
     icon_name: "m_shirt_gofest_2019_bundle_icon"
   }
@@ -7359,7 +7344,7 @@ item_templates {
     bundle_name: "m_shirt_gymleader_bundle"
     asset_name: "m_shirt_gymleader_0"
     group_name: "group_shirt"
-    sort_order: 482
+    sort_order: 471
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_HOURS_DEFENDED
     iap_sku: "pgorelease.avatar.m_shirt_gymleader_0"
@@ -7375,7 +7360,7 @@ item_templates {
     bundle_name: "m_shirt_gymleader_bundle"
     asset_name: "m_shirt_gymleader_1"
     group_name: "group_shirt"
-    sort_order: 483
+    sort_order: 472
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_HOURS_DEFENDED
     iap_sku: "pgorelease.avatar.m_shirt_gymleader_1"
@@ -7391,7 +7376,7 @@ item_templates {
     bundle_name: "m_shirt_gymleader_bundle"
     asset_name: "m_shirt_gymleader_2"
     group_name: "group_shirt"
-    sort_order: 484
+    sort_order: 473
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_HOURS_DEFENDED
     iap_sku: "pgorelease.avatar.m_shirt_gymleader_2"
@@ -7407,7 +7392,7 @@ item_templates {
     bundle_name: "m_shirt_hgss_bundle"
     asset_name: "m_shirt_hgss_0"
     group_name: "group_shirt"
-    sort_order: 479
+    sort_order: 468
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_POKEDEX_ENTRIES_GEN2
     iap_sku: "pgorelease.avatar.m_shirt_hgss_0"
@@ -7423,7 +7408,7 @@ item_templates {
     bundle_name: "m_shirt_ingress_bundle"
     asset_name: "m_shirt_ingress_0"
     group_name: "group_shirt"
-    sort_order: 518
+    sort_order: 507
     unlock_type: DEFAULT
     icon_name: "m_shirt_ingress_bundle_icon"
   }
@@ -7436,7 +7421,7 @@ item_templates {
     bundle_name: "m_shirt_ingress_e_bundle"
     asset_name: "m_shirt_ingress_e_0"
     group_name: "group_shirt"
-    sort_order: 519
+    sort_order: 508
     unlock_type: DEFAULT
     icon_name: "m_shirt_ingress_e_bundle_icon"
   }
@@ -7449,23 +7434,9 @@ item_templates {
     bundle_name: "m_shirt_ingress_r_bundle"
     asset_name: "m_shirt_ingress_r_0"
     group_name: "group_shirt"
-    sort_order: 520
+    sort_order: 509
     unlock_type: DEFAULT
     icon_name: "m_shirt_ingress_r_bundle_icon"
-  }
-}
-item_templates {
-  template_id: "AVATAR_m_shirt_jirachi"
-  avatar_customization {
-    enabled: true
-    slot: SHIRT
-    bundle_name: "m_shirt_jirachi_bundle"
-    asset_name: "m_shirt_jirachi_0"
-    group_name: "group_shirt"
-    sort_order: 450
-    unlock_type: IAP_CLOTHING
-    iap_sku: "pgorelease.avatar.m_shirt_jirachi_0"
-    icon_name: "m_shirt_jirachi_0_bundle_icon"
   }
 }
 item_templates {
@@ -7476,7 +7447,7 @@ item_templates {
     bundle_name: "m_shirt_jogger_bundle"
     asset_name: "m_shirt_jogger_0"
     group_name: "group_shirt"
-    sort_order: 489
+    sort_order: 478
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_TRAVEL_KM
     iap_sku: "pgorelease.avatar.m_shirt_jogger_0"
@@ -7492,7 +7463,7 @@ item_templates {
     bundle_name: "m_shirt_latias_latios_bundle"
     asset_name: "m_shirt_latias_latios_0"
     group_name: "group_shirt"
-    sort_order: 486
+    sort_order: 475
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_latias_latios_0"
     icon_name: "m_shirt_latias_latios_bundle_icon"
@@ -7506,7 +7477,7 @@ item_templates {
     bundle_name: "m_shirt_longsleeves_bundle"
     asset_name: "m_shirt_longsleeves_charizard_0"
     group_name: "group_shirt"
-    sort_order: 490
+    sort_order: 479
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_longsleeves_charizard_0"
     icon_name: "m_shirt_longsleeves_charizard_bundle_icon"
@@ -7520,7 +7491,7 @@ item_templates {
     bundle_name: "m_shirt_longsleeves_bundle"
     asset_name: "m_shirt_longsleeves_charizard_1"
     group_name: "group_shirt"
-    sort_order: 491
+    sort_order: 480
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_longsleeves_charizard_1"
     icon_name: "m_shirt_longsleeves_charizard_bundle_icon"
@@ -7534,7 +7505,7 @@ item_templates {
     bundle_name: "m_shirt_longsleeves_bundle"
     asset_name: "m_shirt_longsleeves_charizard_2"
     group_name: "group_shirt"
-    sort_order: 492
+    sort_order: 481
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_longsleeves_charizard_2"
     icon_name: "m_shirt_longsleeves_charizard_bundle_icon"
@@ -7548,7 +7519,7 @@ item_templates {
     bundle_name: "m_shirt_longsleeves_bundle"
     asset_name: "m_shirt_longsleeves_pikachu_0"
     group_name: "group_shirt"
-    sort_order: 493
+    sort_order: 482
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_longsleeves_pikachu_0"
     icon_name: "m_shirt_longsleeves_pikachu_bundle_icon"
@@ -7562,7 +7533,7 @@ item_templates {
     bundle_name: "m_shirt_longsleeves_bundle"
     asset_name: "m_shirt_longsleeves_pikachu_1"
     group_name: "group_shirt"
-    sort_order: 494
+    sort_order: 483
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_longsleeves_pikachu_1"
     icon_name: "m_shirt_longsleeves_pikachu_bundle_icon"
@@ -7576,7 +7547,7 @@ item_templates {
     bundle_name: "m_shirt_longsleeves_bundle"
     asset_name: "m_shirt_longsleeves_pikachu_2"
     group_name: "group_shirt"
-    sort_order: 495
+    sort_order: 484
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_longsleeves_pikachu_2"
     icon_name: "m_shirt_longsleeves_pikachu_bundle_icon"
@@ -7590,7 +7561,7 @@ item_templates {
     bundle_name: "m_shirt_meltan_bundle"
     asset_name: "m_shirt_meltan_0"
     group_name: "group_shirt"
-    sort_order: 466
+    sort_order: 455
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_meltan_0"
     icon_name: "m_shirt_meltan_0_bundle_icon"
@@ -7604,7 +7575,7 @@ item_templates {
     bundle_name: "m_shirt_mew_bundle"
     asset_name: "m_shirt_mew_0"
     group_name: "group_shirt"
-    sort_order: 485
+    sort_order: 474
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_mew_0"
     icon_name: "m_shirt_mew_bundle_icon"
@@ -7618,7 +7589,7 @@ item_templates {
     bundle_name: "m_shirt_mewtwo_bundle"
     asset_name: "m_shirt_mewtwo_0"
     group_name: "group_shirt"
-    sort_order: 454
+    sort_order: 443
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_mewtwo_0"
     icon_name: "m_shirt_mewtwo_0_bundle_icon"
@@ -7632,7 +7603,7 @@ item_templates {
     bundle_name: "m_shirt_pikachufan_bundle"
     asset_name: "m_shirt_pikachufan_0"
     group_name: "group_shirt"
-    sort_order: 477
+    sort_order: 466
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_PIKACHU
     iap_sku: "pgorelease.avatar.m_shirt_pikachufan_0"
@@ -7648,7 +7619,7 @@ item_templates {
     bundle_name: "m_shirt_ruinmaniac_bundle"
     asset_name: "m_shirt_ruinmaniac_0"
     group_name: "group_shirt"
-    sort_order: 458
+    sort_order: 447
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_ruinmaniac_0"
     icon_name: "m_shirt_ruinmaniac_0_bundle_icon"
@@ -7662,7 +7633,7 @@ item_templates {
     bundle_name: "m_shirt_spiritomb_bundle"
     asset_name: "m_shirt_spiritomb_0"
     group_name: "group_shirt"
-    sort_order: 476
+    sort_order: 465
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_spiritomb_0"
     icon_name: "m_shirt_spiritomb_0_bundle_icon"
@@ -7676,7 +7647,7 @@ item_templates {
     bundle_name: "m_shirt_sweatshirt_bundle"
     asset_name: "m_shirt_sweatshirt_sporty_0"
     group_name: "group_shirt"
-    sort_order: 496
+    sort_order: 485
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_sweatshirt_sporty_0"
     icon_name: "m_shirt_sweatshirt_sporty_bundle_icon"
@@ -7690,7 +7661,7 @@ item_templates {
     bundle_name: "m_shirt_sweatshirt_bundle"
     asset_name: "m_shirt_sweatshirt_sporty_1"
     group_name: "group_shirt"
-    sort_order: 497
+    sort_order: 486
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_sweatshirt_sporty_1"
     icon_name: "m_shirt_sweatshirt_sporty_bundle_icon"
@@ -7704,7 +7675,7 @@ item_templates {
     bundle_name: "m_shirt_sweatshirt_bundle"
     asset_name: "m_shirt_sweatshirt_sporty_2"
     group_name: "group_shirt"
-    sort_order: 498
+    sort_order: 487
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_sweatshirt_sporty_2"
     icon_name: "m_shirt_sweatshirt_sporty_bundle_icon"
@@ -7718,7 +7689,7 @@ item_templates {
     bundle_name: "m_shirt_sweatshirt_bundle"
     asset_name: "m_shirt_sweatshirt_sporty_3"
     group_name: "group_shirt"
-    sort_order: 499
+    sort_order: 488
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_sweatshirt_sporty_3"
     icon_name: "m_shirt_sweatshirt_sporty_bundle_icon"
@@ -7732,7 +7703,7 @@ item_templates {
     bundle_name: "m_shirt_sweatshirt_bundle"
     asset_name: "m_shirt_sweatshirt_streak_0"
     group_name: "group_shirt"
-    sort_order: 500
+    sort_order: 489
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_sweatshirt_streak_0"
     icon_name: "m_shirt_sweatshirt_streak_bundle_icon"
@@ -7746,7 +7717,7 @@ item_templates {
     bundle_name: "m_shirt_sweatshirt_bundle"
     asset_name: "m_shirt_sweatshirt_streak_1"
     group_name: "group_shirt"
-    sort_order: 501
+    sort_order: 490
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_sweatshirt_streak_1"
     icon_name: "m_shirt_sweatshirt_streak_bundle_icon"
@@ -7760,7 +7731,7 @@ item_templates {
     bundle_name: "m_shirt_sweatshirt_bundle"
     asset_name: "m_shirt_sweatshirt_streak_2"
     group_name: "group_shirt"
-    sort_order: 502
+    sort_order: 491
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_sweatshirt_streak_2"
     icon_name: "m_shirt_sweatshirt_streak_bundle_icon"
@@ -7774,7 +7745,7 @@ item_templates {
     bundle_name: "m_shirt_sweatshirt_bundle"
     asset_name: "m_shirt_sweatshirt_streak_3"
     group_name: "group_shirt"
-    sort_order: 503
+    sort_order: 492
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_sweatshirt_streak_3"
     icon_name: "m_shirt_sweatshirt_streak_bundle_icon"
@@ -7788,7 +7759,7 @@ item_templates {
     bundle_name: "m_shirt_sweatshirt_bundle"
     asset_name: "m_shirt_sweatshirt_streak_4"
     group_name: "group_shirt"
-    sort_order: 504
+    sort_order: 493
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_sweatshirt_streak_4"
     icon_name: "m_shirt_sweatshirt_streak_bundle_icon"
@@ -7802,7 +7773,7 @@ item_templates {
     bundle_name: "m_shirt_teamaqua_bundle"
     asset_name: "m_shirt_teamaqua_0"
     group_name: "group_shirt"
-    sort_order: 471
+    sort_order: 460
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_teamaqua_0"
     icon_name: "m_shirt_teamaqua_0_bundle_icon"
@@ -7816,7 +7787,7 @@ item_templates {
     bundle_name: "m_shirt_teamblanche_bundle"
     asset_name: "m_shirt_teamblanche_0"
     group_name: "group_shirt"
-    sort_order: 457
+    sort_order: 446
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_teamblanche_0"
     icon_name: "m_shirt_teamblanche_0_bundle_icon"
@@ -7830,7 +7801,7 @@ item_templates {
     bundle_name: "m_shirt_teamcandela_bundle"
     asset_name: "m_shirt_teamcandela_0"
     group_name: "group_shirt"
-    sort_order: 456
+    sort_order: 445
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_teamcandela_0"
     icon_name: "m_shirt_teamcandela_0_bundle_icon"
@@ -7844,7 +7815,7 @@ item_templates {
     bundle_name: "m_shirt_teammagma_bundle"
     asset_name: "m_shirt_teammagma_0"
     group_name: "group_shirt"
-    sort_order: 470
+    sort_order: 459
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_teammagma_0"
     icon_name: "m_shirt_teammagma_0_bundle_icon"
@@ -7858,7 +7829,7 @@ item_templates {
     bundle_name: "m_shirt_teamrocket_bundle"
     asset_name: "m_shirt_teamrocket_0"
     group_name: "group_shirt"
-    sort_order: 480
+    sort_order: 469
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_teamrocket_0"
     icon_name: "m_shirt_teamrocket_0_bundle_icon"
@@ -7872,7 +7843,7 @@ item_templates {
     bundle_name: "m_shirt_teamrocket_bundle"
     asset_name: "m_shirt_teamrocket_1"
     group_name: "group_shirt"
-    sort_order: 481
+    sort_order: 470
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_teamrocket_1"
     icon_name: "m_shirt_teamrocket_1_bundle_icon"
@@ -7886,7 +7857,7 @@ item_templates {
     bundle_name: "m_shirt_teamspark_bundle"
     asset_name: "m_shirt_teamspark_0"
     group_name: "group_shirt"
-    sort_order: 455
+    sort_order: 444
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_teamspark_0"
     icon_name: "m_shirt_teamspark_0_bundle_icon"
@@ -7900,7 +7871,7 @@ item_templates {
     bundle_name: "m_shirt_tshirt_bundle"
     asset_name: "m_shirt_tshirt_fest_chicago_2017"
     group_name: "group_shirt"
-    sort_order: 521
+    sort_order: 510
     unlock_type: DEFAULT
     icon_name: "m_shirt_tshirt_fest_chicago_2017_bundle_icon"
   }
@@ -7926,7 +7897,7 @@ item_templates {
     bundle_name: "m_shirt_tshirt_bundle"
     asset_name: "m_shirt_tshirt_geometric_0"
     group_name: "group_shirt"
-    sort_order: 505
+    sort_order: 494
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_tshirt_geometric_0"
     icon_name: "m_shirt_tshirt_geometric_bundle_icon"
@@ -7940,7 +7911,7 @@ item_templates {
     bundle_name: "m_shirt_tshirt_bundle"
     asset_name: "m_shirt_tshirt_geometric_1"
     group_name: "group_shirt"
-    sort_order: 506
+    sort_order: 495
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_tshirt_geometric_1"
     icon_name: "m_shirt_tshirt_geometric_bundle_icon"
@@ -7954,7 +7925,7 @@ item_templates {
     bundle_name: "m_shirt_tshirt_bundle"
     asset_name: "m_shirt_tshirt_geometric_2"
     group_name: "group_shirt"
-    sort_order: 507
+    sort_order: 496
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_tshirt_geometric_2"
     icon_name: "m_shirt_tshirt_geometric_bundle_icon"
@@ -7968,7 +7939,7 @@ item_templates {
     bundle_name: "m_shirt_tshirt_bundle"
     asset_name: "m_shirt_tshirt_global_goals_2017"
     group_name: "group_shirt"
-    sort_order: 522
+    sort_order: 511
     unlock_type: DEFAULT
     icon_name: "m_shirt_tshirt_global_goals_2017_bundle_icon"
   }
@@ -7981,7 +7952,7 @@ item_templates {
     bundle_name: "m_shirt_tshirt_bundle"
     asset_name: "m_shirt_tshirt_instinct"
     group_name: "group_shirt"
-    sort_order: 508
+    sort_order: 497
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_tshirt_instinct"
     icon_name: "m_shirt_tshirt_instinct_bundle_icon"
@@ -7995,7 +7966,7 @@ item_templates {
     bundle_name: "m_shirt_tshirt_bundle"
     asset_name: "m_shirt_tshirt_mystic"
     group_name: "group_shirt"
-    sort_order: 509
+    sort_order: 498
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_tshirt_mystic"
     icon_name: "m_shirt_tshirt_mystic_bundle_icon"
@@ -8009,7 +7980,7 @@ item_templates {
     bundle_name: "m_shirt_tshirt_bundle"
     asset_name: "m_shirt_tshirt_valor"
     group_name: "group_shirt"
-    sort_order: 510
+    sort_order: 499
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_tshirt_valor"
     icon_name: "m_shirt_tshirt_valor_bundle_icon"
@@ -8023,7 +7994,7 @@ item_templates {
     bundle_name: "m_shirt_turtleneck_bundle"
     asset_name: "m_shirt_turtleneck_30_0"
     group_name: "group_shirt"
-    sort_order: 511
+    sort_order: 500
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_turtleneck_30_0"
     icon_name: "m_shirt_turtleneck_30_bundle_icon"
@@ -8038,7 +8009,7 @@ item_templates {
     bundle_name: "m_shirt_turtleneck_bundle"
     asset_name: "m_shirt_turtleneck_30_1"
     group_name: "group_shirt"
-    sort_order: 512
+    sort_order: 501
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_turtleneck_30_1"
     icon_name: "m_shirt_turtleneck_30_bundle_icon"
@@ -8053,7 +8024,7 @@ item_templates {
     bundle_name: "m_shirt_turtleneck_bundle"
     asset_name: "m_shirt_turtleneck_30_2"
     group_name: "group_shirt"
-    sort_order: 513
+    sort_order: 502
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_turtleneck_30_2"
     icon_name: "m_shirt_turtleneck_30_bundle_icon"
@@ -8068,7 +8039,7 @@ item_templates {
     bundle_name: "m_shirt_turtleneck_bundle"
     asset_name: "m_shirt_turtleneck_30_3"
     group_name: "group_shirt"
-    sort_order: 514
+    sort_order: 503
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shirt_turtleneck_30_3"
     icon_name: "m_shirt_turtleneck_30_bundle_icon"
@@ -8083,7 +8054,7 @@ item_templates {
     bundle_name: "m_shirt_ultra_bundle"
     asset_name: "m_shirt_ultra_0"
     group_name: "group_shirt"
-    sort_order: 523
+    sort_order: 512
     unlock_type: DEFAULT
     icon_name: "m_shirt_ultra_bundle_icon"
   }
@@ -8096,7 +8067,7 @@ item_templates {
     bundle_name: "m_shirt_veterantrainerxy_bundle"
     asset_name: "m_shirt_veterantrainerxy_0"
     group_name: "group_shirt"
-    sort_order: 469
+    sort_order: 458
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_ULTRA_LEAGUE
     iap_sku: "pgorelease.avatar.m_shirt_veterantrainerxy_0"
@@ -8112,7 +8083,7 @@ item_templates {
     bundle_name: "m_shoes_acetrainerbw_bundle"
     asset_name: "m_shoes_acetrainerbw_0"
     group_name: "group_shoes"
-    sort_order: 542
+    sort_order: 528
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_BATTLE_TRAINING_WON
     iap_sku: "pgorelease.avatar.m_shoes_acetrainerbw_0"
@@ -8128,7 +8099,7 @@ item_templates {
     bundle_name: "m_shoes_acetrainersm_bundle"
     asset_name: "m_shoes_acetrainersm_0"
     group_name: "group_shoes"
-    sort_order: 543
+    sort_order: 529
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_MASTER_LEAGUE
     iap_sku: "pgorelease.avatar.m_shoes_acetrainersm_0"
@@ -8144,7 +8115,7 @@ item_templates {
     bundle_name: "m_shoes_backpacker_bundle"
     asset_name: "m_shoes_backpacker_0"
     group_name: "group_shoes"
-    sort_order: 541
+    sort_order: 527
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shoes_backpacker_0"
     icon_name: "m_shoes_backpacker_0_bundle_icon"
@@ -8158,7 +8129,7 @@ item_templates {
     bundle_name: "m_shoes_brock_bundle"
     asset_name: "m_shoes_brock_0"
     group_name: "group_shoes"
-    sort_order: 548
+    sort_order: 534
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shoes_brock_0"
     icon_name: "m_shoes_brock_0_bundle_icon"
@@ -8172,7 +8143,7 @@ item_templates {
     bundle_name: "m_shoes_default_bundle"
     asset_name: "m_shoes_default_0"
     group_name: "group_shoes"
-    sort_order: 559
+    sort_order: 545
     unlock_type: DEFAULT
     icon_name: "m_shoes_default_bundle_icon"
   }
@@ -8185,7 +8156,7 @@ item_templates {
     bundle_name: "m_shoes_default_bundle"
     asset_name: "m_shoes_default_1"
     group_name: "group_shoes"
-    sort_order: 560
+    sort_order: 546
     unlock_type: DEFAULT
     icon_name: "m_shoes_default_bundle_icon"
   }
@@ -8198,7 +8169,7 @@ item_templates {
     bundle_name: "m_shoes_default_bundle"
     asset_name: "m_shoes_default_2"
     group_name: "group_shoes"
-    sort_order: 561
+    sort_order: 547
     unlock_type: DEFAULT
     icon_name: "m_shoes_default_bundle_icon"
   }
@@ -8211,7 +8182,7 @@ item_templates {
     bundle_name: "m_shoes_default_bundle"
     asset_name: "m_shoes_default_3"
     group_name: "group_shoes"
-    sort_order: 562
+    sort_order: 548
     unlock_type: DEFAULT
     icon_name: "m_shoes_default_bundle_icon"
   }
@@ -8224,7 +8195,7 @@ item_templates {
     bundle_name: "m_shoes_default_bundle"
     asset_name: "m_shoes_default_4"
     group_name: "group_shoes"
-    sort_order: 563
+    sort_order: 549
     unlock_type: DEFAULT
     icon_name: "m_shoes_default_bundle_icon"
   }
@@ -8237,7 +8208,7 @@ item_templates {
     bundle_name: "m_shoes_default_bundle"
     asset_name: "m_shoes_default_5"
     group_name: "group_shoes"
-    sort_order: 564
+    sort_order: 550
     unlock_type: DEFAULT
     icon_name: "m_shoes_default_bundle_icon"
   }
@@ -8250,7 +8221,7 @@ item_templates {
     bundle_name: "m_shoes_default_bundle"
     asset_name: "m_shoes_default_6"
     group_name: "group_shoes"
-    sort_order: 565
+    sort_order: 551
     unlock_type: DEFAULT
     icon_name: "m_shoes_default_bundle_icon"
   }
@@ -8263,7 +8234,7 @@ item_templates {
     bundle_name: "m_shoes_delibird_bundle"
     asset_name: "m_shoes_delibird_0"
     group_name: "group_shoes"
-    sort_order: 547
+    sort_order: 533
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shoes_delibird_0"
     icon_name: "m_shoes_delibird_0_bundle_icon"
@@ -8277,7 +8248,7 @@ item_templates {
     bundle_name: "m_shoes_empty_bundle"
     asset_name: "m_shoes_empty"
     group_name: "group_shoes"
-    sort_order: 567
+    sort_order: 553
     unlock_type: DEFAULT
     icon_name: "m_shoes_empty_bundle_icon"
   }
@@ -8290,7 +8261,7 @@ item_templates {
     bundle_name: "m_shoes_fisher_bundle"
     asset_name: "m_shoes_fisher_0"
     group_name: "group_shoes"
-    sort_order: 549
+    sort_order: 535
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_BIG_MAGIKARP
     iap_sku: "pgorelease.avatar.m_shoes_fisher_0"
@@ -8306,7 +8277,7 @@ item_templates {
     bundle_name: "m_shoes_frlg_bundle"
     asset_name: "m_shoes_frlg_0"
     group_name: "group_shoes"
-    sort_order: 550
+    sort_order: 536
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_POKEDEX_ENTRIES
     iap_sku: "pgorelease.avatar.m_shoes_frlg_0"
@@ -8322,7 +8293,7 @@ item_templates {
     bundle_name: "m_shoes_gymleader_bundle"
     asset_name: "m_shoes_gymleader_0"
     group_name: "group_shoes"
-    sort_order: 551
+    sort_order: 537
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_HOURS_DEFENDED
     iap_sku: "pgorelease.avatar.m_shoes_gymleader_0"
@@ -8338,7 +8309,7 @@ item_templates {
     bundle_name: "m_shoes_gymleader_bundle"
     asset_name: "m_shoes_gymleader_1"
     group_name: "group_shoes"
-    sort_order: 552
+    sort_order: 538
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_HOURS_DEFENDED
     iap_sku: "pgorelease.avatar.m_shoes_gymleader_1"
@@ -8354,7 +8325,7 @@ item_templates {
     bundle_name: "m_shoes_gymleader_bundle"
     asset_name: "m_shoes_gymleader_2"
     group_name: "group_shoes"
-    sort_order: 553
+    sort_order: 539
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_HOURS_DEFENDED
     iap_sku: "pgorelease.avatar.m_shoes_gymleader_2"
@@ -8370,7 +8341,7 @@ item_templates {
     bundle_name: "m_shoes_hgss_bundle"
     asset_name: "m_shoes_hgss_0"
     group_name: "group_shoes"
-    sort_order: 554
+    sort_order: 540
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_POKEDEX_ENTRIES_GEN2
     iap_sku: "pgorelease.avatar.m_shoes_hgss_0"
@@ -8386,7 +8357,7 @@ item_templates {
     bundle_name: "m_shoes_jogger_bundle"
     asset_name: "m_shoes_jogger_0"
     group_name: "group_shoes"
-    sort_order: 555
+    sort_order: 541
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_TRAVEL_KM
     iap_sku: "pgorelease.avatar.m_shoes_jogger_0"
@@ -8402,7 +8373,7 @@ item_templates {
     bundle_name: "m_shoes_mewtwo_bundle"
     asset_name: "m_shoes_mewtwo_0"
     group_name: "group_shoes"
-    sort_order: 536
+    sort_order: 522
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shoes_mewtwo_0"
     icon_name: "m_shoes_mewtwo_0_bundle_icon"
@@ -8416,7 +8387,7 @@ item_templates {
     bundle_name: "m_shoes_pikachufan_bundle"
     asset_name: "m_shoes_pikachufan_0"
     group_name: "group_shoes"
-    sort_order: 556
+    sort_order: 542
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_PIKACHU
     iap_sku: "pgorelease.avatar.m_shoes_pikachufan_0"
@@ -8432,7 +8403,7 @@ item_templates {
     bundle_name: "m_shoes_ruinmaniac_bundle"
     asset_name: "m_shoes_ruinmaniac_0"
     group_name: "group_shoes"
-    sort_order: 540
+    sort_order: 526
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shoes_ruinmaniac_0"
     icon_name: "m_shoes_ruinmaniac_0_bundle_icon"
@@ -8446,7 +8417,7 @@ item_templates {
     bundle_name: "m_shoes_teamaqua_bundle"
     asset_name: "m_shoes_teamaqua_0"
     group_name: "group_shoes"
-    sort_order: 546
+    sort_order: 532
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shoes_teamaqua_0"
     icon_name: "m_shoes_teamaqua_0_bundle_icon"
@@ -8460,7 +8431,7 @@ item_templates {
     bundle_name: "m_shoes_teamblanche_bundle"
     asset_name: "m_shoes_teamblanche_0"
     group_name: "group_shoes"
-    sort_order: 539
+    sort_order: 525
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shoes_teamblanche_0"
     icon_name: "m_shoes_teamblanche_0_bundle_icon"
@@ -8474,7 +8445,7 @@ item_templates {
     bundle_name: "m_shoes_teamcandela_bundle"
     asset_name: "m_shoes_teamcandela_0"
     group_name: "group_shoes"
-    sort_order: 538
+    sort_order: 524
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shoes_teamcandela_0"
     icon_name: "m_shoes_teamcandela_0_bundle_icon"
@@ -8488,7 +8459,7 @@ item_templates {
     bundle_name: "m_shoes_teammagma_bundle"
     asset_name: "m_shoes_teammagma_0"
     group_name: "group_shoes"
-    sort_order: 545
+    sort_order: 531
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shoes_teammagma_0"
     icon_name: "m_shoes_teammagma_0_bundle_icon"
@@ -8502,7 +8473,7 @@ item_templates {
     bundle_name: "m_shoes_teamrocket_bundle"
     asset_name: "m_shoes_teamrocket_0"
     group_name: "group_shoes"
-    sort_order: 557
+    sort_order: 543
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shoes_teamrocket_0"
     icon_name: "m_shoes_teamrocket_0_bundle_icon"
@@ -8516,7 +8487,7 @@ item_templates {
     bundle_name: "m_shoes_teamrocket_bundle"
     asset_name: "m_shoes_teamrocket_1"
     group_name: "group_shoes"
-    sort_order: 558
+    sort_order: 544
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shoes_teamrocket_1"
     icon_name: "m_shoes_teamrocket_1_bundle_icon"
@@ -8530,7 +8501,7 @@ item_templates {
     bundle_name: "m_shoes_teamspark_bundle"
     asset_name: "m_shoes_teamspark_0"
     group_name: "group_shoes"
-    sort_order: 537
+    sort_order: 523
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.m_shoes_teamspark_0"
     icon_name: "m_shoes_teamspark_0_bundle_icon"
@@ -8544,7 +8515,7 @@ item_templates {
     bundle_name: "m_shoes_ultra_bundle"
     asset_name: "m_shoes_ultra_0"
     group_name: "group_shoes"
-    sort_order: 566
+    sort_order: 552
     unlock_type: DEFAULT
     icon_name: "m_shoes_ultra_bundle_icon"
   }
@@ -8557,7 +8528,7 @@ item_templates {
     bundle_name: "m_shoes_veterantrainerxy_bundle"
     asset_name: "m_shoes_veterantrainerxy_0"
     group_name: "group_shoes"
-    sort_order: 544
+    sort_order: 530
     unlock_type: IAP_CLOTHING
     unlock_badge_type: BADGE_MASTER_LEAGUE
     iap_sku: "pgorelease.avatar.m_shoes_veterantrainerxy_0"
@@ -8572,7 +8543,7 @@ item_templates {
     slot: SKIN
     asset_name: "m_skin_0"
     group_name: "group_skin"
-    sort_order: 571
+    sort_order: 557
     unlock_type: DEFAULT
   }
 }
@@ -8583,7 +8554,7 @@ item_templates {
     slot: SKIN
     asset_name: "m_skin_1"
     group_name: "group_skin"
-    sort_order: 570
+    sort_order: 556
     unlock_type: DEFAULT
   }
 }
@@ -8594,7 +8565,7 @@ item_templates {
     slot: SKIN
     asset_name: "m_skin_10"
     group_name: "group_skin"
-    sort_order: 578
+    sort_order: 564
     unlock_type: DEFAULT
   }
 }
@@ -8605,7 +8576,7 @@ item_templates {
     slot: SKIN
     asset_name: "m_skin_11"
     group_name: "group_skin"
-    sort_order: 579
+    sort_order: 565
     unlock_type: DEFAULT
   }
 }
@@ -8616,7 +8587,7 @@ item_templates {
     slot: SKIN
     asset_name: "m_skin_2"
     group_name: "group_skin"
-    sort_order: 573
+    sort_order: 559
     unlock_type: DEFAULT
   }
 }
@@ -8627,7 +8598,7 @@ item_templates {
     slot: SKIN
     asset_name: "m_skin_3"
     group_name: "group_skin"
-    sort_order: 575
+    sort_order: 561
     unlock_type: DEFAULT
   }
 }
@@ -8638,7 +8609,7 @@ item_templates {
     slot: SKIN
     asset_name: "m_skin_4"
     group_name: "group_skin"
-    sort_order: 568
+    sort_order: 554
     unlock_type: DEFAULT
   }
 }
@@ -8649,7 +8620,7 @@ item_templates {
     slot: SKIN
     asset_name: "m_skin_5"
     group_name: "group_skin"
-    sort_order: 569
+    sort_order: 555
     unlock_type: DEFAULT
   }
 }
@@ -8660,7 +8631,7 @@ item_templates {
     slot: SKIN
     asset_name: "m_skin_6"
     group_name: "group_skin"
-    sort_order: 572
+    sort_order: 558
     unlock_type: DEFAULT
   }
 }
@@ -8671,7 +8642,7 @@ item_templates {
     slot: SKIN
     asset_name: "m_skin_7"
     group_name: "group_skin"
-    sort_order: 574
+    sort_order: 560
     unlock_type: DEFAULT
   }
 }
@@ -8682,7 +8653,7 @@ item_templates {
     slot: SKIN
     asset_name: "m_skin_8"
     group_name: "group_skin"
-    sort_order: 576
+    sort_order: 562
     unlock_type: DEFAULT
   }
 }
@@ -8693,7 +8664,7 @@ item_templates {
     slot: SKIN
     asset_name: "m_skin_9"
     group_name: "group_skin"
-    sort_order: 577
+    sort_order: 563
     unlock_type: DEFAULT
   }
 }
@@ -8705,7 +8676,7 @@ item_templates {
     bundle_name: "m_socks_default_bundle"
     asset_name: "m_socks_default_0"
     group_name: "group_socks"
-    sort_order: 580
+    sort_order: 566
     unlock_type: DEFAULT
     icon_name: "m_socks_default_bundle_icon"
   }
@@ -8718,7 +8689,7 @@ item_templates {
     bundle_name: "m_socks_default_bundle"
     asset_name: "m_socks_default_1"
     group_name: "group_socks"
-    sort_order: 581
+    sort_order: 567
     unlock_type: DEFAULT
     icon_name: "m_socks_default_bundle_icon"
   }
@@ -8731,7 +8702,7 @@ item_templates {
     bundle_name: "m_socks_default_bundle"
     asset_name: "m_socks_default_2"
     group_name: "group_socks"
-    sort_order: 582
+    sort_order: 568
     unlock_type: DEFAULT
     icon_name: "m_socks_default_bundle_icon"
   }
@@ -8744,7 +8715,7 @@ item_templates {
     bundle_name: "m_socks_default_bundle"
     asset_name: "m_socks_default_3"
     group_name: "group_socks"
-    sort_order: 583
+    sort_order: 569
     unlock_type: DEFAULT
     icon_name: "m_socks_default_bundle_icon"
   }
@@ -8757,7 +8728,7 @@ item_templates {
     bundle_name: "m_socks_empty_bundle"
     asset_name: "m_socks_empty"
     group_name: "group_socks"
-    sort_order: 584
+    sort_order: 570
     unlock_type: DEFAULT
     icon_name: "m_socks_empty_bundle_icon"
   }
@@ -12850,20 +12821,6 @@ item_templates {
     buffs {
       target_defense_stat_stage_change: -1
       buff_activation_chance: 0.1
-    }
-  }
-}
-item_templates {
-  template_id: "COMBAT_V0305_MOVE_CRABHAMMER"
-  combat_move {
-    unique_id: CRABHAMMER
-    type: POKEMON_TYPE_WATER
-    power: 75
-    vfx_name: "crabhammer"
-    energy_delta: -50
-    buffs {
-      attacker_attack_stat_stage_change: 2
-      buff_activation_chance: 0.125
     }
   }
 }
@@ -27623,7 +27580,7 @@ item_templates {
     weight_std_dev: 1.125
     family_id: FAMILY_SQUIRTLE
     candy_to_evolve: 25
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.43
     evolution_branch {
       evolution: WARTORTLE
@@ -27702,7 +27659,7 @@ item_templates {
     weight_std_dev: 1.125
     family_id: FAMILY_SQUIRTLE
     candy_to_evolve: 25
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.43
     evolution_branch {
       evolution: WARTORTLE
@@ -27782,7 +27739,7 @@ item_templates {
     weight_std_dev: 1.125
     family_id: FAMILY_SQUIRTLE
     candy_to_evolve: 25
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.43
     evolution_branch {
       evolution: WARTORTLE
@@ -27862,7 +27819,7 @@ item_templates {
     weight_std_dev: 1.125
     family_id: FAMILY_SQUIRTLE
     candy_to_evolve: 25
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.43
     evolution_branch {
       evolution: WARTORTLE
@@ -27945,7 +27902,7 @@ item_templates {
     weight_std_dev: 2.8125
     family_id: FAMILY_SQUIRTLE
     candy_to_evolve: 100
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 1
     evolution_branch {
       evolution: BLASTOISE
@@ -28027,7 +27984,7 @@ item_templates {
     weight_std_dev: 2.8125
     family_id: FAMILY_SQUIRTLE
     candy_to_evolve: 100
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 1
     evolution_branch {
       evolution: BLASTOISE
@@ -28110,7 +28067,7 @@ item_templates {
     weight_std_dev: 2.8125
     family_id: FAMILY_SQUIRTLE
     candy_to_evolve: 100
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 1
     evolution_branch {
       evolution: BLASTOISE
@@ -28193,7 +28150,7 @@ item_templates {
     weight_std_dev: 2.8125
     family_id: FAMILY_SQUIRTLE
     candy_to_evolve: 100
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 1
     evolution_branch {
       evolution: BLASTOISE
@@ -28275,7 +28232,7 @@ item_templates {
     height_std_dev: 0.2
     weight_std_dev: 10.6875
     family_id: FAMILY_SQUIRTLE
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.39
     model_scale_v2: 1.15
@@ -28352,7 +28309,7 @@ item_templates {
     height_std_dev: 0.2
     weight_std_dev: 10.6875
     family_id: FAMILY_SQUIRTLE
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.39
     model_scale_v2: 1.15
@@ -28430,7 +28387,7 @@ item_templates {
     height_std_dev: 0.2
     weight_std_dev: 10.6875
     family_id: FAMILY_SQUIRTLE
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.39
     model_scale_v2: 1.15
@@ -28508,7 +28465,7 @@ item_templates {
     height_std_dev: 0.2
     weight_std_dev: 10.6875
     family_id: FAMILY_SQUIRTLE
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.39
     model_scale_v2: 1.15
@@ -35181,7 +35138,7 @@ item_templates {
     weight_std_dev: 2.45
     family_id: FAMILY_PSYDUCK
     candy_to_evolve: 50
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.9
     evolution_branch {
       evolution: GOLDUCK
@@ -35260,7 +35217,7 @@ item_templates {
     height_std_dev: 0.2125
     weight_std_dev: 9.575
     family_id: FAMILY_PSYDUCK
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.4
     model_scale_v2: 1.13
@@ -35741,7 +35698,7 @@ item_templates {
     weight_std_dev: 1.55
     family_id: FAMILY_POLIWAG
     candy_to_evolve: 25
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.6
     evolution_branch {
       evolution: POLIWHIRL
@@ -35820,7 +35777,7 @@ item_templates {
     weight_std_dev: 1.55
     family_id: FAMILY_POLIWAG
     candy_to_evolve: 25
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.6
     evolution_branch {
       evolution: POLIWHIRL
@@ -35900,7 +35857,7 @@ item_templates {
     weight_std_dev: 1.55
     family_id: FAMILY_POLIWAG
     candy_to_evolve: 25
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.6
     evolution_branch {
       evolution: POLIWHIRL
@@ -35980,7 +35937,7 @@ item_templates {
     weight_std_dev: 1.55
     family_id: FAMILY_POLIWAG
     candy_to_evolve: 25
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.6
     evolution_branch {
       evolution: POLIWHIRL
@@ -36063,7 +36020,7 @@ item_templates {
     weight_std_dev: 2.5
     family_id: FAMILY_POLIWAG
     candy_to_evolve: 100
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.05
     evolution_branch {
@@ -36152,7 +36109,7 @@ item_templates {
     weight_std_dev: 2.5
     family_id: FAMILY_POLIWAG
     candy_to_evolve: 100
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.05
     evolution_branch {
@@ -36242,7 +36199,7 @@ item_templates {
     weight_std_dev: 2.5
     family_id: FAMILY_POLIWAG
     candy_to_evolve: 100
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.05
     evolution_branch {
@@ -36332,7 +36289,7 @@ item_templates {
     weight_std_dev: 2.5
     family_id: FAMILY_POLIWAG
     candy_to_evolve: 100
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.05
     evolution_branch {
@@ -36441,7 +36398,7 @@ item_templates {
     height_std_dev: 0.1625
     weight_std_dev: 6.75
     family_id: FAMILY_POLIWAG
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.42
     model_scale_v2: 1
@@ -36519,7 +36476,7 @@ item_templates {
     height_std_dev: 0.1625
     weight_std_dev: 6.75
     family_id: FAMILY_POLIWAG
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.42
     model_scale_v2: 1
@@ -36598,7 +36555,7 @@ item_templates {
     height_std_dev: 0.1625
     weight_std_dev: 6.75
     family_id: FAMILY_POLIWAG
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.42
     model_scale_v2: 1
@@ -36677,7 +36634,7 @@ item_templates {
     height_std_dev: 0.1625
     weight_std_dev: 6.75
     family_id: FAMILY_POLIWAG
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.42
     model_scale_v2: 1
@@ -37628,7 +37585,7 @@ item_templates {
     weight_std_dev: 5.6875
     family_id: FAMILY_TENTACOOL
     candy_to_evolve: 50
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.9
     evolution_branch {
       evolution: TENTACRUEL
@@ -37710,7 +37667,7 @@ item_templates {
     height_std_dev: 0.2
     weight_std_dev: 6.875
     family_id: FAMILY_TENTACOOL
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.6
     model_scale_v2: 1
@@ -38771,7 +38728,7 @@ item_templates {
     weight_std_dev: 4.5
     family_id: FAMILY_SLOWPOKE
     candy_to_evolve: 50
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 1.52
     evolution_branch {
       evolution: SLOWBRO
@@ -38875,7 +38832,7 @@ item_templates {
     height_std_dev: 0.2
     weight_std_dev: 9.8125
     family_id: FAMILY_SLOWPOKE
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.46
     model_scale_v2: 1
@@ -39442,7 +39399,7 @@ item_templates {
     weight_std_dev: 11.25
     family_id: FAMILY_SEEL
     candy_to_evolve: 50
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.8
     evolution_branch {
       evolution: DEWGONG
@@ -39542,7 +39499,7 @@ item_templates {
     height_std_dev: 0.2125
     weight_std_dev: 15
     family_id: FAMILY_SEEL
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.89
     model_scale_v2: 1
     buddy_offset_male: 0
@@ -40497,7 +40454,7 @@ item_templates {
     weight_std_dev: 0.5
     family_id: FAMILY_SHELLDER
     candy_to_evolve: 50
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.3
     evolution_branch {
       evolution: CLOYSTER
@@ -40597,7 +40554,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 16.5625
     family_id: FAMILY_SHELLDER
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.5
     model_scale_v2: 1
@@ -41718,7 +41675,7 @@ item_templates {
     weight_std_dev: 0.8125
     family_id: FAMILY_KRABBY
     candy_to_evolve: 50
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.71
     evolution_branch {
       evolution: KINGLER
@@ -41804,7 +41761,6 @@ item_templates {
     cinematic_moves: VICE_GRIP
     cinematic_moves: X_SCISSOR
     cinematic_moves: WATER_PULSE
-    cinematic_moves: CRABHAMMER
     animation_time: 2.2667
     animation_time: 0.6667
     animation_time: 1.8
@@ -41820,7 +41776,7 @@ item_templates {
     height_std_dev: 0.1625
     weight_std_dev: 7.5
     family_id: FAMILY_KRABBY
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.37
     model_scale_v2: 1
@@ -44129,7 +44085,7 @@ item_templates {
     weight_std_dev: 1
     family_id: FAMILY_HORSEA
     candy_to_evolve: 50
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.4
     evolution_branch {
       evolution: SEADRA
@@ -44228,7 +44184,7 @@ item_templates {
     height_std_dev: 0.15
     weight_std_dev: 3.125
     family_id: FAMILY_HORSEA
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.2
     evolution_branch {
@@ -44327,7 +44283,7 @@ item_templates {
     weight_std_dev: 1.875
     family_id: FAMILY_GOLDEEN
     candy_to_evolve: 50
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.5
     evolution_branch {
       evolution: SEAKING
@@ -44407,7 +44363,7 @@ item_templates {
     height_std_dev: 0.1625
     weight_std_dev: 4.875
     family_id: FAMILY_GOLDEEN
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.36
     model_scale_v2: 1
@@ -44482,7 +44438,7 @@ item_templates {
     weight_std_dev: 4.3125
     family_id: FAMILY_STARYU
     candy_to_evolve: 50
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 0.8
     evolution_branch {
@@ -44584,7 +44540,7 @@ item_templates {
     height_std_dev: 0.1375
     weight_std_dev: 10
     family_id: FAMILY_STARYU
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.08
     model_scale_v2: 1
@@ -45568,7 +45524,7 @@ item_templates {
     weight_std_dev: 1.25
     family_id: FAMILY_MAGIKARP
     candy_to_evolve: 400
-    km_buddy_distance: 0.5
+    km_buddy_distance: 1
     model_height: 0.85
     evolution_branch {
       evolution: GYARADOS
@@ -45643,7 +45599,7 @@ item_templates {
     weight_std_dev: 1.25
     family_id: FAMILY_MAGIKARP
     candy_to_evolve: 400
-    km_buddy_distance: 0.5
+    km_buddy_distance: 1
     model_height: 0.85
     evolution_branch {
       evolution: GYARADOS
@@ -45719,7 +45675,7 @@ item_templates {
     weight_std_dev: 1.25
     family_id: FAMILY_MAGIKARP
     candy_to_evolve: 400
-    km_buddy_distance: 0.5
+    km_buddy_distance: 1
     model_height: 0.85
     evolution_branch {
       evolution: GYARADOS
@@ -45795,7 +45751,7 @@ item_templates {
     weight_std_dev: 1.25
     family_id: FAMILY_MAGIKARP
     candy_to_evolve: 400
-    km_buddy_distance: 0.5
+    km_buddy_distance: 1
     model_height: 0.85
     evolution_branch {
       evolution: GYARADOS
@@ -45878,7 +45834,7 @@ item_templates {
     height_std_dev: 0.8125
     weight_std_dev: 29.375
     family_id: FAMILY_MAGIKARP
-    km_buddy_distance: 0.5
+    km_buddy_distance: 1
     buddy_size: BUDDY_BIG
     model_height: 5.56
     model_scale_v2: 0.62
@@ -45956,7 +45912,7 @@ item_templates {
     height_std_dev: 0.8125
     weight_std_dev: 29.375
     family_id: FAMILY_MAGIKARP
-    km_buddy_distance: 0.5
+    km_buddy_distance: 1
     buddy_size: BUDDY_BIG
     model_height: 5.56
     model_scale_v2: 0.62
@@ -46035,7 +45991,7 @@ item_templates {
     height_std_dev: 0.8125
     weight_std_dev: 29.375
     family_id: FAMILY_MAGIKARP
-    km_buddy_distance: 0.5
+    km_buddy_distance: 1
     buddy_size: BUDDY_BIG
     model_height: 5.56
     model_scale_v2: 0.62
@@ -46114,7 +46070,7 @@ item_templates {
     height_std_dev: 0.8125
     weight_std_dev: 29.375
     family_id: FAMILY_MAGIKARP
-    km_buddy_distance: 0.5
+    km_buddy_distance: 1
     buddy_size: BUDDY_BIG
     model_height: 5.56
     model_scale_v2: 0.62
@@ -46209,7 +46165,7 @@ item_templates {
     height_std_dev: 0.3125
     weight_std_dev: 27.5
     family_id: FAMILY_LAPRAS
-    km_buddy_distance: 2.5
+    km_buddy_distance: 5
     buddy_size: BUDDY_BIG
     model_height: 2.57
     model_scale_v2: 0.97
@@ -46523,7 +46479,7 @@ item_templates {
     height_std_dev: 0.125
     weight_std_dev: 3.625
     family_id: FAMILY_EEVEE
-    km_buddy_distance: 2.5
+    km_buddy_distance: 5
     model_height: 0.89
     model_scale_v2: 1
     buddy_offset_male: 0
@@ -46893,7 +46849,7 @@ item_templates {
     weight_std_dev: 0.9375
     family_id: FAMILY_OMANYTE
     candy_to_evolve: 50
-    km_buddy_distance: 2.5
+    km_buddy_distance: 5
     model_height: 0.4
     evolution_branch {
       evolution: OMASTAR
@@ -46973,7 +46929,7 @@ item_templates {
     height_std_dev: 0.125
     weight_std_dev: 4.375
     family_id: FAMILY_OMANYTE
-    km_buddy_distance: 2.5
+    km_buddy_distance: 5
     buddy_size: BUDDY_BIG
     model_height: 1
     model_scale_v2: 1
@@ -47049,7 +47005,7 @@ item_templates {
     weight_std_dev: 1.4375
     family_id: FAMILY_KABUTO
     candy_to_evolve: 50
-    km_buddy_distance: 2.5
+    km_buddy_distance: 5
     model_height: 0.5
     evolution_branch {
       evolution: KABUTOPS
@@ -47130,7 +47086,7 @@ item_templates {
     height_std_dev: 0.1625
     weight_std_dev: 5.0625
     family_id: FAMILY_KABUTO
-    km_buddy_distance: 2.5
+    km_buddy_distance: 5
     buddy_size: BUDDY_BIG
     model_height: 1.25
     model_scale_v2: 1
@@ -49648,7 +49604,7 @@ item_templates {
     weight_std_dev: 1.1875
     family_id: FAMILY_TOTODILE
     candy_to_evolve: 25
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.57
     evolution_branch {
       evolution: CROCONAW
@@ -49729,7 +49685,7 @@ item_templates {
     weight_std_dev: 3.125
     family_id: FAMILY_TOTODILE
     candy_to_evolve: 100
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 1.05
     evolution_branch {
       evolution: FERALIGATR
@@ -49808,7 +49764,7 @@ item_templates {
     height_std_dev: 0.28875
     weight_std_dev: 11.1
     family_id: FAMILY_TOTODILE
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 2.05
     model_scale_v2: 0.99
@@ -50851,7 +50807,7 @@ item_templates {
     weight_std_dev: 1.5
     family_id: FAMILY_CHINCHOU
     candy_to_evolve: 50
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.6
     evolution_branch {
       evolution: LANTURN
@@ -50932,7 +50888,7 @@ item_templates {
     height_std_dev: 0.14875
     weight_std_dev: 2.8125
     family_id: FAMILY_CHINCHOU
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.4
     model_scale_v2: 1
@@ -51893,7 +51849,7 @@ item_templates {
     weight_std_dev: 1.0625
     family_id: FAMILY_MARILL
     candy_to_evolve: 25
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.41
     evolution_branch {
       evolution: AZUMARILL
@@ -51973,7 +51929,7 @@ item_templates {
     height_std_dev: 0.09875
     weight_std_dev: 3.5625
     family_id: FAMILY_MARILL
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.72
     model_scale_v2: 1
     buddy_offset_male: 0
@@ -52125,7 +52081,7 @@ item_templates {
     height_std_dev: 0.13625
     weight_std_dev: 4.2375
     family_id: FAMILY_POLIWAG
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 1.1
     model_scale_v2: 1
     buddy_offset_male: 5.7
@@ -52203,7 +52159,7 @@ item_templates {
     height_std_dev: 0.13625
     weight_std_dev: 4.2375
     family_id: FAMILY_POLIWAG
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 1.1
     model_scale_v2: 1
     form: 244
@@ -52282,7 +52238,7 @@ item_templates {
     height_std_dev: 0.13625
     weight_std_dev: 4.2375
     family_id: FAMILY_POLIWAG
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 1.1
     model_scale_v2: 1
     form: 246
@@ -52361,7 +52317,7 @@ item_templates {
     height_std_dev: 0.13625
     weight_std_dev: 4.2375
     family_id: FAMILY_POLIWAG
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 1.1
     model_scale_v2: 1
     form: 245
@@ -53009,7 +52965,7 @@ item_templates {
     weight_std_dev: 1.0625
     family_id: FAMILY_WOOPER
     candy_to_evolve: 50
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.4
     evolution_branch {
       evolution: QUAGSIRE
@@ -53093,7 +53049,7 @@ item_templates {
     height_std_dev: 0.175
     weight_std_dev: 9.375
     family_id: FAMILY_WOOPER
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.4
     model_scale_v2: 1
@@ -53400,7 +53356,7 @@ item_templates {
     height_std_dev: 0.25125
     weight_std_dev: 9.9375
     family_id: FAMILY_SLOWPOKE
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 2
     model_scale_v2: 1
@@ -54543,7 +54499,7 @@ item_templates {
     height_std_dev: 0.06375
     weight_std_dev: 0.4875
     family_id: FAMILY_QWILFISH
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.5
     model_scale_v2: 1
     buddy_offset_male: 13.79
@@ -55831,7 +55787,7 @@ item_templates {
     height_std_dev: 0.07625
     weight_std_dev: 0.625
     family_id: FAMILY_CORSOLA
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.6
     model_scale_v2: 1
     buddy_offset_male: 0
@@ -55924,7 +55880,7 @@ item_templates {
     weight_std_dev: 1.5
     family_id: FAMILY_REMORAID
     candy_to_evolve: 50
-    km_buddy_distance: 0.5
+    km_buddy_distance: 1
     model_height: 0.55
     evolution_branch {
       evolution: OCTILLERY
@@ -56022,7 +55978,7 @@ item_templates {
     height_std_dev: 0.11125
     weight_std_dev: 3.5625
     family_id: FAMILY_REMORAID
-    km_buddy_distance: 0.5
+    km_buddy_distance: 1
     model_height: 0.92
     model_scale_v2: 1
     buddy_offset_male: 0
@@ -56205,7 +56161,7 @@ item_templates {
     height_std_dev: 0.26375
     weight_std_dev: 27.5
     family_id: FAMILY_MANTINE
-    km_buddy_distance: 2.5
+    km_buddy_distance: 5
     buddy_size: BUDDY_BIG
     model_height: 2.1
     model_scale_v2: 0.99
@@ -57064,7 +57020,7 @@ item_templates {
     height_std_dev: 0.225
     weight_std_dev: 19
     family_id: FAMILY_HORSEA
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.8
     model_scale_v2: 1
@@ -58490,7 +58446,7 @@ item_templates {
     height_std_dev: 0.25125
     weight_std_dev: 23.375
     family_id: FAMILY_SUICUNE
-    km_buddy_distance: 10
+    km_buddy_distance: 20
     buddy_size: BUDDY_BIG
     model_height: 2.1
     model_scale_v2: 0.99
@@ -59742,7 +59698,7 @@ item_templates {
     height_std_dev: 0.05125
     weight_std_dev: 0.95
     family_id: FAMILY_MUDKIP
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.4
     evolution_branch {
       evolution: MARSHTOMP
@@ -59822,7 +59778,7 @@ item_templates {
     height_std_dev: 0.05125
     weight_std_dev: 0.95
     family_id: FAMILY_MUDKIP
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.4
     evolution_branch {
       evolution: MARSHTOMP
@@ -59903,7 +59859,7 @@ item_templates {
     height_std_dev: 0.05125
     weight_std_dev: 0.95
     family_id: FAMILY_MUDKIP
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.4
     evolution_branch {
       evolution: MARSHTOMP
@@ -59984,7 +59940,7 @@ item_templates {
     height_std_dev: 0.05125
     weight_std_dev: 0.95
     family_id: FAMILY_MUDKIP
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.4
     evolution_branch {
       evolution: MARSHTOMP
@@ -60088,7 +60044,7 @@ item_templates {
     height_std_dev: 0.08875
     weight_std_dev: 3.5
     family_id: FAMILY_MUDKIP
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.7
     evolution_branch {
       evolution: SWAMPERT
@@ -60169,7 +60125,7 @@ item_templates {
     height_std_dev: 0.08875
     weight_std_dev: 3.5
     family_id: FAMILY_MUDKIP
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.7
     evolution_branch {
       evolution: SWAMPERT
@@ -60251,7 +60207,7 @@ item_templates {
     height_std_dev: 0.08875
     weight_std_dev: 3.5
     family_id: FAMILY_MUDKIP
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.7
     evolution_branch {
       evolution: SWAMPERT
@@ -60333,7 +60289,7 @@ item_templates {
     height_std_dev: 0.08875
     weight_std_dev: 3.5
     family_id: FAMILY_MUDKIP
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.7
     evolution_branch {
       evolution: SWAMPERT
@@ -60434,7 +60390,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 10.2375
     family_id: FAMILY_MUDKIP
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.8
     model_scale_v2: 1
@@ -60512,7 +60468,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 10.2375
     family_id: FAMILY_MUDKIP
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.8
     model_scale_v2: 1
@@ -60591,7 +60547,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 10.2375
     family_id: FAMILY_MUDKIP
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.8
     model_scale_v2: 1
@@ -60670,7 +60626,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 10.2375
     family_id: FAMILY_MUDKIP
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.8
     model_scale_v2: 1
@@ -61641,7 +61597,7 @@ item_templates {
     height_std_dev: 0.06375
     weight_std_dev: 0.325
     family_id: FAMILY_LOTAD
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 0.4074074
     evolution_branch {
@@ -61740,7 +61696,7 @@ item_templates {
     height_std_dev: 0.14875
     weight_std_dev: 4.0625
     family_id: FAMILY_LOTAD
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.1086956
     evolution_branch {
@@ -61841,7 +61797,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 6.875
     family_id: FAMILY_LOTAD
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.9642857
     model_scale_v2: 1
@@ -62425,7 +62381,7 @@ item_templates {
     height_std_dev: 0.07625
     weight_std_dev: 1.1875
     family_id: FAMILY_WINGULL
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_FLYING
     model_height: 1.7341464
     evolution_branch {
@@ -62526,7 +62482,7 @@ item_templates {
     height_std_dev: 0.14875
     weight_std_dev: 3.5
     family_id: FAMILY_WINGULL
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_FLYING
     model_height: 2.5828571
     model_scale_v2: 0.96
@@ -63659,7 +63615,7 @@ item_templates {
     height_std_dev: 0.06375
     weight_std_dev: 0.2125
     family_id: FAMILY_SURSKIT
-    km_buddy_distance: 0.5
+    km_buddy_distance: 1
     model_height: 0.5
     evolution_branch {
       evolution: MASQUERAIN
@@ -65707,24 +65663,6 @@ item_templates {
   }
 }
 item_templates {
-  template_id: "V0305_MOVE_CRABHAMMER"
-  move_settings {
-    movement_id: CRABHAMMER
-    animation_id: 5
-    pokemon_type: POKEMON_TYPE_WATER
-    power: 85
-    accuracy_chance: 1
-    stamina_loss_scalar: 0.01
-    trainer_level_min: 1
-    trainer_level_max: 100
-    vfx_name: "crabhammer"
-    duration_ms: 1900
-    damage_window_start_ms: 1500
-    damage_window_end_ms: 1750
-    energy_delta: -50
-  }
-}
-item_templates {
   template_id: "V0305_POKEMON_LAIRON"
   pokemon_settings {
     pokemon_id: LAIRON
@@ -66840,7 +66778,7 @@ item_templates {
     height_std_dev: 0.09875
     weight_std_dev: 2.6
     family_id: FAMILY_CARVANHA
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 0.86
     evolution_branch {
@@ -66943,7 +66881,7 @@ item_templates {
     height_std_dev: 0.225
     weight_std_dev: 11.1
     family_id: FAMILY_CARVANHA
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.35
     model_scale_v2: 1
@@ -67035,7 +66973,7 @@ item_templates {
     height_std_dev: 0.25125
     weight_std_dev: 16.25
     family_id: FAMILY_WAILMER
-    km_buddy_distance: 0.5
+    km_buddy_distance: 1
     buddy_size: BUDDY_BIG
     model_height: 1.654054
     evolution_branch {
@@ -67114,7 +67052,7 @@ item_templates {
     height_std_dev: 1.8125
     weight_std_dev: 49.75
     family_id: FAMILY_WAILMER
-    km_buddy_distance: 0.5
+    km_buddy_distance: 1
     buddy_size: BUDDY_BIG
     model_height: 7
     model_scale_v2: 0.33
@@ -68561,7 +68499,7 @@ item_templates {
     height_std_dev: 0.05125
     weight_std_dev: 0.2375
     family_id: FAMILY_BARBOACH
-    km_buddy_distance: 0.5
+    km_buddy_distance: 1
     model_height: 0.48648649
     evolution_branch {
       evolution: WHISCASH
@@ -68645,7 +68583,7 @@ item_templates {
     height_std_dev: 0.11125
     weight_std_dev: 2.95
     family_id: FAMILY_BARBOACH
-    km_buddy_distance: 0.5
+    km_buddy_distance: 1
     buddy_size: BUDDY_BIG
     model_height: 1.1142857
     model_scale_v2: 1
@@ -68718,7 +68656,7 @@ item_templates {
     height_std_dev: 0.07625
     weight_std_dev: 1.4375
     family_id: FAMILY_CORPHISH
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.56
     evolution_branch {
       evolution: CRAWDAUNT
@@ -68783,7 +68721,6 @@ item_templates {
     cinematic_moves: VICE_GRIP
     cinematic_moves: BUBBLE_BEAM
     cinematic_moves: NIGHT_SLASH
-    cinematic_moves: CRABHAMMER
     animation_time: 1.3333
     animation_time: 0.6667
     animation_time: 1.6667
@@ -68799,7 +68736,7 @@ item_templates {
     height_std_dev: 0.13625
     weight_std_dev: 4.1
     family_id: FAMILY_CORPHISH
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.2
     model_scale_v2: 1
@@ -69346,7 +69283,7 @@ item_templates {
     height_std_dev: 0.07625
     weight_std_dev: 0.925
     family_id: FAMILY_FEEBAS
-    km_buddy_distance: 2.5
+    km_buddy_distance: 5
     model_height: 0.6
     evolution_branch {
       evolution: MILOTIC
@@ -69426,7 +69363,7 @@ item_templates {
     height_std_dev: 0.775
     weight_std_dev: 20.25
     family_id: FAMILY_FEEBAS
-    km_buddy_distance: 2.5
+    km_buddy_distance: 5
     buddy_size: BUDDY_BIG
     model_height: 2.3
     model_scale_v2: 0.96
@@ -70723,7 +70660,7 @@ item_templates {
     height_std_dev: 0.09875
     weight_std_dev: 4.9375
     family_id: FAMILY_SPHEAL
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 0.8
     evolution_branch {
@@ -70804,7 +70741,7 @@ item_templates {
     height_std_dev: 0.13625
     weight_std_dev: 10.95
     family_id: FAMILY_SPHEAL
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 0.84705883
     evolution_branch {
@@ -70885,7 +70822,7 @@ item_templates {
     height_std_dev: 0.175
     weight_std_dev: 18.825
     family_id: FAMILY_SPHEAL
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.3876405
     model_scale_v2: 1
@@ -70955,7 +70892,7 @@ item_templates {
     height_std_dev: 0.05125
     weight_std_dev: 6.5625
     family_id: FAMILY_CLAMPERL
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.4
     evolution_branch {
       evolution: HUNTAIL
@@ -71041,7 +70978,7 @@ item_templates {
     height_std_dev: 0.2125
     weight_std_dev: 3.375
     family_id: FAMILY_CLAMPERL
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 2.1465116
     model_scale_v2: 1
@@ -71117,7 +71054,7 @@ item_templates {
     height_std_dev: 0.225
     weight_std_dev: 2.825
     family_id: FAMILY_CLAMPERL
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 2.0090909
     model_scale_v2: 1
@@ -71192,7 +71129,7 @@ item_templates {
     height_std_dev: 0.12375
     weight_std_dev: 2.925
     family_id: FAMILY_RELICANTH
-    km_buddy_distance: 2.5
+    km_buddy_distance: 5
     buddy_size: BUDDY_BIG
     model_height: 0.92
     model_scale_v2: 1
@@ -71266,7 +71203,7 @@ item_templates {
     height_std_dev: 0.07625
     weight_std_dev: 1.0875
     family_id: FAMILY_LUVDISC
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.6
     model_scale_v2: 1
     buddy_offset_male: 0
@@ -72193,7 +72130,7 @@ item_templates {
     height_std_dev: 0.5625
     weight_std_dev: 44
     family_id: FAMILY_KYOGRE
-    km_buddy_distance: 10
+    km_buddy_distance: 20
     buddy_size: BUDDY_BIG
     model_height: 1
     model_scale_v2: 0.85
@@ -73344,7 +73281,7 @@ item_templates {
     weight_std_dev: 0.65
     family_id: FAMILY_PIPLUP
     candy_to_evolve: 25
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.4
     evolution_branch {
       evolution: PRINPLUP
@@ -73427,7 +73364,7 @@ item_templates {
     weight_std_dev: 2.875
     family_id: FAMILY_PIPLUP
     candy_to_evolve: 25
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 0.8
     evolution_branch {
@@ -73512,7 +73449,7 @@ item_templates {
     weight_std_dev: 10.5625
     family_id: FAMILY_PIPLUP
     candy_to_evolve: 25
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1.7
     model_scale_v2: 0.97
@@ -73909,7 +73846,7 @@ item_templates {
     weight_std_dev: 3.9375
     family_id: FAMILY_BIDOOF
     candy_to_evolve: 25
-    km_buddy_distance: 0.5
+    km_buddy_distance: 1
     model_height: 1
     model_scale_v2: 1
     buddy_offset_male: 0
@@ -75814,7 +75751,7 @@ item_templates {
     weight_std_dev: 3.6875
     family_id: FAMILY_BUIZEL
     candy_to_evolve: 25
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.7
     evolution_branch {
       evolution: FLOATZEL
@@ -75894,7 +75831,7 @@ item_templates {
     weight_std_dev: 4.1875
     family_id: FAMILY_BUIZEL
     candy_to_evolve: 25
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 1.1
     model_scale_v2: 1
     buddy_offset_male: 5.97
@@ -76292,7 +76229,7 @@ item_templates {
     weight_std_dev: 0.7875
     family_id: FAMILY_SHELLOS
     candy_to_evolve: 25
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.3
     evolution_branch {
       evolution: GASTRODON
@@ -76373,7 +76310,7 @@ item_templates {
     weight_std_dev: 0.7875
     family_id: FAMILY_SHELLOS
     candy_to_evolve: 25
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.3
     evolution_branch {
       evolution: GASTRODON
@@ -76455,7 +76392,7 @@ item_templates {
     weight_std_dev: 0.7875
     family_id: FAMILY_SHELLOS
     candy_to_evolve: 25
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.3
     evolution_branch {
       evolution: GASTRODON
@@ -76540,7 +76477,7 @@ item_templates {
     weight_std_dev: 3.7375
     family_id: FAMILY_SHELLOS
     candy_to_evolve: 25
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.9
     model_scale_v2: 1
     buddy_offset_male: 13
@@ -76617,7 +76554,7 @@ item_templates {
     weight_std_dev: 3.7375
     family_id: FAMILY_SHELLOS
     candy_to_evolve: 25
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.9
     model_scale_v2: 1
     form: GASTRODON_EAST_SEA
@@ -76695,7 +76632,7 @@ item_templates {
     weight_std_dev: 3.7375
     family_id: FAMILY_SHELLOS
     candy_to_evolve: 25
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.9
     model_scale_v2: 1
     form: GASTRODON_WEST_SEA
@@ -79299,7 +79236,7 @@ item_templates {
     weight_std_dev: 0.875
     family_id: FAMILY_FINNEON
     candy_to_evolve: 25
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 0.4
     evolution_branch {
       evolution: LUMINEON
@@ -79380,7 +79317,7 @@ item_templates {
     weight_std_dev: 3
     family_id: FAMILY_FINNEON
     candy_to_evolve: 25
-    km_buddy_distance: 1.5
+    km_buddy_distance: 3
     model_height: 1.2
     model_scale_v2: 1
     buddy_offset_male: 0
@@ -79458,7 +79395,7 @@ item_templates {
     weight_std_dev: 8.125
     family_id: FAMILY_MANTINE
     candy_to_evolve: 25
-    km_buddy_distance: 2.5
+    km_buddy_distance: 5
     model_height: 0.92
     evolution_branch {
       evolution: MANTINE
@@ -82187,7 +82124,7 @@ item_templates {
     weight_std_dev: 42
     family_id: FAMILY_PALKIA
     candy_to_evolve: 25
-    km_buddy_distance: 10
+    km_buddy_distance: 20
     buddy_size: BUDDY_BIG
     model_height: 3.68
     model_scale_v2: 0.77
@@ -82726,7 +82663,7 @@ item_templates {
     weight_std_dev: 0.3875
     family_id: FAMILY_PHIONE
     candy_to_evolve: 25
-    km_buddy_distance: 10
+    km_buddy_distance: 20
     model_height: 0.36
     model_scale_v2: 1.17
     buddy_offset_male: 0
@@ -82801,7 +82738,7 @@ item_templates {
     weight_std_dev: 0.175
     family_id: FAMILY_MANAPHY
     candy_to_evolve: 25
-    km_buddy_distance: 10
+    km_buddy_distance: 20
     model_height: 0.35
     model_scale_v2: 1.17
     buddy_offset_male: 0
@@ -84733,11 +84670,6 @@ item_templates {
     attack_bonus_multiplier: 1.2
     raid_encounter_cp_base_level_bonus: 5
     raid_encounter_guaranteed_individual_values: 10
-  }
-}
-item_templates {
-  template_id: "adventure_sync_v2_gmt"
-  adventure_sync_v2_gmt {
   }
 }
 item_templates {
@@ -95097,14 +95029,6 @@ item_templates {
   }
 }
 item_templates {
-  template_id: "incenseordinary.8"
-  iap_item_display {
-    sku: "incenseordinary.8"
-    category: IAP_CATEGORY_ITEMS
-    sort_order: 14
-  }
-}
-item_templates {
   template_id: "sequence_acid_fast"
   move_sequence_settings {
     sequence: "anim attacker atk-move"
@@ -95477,18 +95401,6 @@ item_templates {
     sequence: "wait 0.1"
     sequence: "sfx attacker 068-0_counter"
     sequence: "wait 0.5"
-    sequence: "sys ui-sync"
-    sequence: "sys complete"
-  }
-}
-item_templates {
-  template_id: "sequence_crabhammer"
-  move_sequence_settings {
-    sequence: "anim attacker atk-move"
-    sequence: "wait 0.5"
-    sequence: "vfx crabhammer"
-    sequence: "sfx attacker 152-0_crabhammer"
-    sequence: "wait 1.5"
     sequence: "sys ui-sync"
     sequence: "sys complete"
   }
@@ -97774,4 +97686,4 @@ item_templates {
     sequence: "sys complete"
   }
 }
-timestamp_ms: 1568551502241
+timestamp_ms: 1567605055219
