@@ -9887,15 +9887,15 @@ item_templates {
     additional_pokemon_allowed: MELTAN
     additional_pokemon_allowed: MELMETAL
     forms_allowed: FORM_UNSET
-    forms_allowed: 163
-    forms_allowed: 166
-    forms_allowed: 169
-    forms_allowed: 172
-    forms_allowed: 175
-    forms_allowed: 178
-    forms_allowed: 181
-    forms_allowed: 184
-    forms_allowed: 187
+    forms_allowed: BULBASAUR_NORMAL
+    forms_allowed: IVYSAUR_NORMAL
+    forms_allowed: VENUSAUR_NORMAL
+    forms_allowed: CHARMANDER_NORMAL
+    forms_allowed: CHARMELION_NORMAL
+    forms_allowed: CHARIZARD_NORMAL
+    forms_allowed: SQUIRTLE_NORMAL
+    forms_allowed: WARTORTLE_NORMAL
+    forms_allowed: BLASTOISE_NORMAL
     forms_allowed: RATTATA_NORMAL
     forms_allowed: RATTATA_ALOLA
     forms_allowed: RATICATE_NORMAL
@@ -9910,8 +9910,8 @@ item_templates {
     forms_allowed: VULPIX_ALOLA
     forms_allowed: NINETALES_NORMAL
     forms_allowed: NINETALES_ALOLA
-    forms_allowed: 157
-    forms_allowed: 160
+    forms_allowed: ZUBAT_NORMAL
+    forms_allowed: GOLBAT_NORMAL
     forms_allowed: DIGLETT_NORMAL
     forms_allowed: DIGLETT_ALOLA
     forms_allowed: DUGTRIO_NORMAL
@@ -9920,9 +9920,9 @@ item_templates {
     forms_allowed: MEOWTH_ALOLA
     forms_allowed: PERSIAN_NORMAL
     forms_allowed: PERSIAN_ALOLA
-    forms_allowed: 235
-    forms_allowed: 238
-    forms_allowed: 241
+    forms_allowed: POLIWAG_NORMAL
+    forms_allowed: POLIWHIRL_NORMAL
+    forms_allowed: POLIWRATH_NORMAL
     forms_allowed: GEODUDE_NORMAL
     forms_allowed: GEODUDE_ALOLA
     forms_allowed: GRAVELER_NORMAL
@@ -9933,20 +9933,20 @@ item_templates {
     forms_allowed: GRIMER_ALOLA
     forms_allowed: MUK_NORMAL
     forms_allowed: MUK_ALOLA
-    forms_allowed: 214
-    forms_allowed: 217
+    forms_allowed: DROWZEE_NORMAL
+    forms_allowed: HYPNO_NORMAL
     forms_allowed: EXEGGUTOR_NORMAL
     forms_allowed: EXEGGUTOR_ALOLA
-    forms_allowed: 224
+    forms_allowed: CUBONE_NORMAL
     forms_allowed: MAROWAK_NORMAL
     forms_allowed: MAROWAK_ALOLA
-    forms_allowed: 247
-    forms_allowed: 253
-    forms_allowed: 256
-    forms_allowed: 199
-    forms_allowed: 190
-    forms_allowed: 193
-    forms_allowed: 196
+    forms_allowed: SCYTHER_NORMAL
+    forms_allowed: MAGIKARP_NORMAL
+    forms_allowed: GYARADOS_NORMAL
+    forms_allowed: SNORLAX_NORMAL
+    forms_allowed: DRATINI_NORMAL
+    forms_allowed: DRAGONAIR_NORMAL
+    forms_allowed: DRAGONITE_NORMAL
     forms_allowed: MEWTWO_NORMAL
     costumes_allowed: COSTUME_UNSET
   }
@@ -12933,7 +12933,7 @@ item_templates {
 item_templates {
   template_id: "COMBAT_V0322_MOVE_FRUSTRATION"
   combat_move {
-    unique_id: 322
+    unique_id: FRUSTRATION
     type: POKEMON_TYPE_NORMAL
     power: 10
     vfx_name: "frustration"
@@ -12943,7 +12943,7 @@ item_templates {
 item_templates {
   template_id: "COMBAT_V0323_MOVE_RETURN"
   combat_move {
-    unique_id: 323
+    unique_id: RETURN
     type: POKEMON_TYPE_NORMAL
     power: 50
     vfx_name: "return"
@@ -12953,7 +12953,7 @@ item_templates {
 item_templates {
   template_id: "COMBAT_V0324_MOVE_SYNCHRONOISE"
   combat_move {
-    unique_id: 324
+    unique_id: SYNCHRONOISE
     type: POKEMON_TYPE_PSYCHIC
     power: 80
     vfx_name: "synchronoise"
@@ -12984,13 +12984,13 @@ item_templates {
   form_settings {
     pokemon: BULBASAUR
     forms {
-      form: 163
+      form: BULBASAUR_NORMAL
     }
     forms {
-      form: 164
+      form: BULBASAUR_SHADOW
     }
     forms {
-      form: 165
+      form: BULBASAUR_PURIFIED
     }
   }
 }
@@ -12999,13 +12999,13 @@ item_templates {
   form_settings {
     pokemon: IVYSAUR
     forms {
-      form: 166
+      form: IVYSAUR_NORMAL
     }
     forms {
-      form: 167
+      form: IVYSAUR_SHADOW
     }
     forms {
-      form: 168
+      form: IVYSAUR_PURIFIED
     }
   }
 }
@@ -13014,13 +13014,13 @@ item_templates {
   form_settings {
     pokemon: VENUSAUR
     forms {
-      form: 169
+      form: VENUSAUR_NORMAL
     }
     forms {
-      form: 170
+      form: VENUSAUR_SHADOW
     }
     forms {
-      form: 171
+      form: VENUSAUR_PURIFIED
     }
   }
 }
@@ -13029,13 +13029,13 @@ item_templates {
   form_settings {
     pokemon: CHARMANDER
     forms {
-      form: 172
+      form: CHARMANDER_NORMAL
     }
     forms {
-      form: 173
+      form: CHARMANDER_SHADOW
     }
     forms {
-      form: 174
+      form: CHARMANDER_PURIFIED
     }
   }
 }
@@ -13044,13 +13044,13 @@ item_templates {
   form_settings {
     pokemon: CHARMELEON
     forms {
-      form: 175
+      form: CHARMELION_NORMAL
     }
     forms {
-      form: 176
+      form: CHARMELION_SHADOW
     }
     forms {
-      form: 177
+      form: CHARMELION_PURIFIED
     }
   }
 }
@@ -13059,13 +13059,13 @@ item_templates {
   form_settings {
     pokemon: CHARIZARD
     forms {
-      form: 178
+      form: CHARIZARD_NORMAL
     }
     forms {
-      form: 179
+      form: CHARIZARD_SHADOW
     }
     forms {
-      form: 180
+      form: CHARIZARD_PURIFIED
     }
   }
 }
@@ -13074,13 +13074,13 @@ item_templates {
   form_settings {
     pokemon: SQUIRTLE
     forms {
-      form: 181
+      form: SQUIRTLE_NORMAL
     }
     forms {
-      form: 182
+      form: SQUIRTLE_SHADOW
     }
     forms {
-      form: 183
+      form: SQUIRTLE_PURIFIED
     }
   }
 }
@@ -13089,13 +13089,13 @@ item_templates {
   form_settings {
     pokemon: WARTORTLE
     forms {
-      form: 184
+      form: WARTORTLE_NORMAL
     }
     forms {
-      form: 185
+      form: WARTORTLE_SHADOW
     }
     forms {
-      form: 186
+      form: WARTORTLE_PURIFIED
     }
   }
 }
@@ -13104,13 +13104,13 @@ item_templates {
   form_settings {
     pokemon: BLASTOISE
     forms {
-      form: 187
+      form: BLASTOISE_NORMAL
     }
     forms {
-      form: 188
+      form: BLASTOISE_SHADOW
     }
     forms {
-      form: 189
+      form: BLASTOISE_PURIFIED
     }
   }
 }
@@ -13180,10 +13180,10 @@ item_templates {
       asset_bundle_value: 61
     }
     forms {
-      form: 153
+      form: RATTATA_SHADOW
     }
     forms {
-      form: 154
+      form: RATTATA_PURIFIED
     }
   }
 }
@@ -13199,10 +13199,10 @@ item_templates {
       asset_bundle_value: 61
     }
     forms {
-      form: 155
+      form: RATICATE_SHADOW
     }
     forms {
-      form: 156
+      form: RATICATE_PURIFIED
     }
   }
 }
@@ -13366,13 +13366,13 @@ item_templates {
   form_settings {
     pokemon: ZUBAT
     forms {
-      form: 157
+      form: ZUBAT_NORMAL
     }
     forms {
-      form: 158
+      form: ZUBAT_SHADOW
     }
     forms {
-      form: 159
+      form: ZUBAT_PURIFIED
     }
   }
 }
@@ -13381,13 +13381,13 @@ item_templates {
   form_settings {
     pokemon: GOLBAT
     forms {
-      form: 160
+      form: GOLBAT_NORMAL
     }
     forms {
-      form: 161
+      form: GOLBAT_SHADOW
     }
     forms {
-      form: 162
+      form: GOLBAT_PURIFIED
     }
   }
 }
@@ -13526,13 +13526,13 @@ item_templates {
   form_settings {
     pokemon: POLIWAG
     forms {
-      form: 235
+      form: POLIWAG_NORMAL
     }
     forms {
-      form: 236
+      form: POLIWAG_SHADOW
     }
     forms {
-      form: 237
+      form: POLIWAG_PURIFIED
     }
   }
 }
@@ -13541,13 +13541,13 @@ item_templates {
   form_settings {
     pokemon: POLIWHIRL
     forms {
-      form: 238
+      form: POLIWHIRL_NORMAL
     }
     forms {
-      form: 239
+      form: POLIWHIRL_SHADOW
     }
     forms {
-      form: 240
+      form: POLIWHIRL_PURIFIED
     }
   }
 }
@@ -13556,13 +13556,13 @@ item_templates {
   form_settings {
     pokemon: POLIWRATH
     forms {
-      form: 241
+      form: POLIWRATH_NORMAL
     }
     forms {
-      form: 242
+      form: POLIWRATH_SHADOW
     }
     forms {
-      form: 243
+      form: POLIWRATH_PURIFIED
     }
   }
 }
@@ -13749,10 +13749,10 @@ item_templates {
       asset_bundle_value: 61
     }
     forms {
-      form: 220
+      form: GRIMER_SHADOW
     }
     forms {
-      form: 221
+      form: GRIMER_PURIFIED
     }
   }
 }
@@ -13768,10 +13768,10 @@ item_templates {
       asset_bundle_value: 61
     }
     forms {
-      form: 222
+      form: MUK_SHADOW
     }
     forms {
-      form: 223
+      form: MUK_PURIFIED
     }
   }
 }
@@ -13816,13 +13816,13 @@ item_templates {
   form_settings {
     pokemon: DROWZEE
     forms {
-      form: 214
+      form: DROWZEE_NORMAL
     }
     forms {
-      form: 215
+      form: DROWZEE_SHADOW
     }
     forms {
-      form: 216
+      form: DROWZEE_PURIFIED
     }
   }
 }
@@ -13831,13 +13831,13 @@ item_templates {
   form_settings {
     pokemon: HYPNO
     forms {
-      form: 217
+      form: HYPNO_NORMAL
     }
     forms {
-      form: 218
+      form: HYPNO_SHADOW
     }
     forms {
-      form: 219
+      form: HYPNO_PURIFIED
     }
   }
 }
@@ -13889,13 +13889,13 @@ item_templates {
   form_settings {
     pokemon: CUBONE
     forms {
-      form: 224
+      form: CUBONE_NORMAL
     }
     forms {
-      form: 225
+      form: CUBONE_SHADOW
     }
     forms {
-      form: 226
+      form: CUBONE_PURIFIED
     }
   }
 }
@@ -13911,10 +13911,10 @@ item_templates {
       asset_bundle_value: 61
     }
     forms {
-      form: 227
+      form: MAROWAK_SHADOW
     }
     forms {
-      form: 228
+      form: MAROWAK_PURIFIED
     }
   }
 }
@@ -14025,13 +14025,13 @@ item_templates {
   form_settings {
     pokemon: SCYTHER
     forms {
-      form: 247
+      form: SCYTHER_NORMAL
     }
     forms {
-      form: 248
+      form: SCYTHER_SHADOW
     }
     forms {
-      form: 249
+      form: SCYTHER_PURIFIED
     }
   }
 }
@@ -14070,13 +14070,13 @@ item_templates {
   form_settings {
     pokemon: MAGIKARP
     forms {
-      form: 253
+      form: MAGIKARP_NORMAL
     }
     forms {
-      form: 254
+      form: MAGIKARP_SHADOW
     }
     forms {
-      form: 255
+      form: MAGIKARP_PURIFIED
     }
   }
 }
@@ -14085,13 +14085,13 @@ item_templates {
   form_settings {
     pokemon: GYARADOS
     forms {
-      form: 256
+      form: GYARADOS_NORMAL
     }
     forms {
-      form: 257
+      form: GYARADOS_SHADOW
     }
     forms {
-      form: 258
+      form: GYARADOS_PURIFIED
     }
   }
 }
@@ -14172,13 +14172,13 @@ item_templates {
   form_settings {
     pokemon: SNORLAX
     forms {
-      form: 199
+      form: SNORLAX_NORMAL
     }
     forms {
-      form: 200
+      form: SNORLAX_SHADOW
     }
     forms {
-      form: 201
+      form: SNORLAX_PURIFIED
     }
   }
 }
@@ -14205,13 +14205,13 @@ item_templates {
   form_settings {
     pokemon: DRATINI
     forms {
-      form: 190
+      form: DRATINI_NORMAL
     }
     forms {
-      form: 191
+      form: DRATINI_SHADOW
     }
     forms {
-      form: 192
+      form: DRATINI_PURIFIED
     }
   }
 }
@@ -14220,13 +14220,13 @@ item_templates {
   form_settings {
     pokemon: DRAGONAIR
     forms {
-      form: 193
+      form: DRAGONAIR_NORMAL
     }
     forms {
-      form: 194
+      form: DRAGONAIR_SHADOW
     }
     forms {
-      form: 195
+      form: DRAGONAIR_PURIFIED
     }
   }
 }
@@ -14235,13 +14235,13 @@ item_templates {
   form_settings {
     pokemon: DRAGONITE
     forms {
-      form: 196
+      form: DRAGONITE_NORMAL
     }
     forms {
-      form: 197
+      form: DRAGONITE_SHADOW
     }
     forms {
-      form: 198
+      form: DRAGONITE_PURIFIED
     }
   }
 }
@@ -14371,13 +14371,13 @@ item_templates {
   form_settings {
     pokemon: CROBAT
     forms {
-      form: 202
+      form: CROBAT_NORMAL
     }
     forms {
-      form: 203
+      form: CROBAT_SHADOW
     }
     forms {
-      form: 204
+      form: CROBAT_PURIFIED
     }
   }
 }
@@ -14482,13 +14482,13 @@ item_templates {
   form_settings {
     pokemon: POLITOED
     forms {
-      form: 244
+      form: POLITOED_NORMAL
     }
     forms {
-      form: 245
+      form: POLITOED_SHADOW
     }
     forms {
-      form: 246
+      form: POLITOED_PURIFIED
     }
   }
 }
@@ -14759,13 +14759,13 @@ item_templates {
   form_settings {
     pokemon: SCIZOR
     forms {
-      form: 250
+      form: SCIZOR_NORMAL
     }
     forms {
-      form: 251
+      form: SCIZOR_SHADOW
     }
     forms {
-      form: 252
+      form: SCIZOR_PURIFIED
     }
   }
 }
@@ -14864,13 +14864,13 @@ item_templates {
   form_settings {
     pokemon: HOUNDOUR
     forms {
-      form: 229
+      form: HOUNDOUR_NORMAL
     }
     forms {
-      form: 230
+      form: HOUNDOUR_SHADOW
     }
     forms {
-      form: 231
+      form: HOUNDOUR_PURIFIED
     }
   }
 }
@@ -14879,13 +14879,13 @@ item_templates {
   form_settings {
     pokemon: HOUNDOOM
     forms {
-      form: 232
+      form: HOUNDOOM_NORMAL
     }
     forms {
-      form: 233
+      form: HOUNDOOM_SHADOW
     }
     forms {
-      form: 234
+      form: HOUNDOOM_PURIFIED
     }
   }
 }
@@ -15062,13 +15062,13 @@ item_templates {
   form_settings {
     pokemon: MUDKIP
     forms {
-      form: 205
+      form: MUDKIP_NORMAL
     }
     forms {
-      form: 206
+      form: MUDKIP_SHADOW
     }
     forms {
-      form: 207
+      form: MUDKIP_PURIFIED
     }
   }
 }
@@ -15077,13 +15077,13 @@ item_templates {
   form_settings {
     pokemon: MARSHTOMP
     forms {
-      form: 208
+      form: MARSHTOMP_NORMAL
     }
     forms {
-      form: 209
+      form: MARSHTOMP_SHADOW
     }
     forms {
-      form: 210
+      form: MARSHTOMP_PURIFIED
     }
   }
 }
@@ -15092,13 +15092,13 @@ item_templates {
   form_settings {
     pokemon: SWAMPERT
     forms {
-      form: 211
+      form: SWAMPERT_NORMAL
     }
     forms {
-      form: 212
+      form: SWAMPERT_SHADOW
     }
     forms {
-      form: 213
+      form: SWAMPERT_PURIFIED
     }
   }
 }
@@ -15221,13 +15221,13 @@ item_templates {
   form_settings {
     pokemon: RALTS
     forms {
-      form: 292
+      form: RALTS_NORMAL
     }
     forms {
-      form: 293
+      form: RALTS_SHADOW
     }
     forms {
-      form: 294
+      form: RALTS_PURIFIED
     }
   }
 }
@@ -15236,13 +15236,13 @@ item_templates {
   form_settings {
     pokemon: KIRLIA
     forms {
-      form: 295
+      form: KIRLIA_NORMAL
     }
     forms {
-      form: 296
+      form: KIRLIA_SHADOW
     }
     forms {
-      form: 297
+      form: KIRLIA_PURIFIED
     }
   }
 }
@@ -15251,13 +15251,13 @@ item_templates {
   form_settings {
     pokemon: GARDEVOIR
     forms {
-      form: 298
+      form: GARDEVOIR_NORMAL
     }
     forms {
-      form: 299
+      form: GARDEVOIR_SHADOW
     }
     forms {
-      form: 300
+      form: GARDEVOIR_PURIFIED
     }
   }
 }
@@ -16578,13 +16578,13 @@ item_templates {
   form_settings {
     pokemon: GALLADE
     forms {
-      form: 301
+      form: GALLADE_NORMAL
     }
     forms {
-      form: 302
+      form: GALLADE_SHADOW
     }
     forms {
-      form: 303
+      form: GALLADE_PURIFIED
     }
   }
 }
@@ -25655,7 +25655,7 @@ item_templates {
     evolution_branch {
       evolution: IVYSAUR
       candy_cost: 25
-      form: 166
+      form: IVYSAUR_NORMAL
     }
     model_scale_v2: 0.89
     buddy_offset_male: 0
@@ -25735,10 +25735,10 @@ item_templates {
     evolution_branch {
       evolution: IVYSAUR
       candy_cost: 25
-      form: 166
+      form: IVYSAUR_NORMAL
     }
     model_scale_v2: 0.89
-    form: 163
+    form: BULBASAUR_NORMAL
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -25816,10 +25816,10 @@ item_templates {
     evolution_branch {
       evolution: IVYSAUR
       candy_cost: 22
-      form: 168
+      form: IVYSAUR_PURIFIED
     }
     model_scale_v2: 0.89
-    form: 165
+    form: BULBASAUR_PURIFIED
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -25897,10 +25897,10 @@ item_templates {
     evolution_branch {
       evolution: IVYSAUR
       candy_cost: 25
-      form: 167
+      form: IVYSAUR_SHADOW
     }
     model_scale_v2: 0.89
-    form: 164
+    form: BULBASAUR_SHADOW
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -25914,11 +25914,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 3000
-      2: 3
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -25988,7 +25988,7 @@ item_templates {
     evolution_branch {
       evolution: VENUSAUR
       candy_cost: 100
-      form: 169
+      form: VENUSAUR_NORMAL
     }
     model_scale_v2: 0.89
     buddy_offset_male: 9.3
@@ -26072,10 +26072,10 @@ item_templates {
     evolution_branch {
       evolution: VENUSAUR
       candy_cost: 100
-      form: 169
+      form: VENUSAUR_NORMAL
     }
     model_scale_v2: 0.89
-    form: 166
+    form: IVYSAUR_NORMAL
     buddy_offset_male: 9.3
     buddy_offset_male: 0
     buddy_offset_male: 66.7
@@ -26157,10 +26157,10 @@ item_templates {
     evolution_branch {
       evolution: VENUSAUR
       candy_cost: 90
-      form: 171
+      form: VENUSAUR_PURIFIED
     }
     model_scale_v2: 0.89
-    form: 168
+    form: IVYSAUR_PURIFIED
     buddy_offset_male: 9.3
     buddy_offset_male: 0
     buddy_offset_male: 66.7
@@ -26242,10 +26242,10 @@ item_templates {
     evolution_branch {
       evolution: VENUSAUR
       candy_cost: 100
-      form: 170
+      form: VENUSAUR_SHADOW
     }
     model_scale_v2: 0.89
-    form: 167
+    form: IVYSAUR_SHADOW
     buddy_offset_male: 9.3
     buddy_offset_male: 0
     buddy_offset_male: 66.7
@@ -26259,11 +26259,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 3000
-      2: 3
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -26415,7 +26415,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.9
     model_scale_v2: 0.84
-    form: 169
+    form: VENUSAUR_NORMAL
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -26502,7 +26502,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.9
     model_scale_v2: 0.84
-    form: 171
+    form: VENUSAUR_PURIFIED
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -26589,7 +26589,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.9
     model_scale_v2: 0.84
-    form: 170
+    form: VENUSAUR_SHADOW
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -26612,11 +26612,11 @@ item_templates {
     combat_player_focus_camera_angle: -1
     combat_player_focus_camera_angle: -0.7
     combat_player_focus_camera_angle: 0
-    46 {
-      1: 3000
-      2: 3
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -26681,7 +26681,7 @@ item_templates {
     evolution_branch {
       evolution: CHARMELEON
       candy_cost: 25
-      form: 175
+      form: CHARMELION_NORMAL
     }
     model_scale_v2: 1
     buddy_offset_male: 0
@@ -26760,10 +26760,10 @@ item_templates {
     evolution_branch {
       evolution: CHARMELEON
       candy_cost: 25
-      form: 175
+      form: CHARMELION_NORMAL
     }
     model_scale_v2: 1
-    form: 172
+    form: CHARMANDER_NORMAL
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -26840,10 +26840,10 @@ item_templates {
     evolution_branch {
       evolution: CHARMELEON
       candy_cost: 22
-      form: 177
+      form: CHARMELION_PURIFIED
     }
     model_scale_v2: 1
-    form: 174
+    form: CHARMANDER_PURIFIED
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -26920,10 +26920,10 @@ item_templates {
     evolution_branch {
       evolution: CHARMELEON
       candy_cost: 25
-      form: 176
+      form: CHARMELION_SHADOW
     }
     model_scale_v2: 1
-    form: 173
+    form: CHARMANDER_SHADOW
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -26937,11 +26937,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 3000
-      2: 3
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -27009,7 +27009,7 @@ item_templates {
     evolution_branch {
       evolution: CHARIZARD
       candy_cost: 100
-      form: 178
+      form: CHARIZARD_NORMAL
     }
     model_scale_v2: 1.07
     buddy_offset_male: 8.8
@@ -27091,10 +27091,10 @@ item_templates {
     evolution_branch {
       evolution: CHARIZARD
       candy_cost: 100
-      form: 178
+      form: CHARIZARD_NORMAL
     }
     model_scale_v2: 1.07
-    form: 175
+    form: CHARMELION_NORMAL
     buddy_offset_male: 8.8
     buddy_offset_male: 0
     buddy_offset_male: 0.3
@@ -27174,10 +27174,10 @@ item_templates {
     evolution_branch {
       evolution: CHARIZARD
       candy_cost: 90
-      form: 180
+      form: CHARIZARD_PURIFIED
     }
     model_scale_v2: 1.07
-    form: 177
+    form: CHARMELION_PURIFIED
     buddy_offset_male: 8.8
     buddy_offset_male: 0
     buddy_offset_male: 0.3
@@ -27257,10 +27257,10 @@ item_templates {
     evolution_branch {
       evolution: CHARIZARD
       candy_cost: 100
-      form: 179
+      form: CHARIZARD_SHADOW
     }
     model_scale_v2: 1.07
-    form: 176
+    form: CHARMELION_SHADOW
     buddy_offset_male: 8.8
     buddy_offset_male: 0
     buddy_offset_male: 0.3
@@ -27274,11 +27274,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 3000
-      2: 3
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -27423,7 +27423,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.91
     model_scale_v2: 1.1
-    form: 178
+    form: CHARIZARD_NORMAL
     buddy_offset_male: 1.9
     buddy_offset_male: -11.4
     buddy_offset_male: 36.04
@@ -27502,7 +27502,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.91
     model_scale_v2: 1.1
-    form: 180
+    form: CHARIZARD_PURIFIED
     buddy_offset_male: 1.9
     buddy_offset_male: -11.4
     buddy_offset_male: 36.04
@@ -27581,7 +27581,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.91
     model_scale_v2: 1.1
-    form: 179
+    form: CHARIZARD_SHADOW
     buddy_offset_male: 1.9
     buddy_offset_male: -11.4
     buddy_offset_male: 36.04
@@ -27595,11 +27595,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 3000
-      2: 3
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -27664,7 +27664,7 @@ item_templates {
     evolution_branch {
       evolution: WARTORTLE
       candy_cost: 25
-      form: 184
+      form: WARTORTLE_NORMAL
     }
     model_scale_v2: 1.14
     buddy_offset_male: 0
@@ -27743,10 +27743,10 @@ item_templates {
     evolution_branch {
       evolution: WARTORTLE
       candy_cost: 25
-      form: 184
+      form: WARTORTLE_NORMAL
     }
     model_scale_v2: 1.14
-    form: 181
+    form: SQUIRTLE_NORMAL
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -27823,10 +27823,10 @@ item_templates {
     evolution_branch {
       evolution: WARTORTLE
       candy_cost: 22
-      form: 186
+      form: WARTORTLE_PURIFIED
     }
     model_scale_v2: 1.14
-    form: 183
+    form: SQUIRTLE_PURIFIED
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -27903,10 +27903,10 @@ item_templates {
     evolution_branch {
       evolution: WARTORTLE
       candy_cost: 25
-      form: 185
+      form: WARTORTLE_SHADOW
     }
     model_scale_v2: 1.14
-    form: 182
+    form: SQUIRTLE_SHADOW
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -27920,11 +27920,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 3000
-      2: 3
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -27992,7 +27992,7 @@ item_templates {
     evolution_branch {
       evolution: BLASTOISE
       candy_cost: 100
-      form: 187
+      form: BLASTOISE_NORMAL
     }
     model_scale_v2: 1
     buddy_offset_male: 9.5
@@ -28074,10 +28074,10 @@ item_templates {
     evolution_branch {
       evolution: BLASTOISE
       candy_cost: 100
-      form: 187
+      form: BLASTOISE_NORMAL
     }
     model_scale_v2: 1
-    form: 184
+    form: WARTORTLE_NORMAL
     buddy_offset_male: 9.5
     buddy_offset_male: 0
     buddy_offset_male: 0.3
@@ -28157,10 +28157,10 @@ item_templates {
     evolution_branch {
       evolution: BLASTOISE
       candy_cost: 90
-      form: 189
+      form: BLASTOISE_PURIFIED
     }
     model_scale_v2: 1
-    form: 186
+    form: WARTORTLE_PURIFIED
     buddy_offset_male: 9.5
     buddy_offset_male: 0
     buddy_offset_male: 0.3
@@ -28240,10 +28240,10 @@ item_templates {
     evolution_branch {
       evolution: BLASTOISE
       candy_cost: 100
-      form: 188
+      form: BLASTOISE_SHADOW
     }
     model_scale_v2: 1
-    form: 185
+    form: WARTORTLE_SHADOW
     buddy_offset_male: 9.5
     buddy_offset_male: 0
     buddy_offset_male: 0.3
@@ -28257,11 +28257,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 3000
-      2: 3
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -28404,7 +28404,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.39
     model_scale_v2: 1.15
-    form: 187
+    form: BLASTOISE_NORMAL
     buddy_offset_male: -1.1
     buddy_offset_male: 0
     buddy_offset_male: 25.6
@@ -28482,7 +28482,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.39
     model_scale_v2: 1.15
-    form: 189
+    form: BLASTOISE_PURIFIED
     buddy_offset_male: -1.1
     buddy_offset_male: 0
     buddy_offset_male: 25.6
@@ -28560,7 +28560,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.39
     model_scale_v2: 1.15
-    form: 188
+    form: BLASTOISE_SHADOW
     buddy_offset_male: -1.1
     buddy_offset_male: 0
     buddy_offset_male: 25.6
@@ -28574,11 +28574,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 3000
-      2: 3
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -29667,10 +29667,10 @@ item_templates {
     evolution_branch {
       evolution: RATICATE
       candy_cost: 22
-      form: 156
+      form: RATICATE_PURIFIED
     }
     model_scale_v2: 1.14
-    form: 154
+    form: RATTATA_PURIFIED
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -29747,10 +29747,10 @@ item_templates {
     evolution_branch {
       evolution: RATICATE
       candy_cost: 25
-      form: 155
+      form: RATICATE_SHADOW
     }
     model_scale_v2: 1.14
-    form: 153
+    form: RATTATA_SHADOW
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -29764,11 +29764,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 1000
-      2: 1
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 1000
+      purification_candy_needed: 1
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -30079,7 +30079,7 @@ item_templates {
     km_buddy_distance: 1
     model_height: 0.7
     model_scale_v2: 1
-    form: 156
+    form: RATICATE_PURIFIED
     buddy_offset_male: 9.7
     buddy_offset_male: 0
     buddy_offset_male: -21.2
@@ -30155,7 +30155,7 @@ item_templates {
     km_buddy_distance: 1
     model_height: 0.7
     model_scale_v2: 1
-    form: 155
+    form: RATICATE_SHADOW
     buddy_offset_male: 9.7
     buddy_offset_male: 0
     buddy_offset_male: -21.2
@@ -30169,11 +30169,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 1000
-      2: 1
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 1000
+      purification_candy_needed: 1
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -32905,7 +32905,7 @@ item_templates {
     evolution_branch {
       evolution: GOLBAT
       candy_cost: 25
-      form: 160
+      form: GOLBAT_NORMAL
     }
     model_scale_v2: 1
     buddy_offset_male: 6.13
@@ -32987,10 +32987,10 @@ item_templates {
     evolution_branch {
       evolution: GOLBAT
       candy_cost: 25
-      form: 160
+      form: GOLBAT_NORMAL
     }
     model_scale_v2: 1
-    form: 157
+    form: ZUBAT_NORMAL
     buddy_offset_male: 6.13
     buddy_offset_male: 31.63
     buddy_offset_male: 32.8
@@ -33070,10 +33070,10 @@ item_templates {
     evolution_branch {
       evolution: GOLBAT
       candy_cost: 22
-      form: 162
+      form: GOLBAT_PURIFIED
     }
     model_scale_v2: 1
-    form: 159
+    form: ZUBAT_PURIFIED
     buddy_offset_male: 6.13
     buddy_offset_male: 31.63
     buddy_offset_male: 32.8
@@ -33153,10 +33153,10 @@ item_templates {
     evolution_branch {
       evolution: GOLBAT
       candy_cost: 25
-      form: 161
+      form: GOLBAT_SHADOW
     }
     model_scale_v2: 1
-    form: 158
+    form: ZUBAT_SHADOW
     buddy_offset_male: 6.13
     buddy_offset_male: 31.63
     buddy_offset_male: 32.8
@@ -33170,11 +33170,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 1000
-      2: 1
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 1000
+      purification_candy_needed: 1
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -33262,7 +33262,7 @@ item_templates {
     evolution_branch {
       evolution: CROBAT
       candy_cost: 100
-      form: 202
+      form: CROBAT_NORMAL
     }
     model_scale_v2: 0.9
     buddy_offset_male: 20
@@ -33345,10 +33345,10 @@ item_templates {
     evolution_branch {
       evolution: CROBAT
       candy_cost: 100
-      form: 202
+      form: CROBAT_NORMAL
     }
     model_scale_v2: 0.9
-    form: 160
+    form: GOLBAT_NORMAL
     buddy_offset_male: 20
     buddy_offset_male: -50
     buddy_offset_male: -20
@@ -33429,10 +33429,10 @@ item_templates {
     evolution_branch {
       evolution: CROBAT
       candy_cost: 90
-      form: 204
+      form: CROBAT_PURIFIED
     }
     model_scale_v2: 0.9
-    form: 162
+    form: GOLBAT_PURIFIED
     buddy_offset_male: 20
     buddy_offset_male: -50
     buddy_offset_male: -20
@@ -33513,10 +33513,10 @@ item_templates {
     evolution_branch {
       evolution: CROBAT
       candy_cost: 100
-      form: 203
+      form: CROBAT_SHADOW
     }
     model_scale_v2: 0.9
-    form: 161
+    form: GOLBAT_SHADOW
     buddy_offset_male: 20
     buddy_offset_male: -50
     buddy_offset_male: -20
@@ -33530,11 +33530,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 1000
-      2: 1
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 1000
+      purification_candy_needed: 1
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -35824,7 +35824,7 @@ item_templates {
     evolution_branch {
       evolution: POLIWHIRL
       candy_cost: 25
-      form: 238
+      form: POLIWHIRL_NORMAL
     }
     model_scale_v2: 1
     buddy_offset_male: 0
@@ -35903,10 +35903,10 @@ item_templates {
     evolution_branch {
       evolution: POLIWHIRL
       candy_cost: 25
-      form: 238
+      form: POLIWHIRL_NORMAL
     }
     model_scale_v2: 1
-    form: 235
+    form: POLIWAG_NORMAL
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -35983,10 +35983,10 @@ item_templates {
     evolution_branch {
       evolution: POLIWHIRL
       candy_cost: 22
-      form: 240
+      form: POLIWHIRL_PURIFIED
     }
     model_scale_v2: 1
-    form: 237
+    form: POLIWAG_PURIFIED
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -36063,10 +36063,10 @@ item_templates {
     evolution_branch {
       evolution: POLIWHIRL
       candy_cost: 25
-      form: 239
+      form: POLIWHIRL_SHADOW
     }
     model_scale_v2: 1
-    form: 236
+    form: POLIWAG_SHADOW
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -36080,11 +36080,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 3000
-      2: 3
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -36153,13 +36153,13 @@ item_templates {
     evolution_branch {
       evolution: POLIWRATH
       candy_cost: 100
-      form: 241
+      form: POLIWRATH_NORMAL
     }
     evolution_branch {
       evolution: POLITOED
       evolution_item_requirement: ITEM_KINGS_ROCK
       candy_cost: 100
-      form: 244
+      form: POLITOED_NORMAL
     }
     model_scale_v2: 1
     buddy_offset_male: 20
@@ -36242,16 +36242,16 @@ item_templates {
     evolution_branch {
       evolution: POLIWRATH
       candy_cost: 100
-      form: 241
+      form: POLIWRATH_NORMAL
     }
     evolution_branch {
       evolution: POLITOED
       evolution_item_requirement: ITEM_KINGS_ROCK
       candy_cost: 100
-      form: 244
+      form: POLITOED_NORMAL
     }
     model_scale_v2: 1
-    form: 238
+    form: POLIWHIRL_NORMAL
     buddy_offset_male: 20
     buddy_offset_male: 0
     buddy_offset_male: 51.8
@@ -36332,16 +36332,16 @@ item_templates {
     evolution_branch {
       evolution: POLIWRATH
       candy_cost: 90
-      form: 243
+      form: POLIWRATH_PURIFIED
     }
     evolution_branch {
       evolution: POLITOED
       evolution_item_requirement: ITEM_KINGS_ROCK
       candy_cost: 90
-      form: 246
+      form: POLITOED_PURIFIED
     }
     model_scale_v2: 1
-    form: 240
+    form: POLIWHIRL_PURIFIED
     buddy_offset_male: 20
     buddy_offset_male: 0
     buddy_offset_male: 51.8
@@ -36422,16 +36422,16 @@ item_templates {
     evolution_branch {
       evolution: POLIWRATH
       candy_cost: 100
-      form: 242
+      form: POLIWRATH_SHADOW
     }
     evolution_branch {
       evolution: POLITOED
       evolution_item_requirement: ITEM_KINGS_ROCK
       candy_cost: 100
-      form: 245
+      form: POLITOED_SHADOW
     }
     model_scale_v2: 1
-    form: 239
+    form: POLIWHIRL_SHADOW
     buddy_offset_male: 20
     buddy_offset_male: 0
     buddy_offset_male: 51.8
@@ -36445,11 +36445,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 3000
-      2: 3
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -36613,7 +36613,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.42
     model_scale_v2: 1
-    form: 241
+    form: POLIWRATH_NORMAL
     buddy_offset_male: 30
     buddy_offset_male: 0
     buddy_offset_male: 9.3
@@ -36692,7 +36692,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.42
     model_scale_v2: 1
-    form: 243
+    form: POLIWRATH_PURIFIED
     buddy_offset_male: 30
     buddy_offset_male: 0
     buddy_offset_male: 9.3
@@ -36771,7 +36771,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.42
     model_scale_v2: 1
-    form: 242
+    form: POLIWRATH_SHADOW
     buddy_offset_male: 30
     buddy_offset_male: 0
     buddy_offset_male: 9.3
@@ -36785,11 +36785,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 3000
-      2: 3
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -39986,10 +39986,10 @@ item_templates {
     evolution_branch {
       evolution: MUK
       candy_cost: 45
-      form: 223
+      form: MUK_PURIFIED
     }
     model_scale_v2: 1
-    form: 221
+    form: GRIMER_PURIFIED
     buddy_offset_male: 11.1
     buddy_offset_male: 0
     buddy_offset_male: 31.7
@@ -40070,10 +40070,10 @@ item_templates {
     evolution_branch {
       evolution: MUK
       candy_cost: 50
-      form: 222
+      form: MUK_SHADOW
     }
     model_scale_v2: 1
-    form: 220
+    form: GRIMER_SHADOW
     buddy_offset_male: 11.1
     buddy_offset_male: 0
     buddy_offset_male: 31.7
@@ -40090,11 +40090,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 3000
-      2: 3
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -40423,7 +40423,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.88
     model_scale_v2: 1
-    form: 223
+    form: MUK_PURIFIED
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -40505,7 +40505,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.88
     model_scale_v2: 1
-    form: 222
+    form: MUK_SHADOW
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -40522,11 +40522,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 3000
-      2: 3
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -41190,7 +41190,7 @@ item_templates {
     evolution_branch {
       evolution: HYPNO
       candy_cost: 50
-      form: 217
+      form: HYPNO_NORMAL
     }
     model_scale_v2: 1
     buddy_offset_male: 6.9
@@ -41270,10 +41270,10 @@ item_templates {
     evolution_branch {
       evolution: HYPNO
       candy_cost: 50
-      form: 217
+      form: HYPNO_NORMAL
     }
     model_scale_v2: 1
-    form: 214
+    form: DROWZEE_NORMAL
     buddy_offset_male: 6.9
     buddy_offset_male: 0
     buddy_offset_male: 55.3
@@ -41351,10 +41351,10 @@ item_templates {
     evolution_branch {
       evolution: HYPNO
       candy_cost: 45
-      form: 219
+      form: HYPNO_PURIFIED
     }
     model_scale_v2: 1
-    form: 216
+    form: DROWZEE_PURIFIED
     buddy_offset_male: 6.9
     buddy_offset_male: 0
     buddy_offset_male: 55.3
@@ -41432,10 +41432,10 @@ item_templates {
     evolution_branch {
       evolution: HYPNO
       candy_cost: 50
-      form: 218
+      form: HYPNO_SHADOW
     }
     model_scale_v2: 1
-    form: 215
+    form: DROWZEE_SHADOW
     buddy_offset_male: 6.9
     buddy_offset_male: 0
     buddy_offset_male: 55.3
@@ -41449,11 +41449,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 3000
-      2: 3
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -41600,7 +41600,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.55
     model_scale_v2: 1
-    form: 217
+    form: HYPNO_NORMAL
     buddy_offset_male: 3.8
     buddy_offset_male: 0
     buddy_offset_male: 31.05
@@ -41680,7 +41680,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.55
     model_scale_v2: 1
-    form: 219
+    form: HYPNO_PURIFIED
     buddy_offset_male: 3.8
     buddy_offset_male: 0
     buddy_offset_male: 31.05
@@ -41760,7 +41760,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.55
     model_scale_v2: 1
-    form: 218
+    form: HYPNO_SHADOW
     buddy_offset_male: 3.8
     buddy_offset_male: 0
     buddy_offset_male: 31.05
@@ -41774,11 +41774,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 3000
-      2: 3
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -42676,7 +42676,7 @@ item_templates {
       form: MAROWAK_NORMAL
     }
     model_scale_v2: 1.1
-    form: 224
+    form: CUBONE_NORMAL
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -42753,10 +42753,10 @@ item_templates {
     evolution_branch {
       evolution: MAROWAK
       candy_cost: 45
-      form: 228
+      form: MAROWAK_PURIFIED
     }
     model_scale_v2: 1.1
-    form: 226
+    form: CUBONE_PURIFIED
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -42833,10 +42833,10 @@ item_templates {
     evolution_branch {
       evolution: MAROWAK
       candy_cost: 50
-      form: 227
+      form: MAROWAK_SHADOW
     }
     model_scale_v2: 1.1
-    form: 225
+    form: CUBONE_SHADOW
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -42850,11 +42850,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 3000
-      2: 3
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -43165,7 +43165,7 @@ item_templates {
     km_buddy_distance: 3
     model_height: 1
     model_scale_v2: 1
-    form: 228
+    form: MAROWAK_PURIFIED
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 20
@@ -43241,7 +43241,7 @@ item_templates {
     km_buddy_distance: 3
     model_height: 1
     model_scale_v2: 1
-    form: 227
+    form: MAROWAK_SHADOW
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 20
@@ -43255,11 +43255,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 3000
-      2: 3
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -44910,7 +44910,7 @@ item_templates {
       evolution: SCIZOR
       evolution_item_requirement: ITEM_METAL_COAT
       candy_cost: 50
-      form: 250
+      form: SCIZOR_NORMAL
     }
     model_scale_v2: 0.92
     buddy_offset_male: 30
@@ -44994,10 +44994,10 @@ item_templates {
       evolution: SCIZOR
       evolution_item_requirement: ITEM_METAL_COAT
       candy_cost: 50
-      form: 250
+      form: SCIZOR_NORMAL
     }
     model_scale_v2: 0.92
-    form: 247
+    form: SCYTHER_NORMAL
     buddy_offset_male: 30
     buddy_offset_male: -20.55
     buddy_offset_male: 7.1
@@ -45079,10 +45079,10 @@ item_templates {
       evolution: SCIZOR
       evolution_item_requirement: ITEM_METAL_COAT
       candy_cost: 45
-      form: 252
+      form: SCIZOR_PURIFIED
     }
     model_scale_v2: 0.92
-    form: 249
+    form: SCYTHER_PURIFIED
     buddy_offset_male: 30
     buddy_offset_male: -20.55
     buddy_offset_male: 7.1
@@ -45164,10 +45164,10 @@ item_templates {
       evolution: SCIZOR
       evolution_item_requirement: ITEM_METAL_COAT
       candy_cost: 50
-      form: 251
+      form: SCIZOR_SHADOW
     }
     model_scale_v2: 0.92
-    form: 248
+    form: SCYTHER_SHADOW
     buddy_offset_male: 30
     buddy_offset_male: -20.55
     buddy_offset_male: 7.1
@@ -45184,11 +45184,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 5000
-      2: 5
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 5000
+      purification_candy_needed: 5
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -45711,7 +45711,7 @@ item_templates {
     evolution_branch {
       evolution: GYARADOS
       candy_cost: 400
-      form: 256
+      form: GYARADOS_NORMAL
     }
     model_scale_v2: 1
     buddy_offset_male: 1
@@ -45786,10 +45786,10 @@ item_templates {
     evolution_branch {
       evolution: GYARADOS
       candy_cost: 400
-      form: 256
+      form: GYARADOS_NORMAL
     }
     model_scale_v2: 1
-    form: 253
+    form: MAGIKARP_NORMAL
     buddy_offset_male: 1
     buddy_offset_male: 0
     buddy_offset_male: 13.6
@@ -45862,10 +45862,10 @@ item_templates {
     evolution_branch {
       evolution: GYARADOS
       candy_cost: 360
-      form: 258
+      form: GYARADOS_PURIFIED
     }
     model_scale_v2: 1
-    form: 255
+    form: MAGIKARP_PURIFIED
     buddy_offset_male: 1
     buddy_offset_male: 0
     buddy_offset_male: 13.6
@@ -45938,10 +45938,10 @@ item_templates {
     evolution_branch {
       evolution: GYARADOS
       candy_cost: 400
-      form: 257
+      form: GYARADOS_SHADOW
     }
     model_scale_v2: 1
-    form: 254
+    form: MAGIKARP_SHADOW
     buddy_offset_male: 1
     buddy_offset_male: 0
     buddy_offset_male: 13.6
@@ -45955,11 +45955,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 1000
-      2: 1
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 1000
+      purification_candy_needed: 1
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -46104,7 +46104,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 5.56
     model_scale_v2: 0.62
-    form: 256
+    form: GYARADOS_NORMAL
     buddy_offset_male: 23.8
     buddy_offset_male: -31.9
     buddy_offset_male: 63
@@ -46183,7 +46183,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 5.56
     model_scale_v2: 0.62
-    form: 258
+    form: GYARADOS_PURIFIED
     buddy_offset_male: 23.8
     buddy_offset_male: -31.9
     buddy_offset_male: 63
@@ -46262,7 +46262,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 5.56
     model_scale_v2: 0.62
-    form: 257
+    form: GYARADOS_SHADOW
     buddy_offset_male: 23.8
     buddy_offset_male: -31.9
     buddy_offset_male: 63
@@ -46276,11 +46276,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 1000
-      2: 1
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 1000
+      purification_candy_needed: 1
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -47526,7 +47526,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 2
     model_scale_v2: 1
-    form: 199
+    form: SNORLAX_NORMAL
     buddy_offset_male: 10
     buddy_offset_male: 0
     buddy_offset_male: 28.01
@@ -47612,7 +47612,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 2
     model_scale_v2: 1
-    form: 201
+    form: SNORLAX_PURIFIED
     buddy_offset_male: 10
     buddy_offset_male: 0
     buddy_offset_male: 28.01
@@ -47698,7 +47698,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 2
     model_scale_v2: 1
-    form: 200
+    form: SNORLAX_SHADOW
     buddy_offset_male: 10
     buddy_offset_male: 0
     buddy_offset_male: 28.01
@@ -47721,11 +47721,11 @@ item_templates {
     combat_default_camera_angle: 2.7
     combat_default_camera_angle: 2
     combat_default_camera_angle: 2
-    46 {
-      1: 5000
-      2: 5
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 5000
+      purification_candy_needed: 5
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -48018,7 +48018,7 @@ item_templates {
     evolution_branch {
       evolution: DRAGONAIR
       candy_cost: 25
-      form: 193
+      form: DRAGONAIR_NORMAL
     }
     model_scale_v2: 1
     buddy_offset_male: 0
@@ -48097,10 +48097,10 @@ item_templates {
     evolution_branch {
       evolution: DRAGONAIR
       candy_cost: 25
-      form: 193
+      form: DRAGONAIR_NORMAL
     }
     model_scale_v2: 1
-    form: 190
+    form: DRATINI_NORMAL
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -48177,10 +48177,10 @@ item_templates {
     evolution_branch {
       evolution: DRAGONAIR
       candy_cost: 22
-      form: 195
+      form: DRAGONAIR_PURIFIED
     }
     model_scale_v2: 1
-    form: 192
+    form: DRATINI_PURIFIED
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -48257,10 +48257,10 @@ item_templates {
     evolution_branch {
       evolution: DRAGONAIR
       candy_cost: 25
-      form: 194
+      form: DRAGONAIR_SHADOW
     }
     model_scale_v2: 1
-    form: 191
+    form: DRATINI_SHADOW
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -48274,11 +48274,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 5000
-      2: 5
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 5000
+      purification_candy_needed: 5
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -48347,7 +48347,7 @@ item_templates {
     evolution_branch {
       evolution: DRAGONITE
       candy_cost: 100
-      form: 196
+      form: DRAGONITE_NORMAL
     }
     model_scale_v2: 1
     buddy_offset_male: 30
@@ -48430,10 +48430,10 @@ item_templates {
     evolution_branch {
       evolution: DRAGONITE
       candy_cost: 100
-      form: 196
+      form: DRAGONITE_NORMAL
     }
     model_scale_v2: 1
-    form: 193
+    form: DRAGONAIR_NORMAL
     buddy_offset_male: 30
     buddy_offset_male: 0
     buddy_offset_male: 39.7
@@ -48514,10 +48514,10 @@ item_templates {
     evolution_branch {
       evolution: DRAGONITE
       candy_cost: 90
-      form: 198
+      form: DRAGONITE_PURIFIED
     }
     model_scale_v2: 1
-    form: 195
+    form: DRAGONAIR_PURIFIED
     buddy_offset_male: 30
     buddy_offset_male: 0
     buddy_offset_male: 39.7
@@ -48598,10 +48598,10 @@ item_templates {
     evolution_branch {
       evolution: DRAGONITE
       candy_cost: 100
-      form: 197
+      form: DRAGONITE_SHADOW
     }
     model_scale_v2: 1
-    form: 194
+    form: DRAGONAIR_SHADOW
     buddy_offset_male: 30
     buddy_offset_male: 0
     buddy_offset_male: 39.7
@@ -48615,11 +48615,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 5000
-      2: 5
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 5000
+      purification_candy_needed: 5
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -48764,7 +48764,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 2.28
     model_scale_v2: 0.96
-    form: 196
+    form: DRAGONITE_NORMAL
     buddy_offset_male: 20
     buddy_offset_male: -26.3
     buddy_offset_male: 51.7
@@ -48843,7 +48843,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 2.28
     model_scale_v2: 0.96
-    form: 198
+    form: DRAGONITE_PURIFIED
     buddy_offset_male: 20
     buddy_offset_male: -26.3
     buddy_offset_male: 51.7
@@ -48922,7 +48922,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 2.28
     model_scale_v2: 0.96
-    form: 197
+    form: DRAGONITE_SHADOW
     buddy_offset_male: 20
     buddy_offset_male: -26.3
     buddy_offset_male: 51.7
@@ -48936,11 +48936,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 5000
-      2: 5
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 5000
+      purification_candy_needed: 5
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -50784,7 +50784,7 @@ item_templates {
     buddy_size: BUDDY_FLYING
     model_height: 2.65
     model_scale_v2: 0.9
-    form: 202
+    form: CROBAT_NORMAL
     buddy_offset_male: 40
     buddy_offset_male: -20
     buddy_offset_male: -40
@@ -50866,7 +50866,7 @@ item_templates {
     buddy_size: BUDDY_FLYING
     model_height: 2.65
     model_scale_v2: 0.9
-    form: 204
+    form: CROBAT_PURIFIED
     buddy_offset_male: 40
     buddy_offset_male: -20
     buddy_offset_male: -40
@@ -50948,7 +50948,7 @@ item_templates {
     buddy_size: BUDDY_FLYING
     model_height: 2.65
     model_scale_v2: 0.9
-    form: 203
+    form: CROBAT_SHADOW
     buddy_offset_male: 40
     buddy_offset_male: -20
     buddy_offset_male: -40
@@ -50965,11 +50965,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 1000
-      2: 1
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 1000
+      purification_candy_needed: 1
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -52386,7 +52386,7 @@ item_templates {
     km_buddy_distance: 1.5
     model_height: 1.1
     model_scale_v2: 1
-    form: 244
+    form: POLITOED_NORMAL
     buddy_offset_male: 5.7
     buddy_offset_male: 0
     buddy_offset_male: -48.41
@@ -52465,7 +52465,7 @@ item_templates {
     km_buddy_distance: 1.5
     model_height: 1.1
     model_scale_v2: 1
-    form: 246
+    form: POLITOED_PURIFIED
     buddy_offset_male: 5.7
     buddy_offset_male: 0
     buddy_offset_male: -48.41
@@ -52544,7 +52544,7 @@ item_templates {
     km_buddy_distance: 1.5
     model_height: 1.1
     model_scale_v2: 1
-    form: 245
+    form: POLITOED_SHADOW
     buddy_offset_male: 5.7
     buddy_offset_male: 0
     buddy_offset_male: -48.41
@@ -52561,11 +52561,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 3000
-      2: 3
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -54904,7 +54904,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.91
     model_scale_v2: 1
-    form: 250
+    form: SCIZOR_NORMAL
     buddy_offset_male: 20
     buddy_offset_male: 0
     buddy_offset_male: 28.6
@@ -54982,7 +54982,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.91
     model_scale_v2: 1
-    form: 252
+    form: SCIZOR_PURIFIED
     buddy_offset_male: 20
     buddy_offset_male: 0
     buddy_offset_male: 28.6
@@ -55060,7 +55060,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.91
     model_scale_v2: 1
-    form: 251
+    form: SCIZOR_SHADOW
     buddy_offset_male: 20
     buddy_offset_male: 0
     buddy_offset_male: 28.6
@@ -55074,11 +55074,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 5000
-      2: 5
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 5000
+      purification_candy_needed: 5
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -56589,7 +56589,7 @@ item_templates {
     evolution_branch {
       evolution: HOUNDOOM
       candy_cost: 50
-      form: 232
+      form: HOUNDOOM_NORMAL
     }
     model_scale_v2: 1
     buddy_offset_male: 0
@@ -56669,10 +56669,10 @@ item_templates {
     evolution_branch {
       evolution: HOUNDOOM
       candy_cost: 50
-      form: 232
+      form: HOUNDOOM_NORMAL
     }
     model_scale_v2: 1
-    form: 229
+    form: HOUNDOUR_NORMAL
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -56750,10 +56750,10 @@ item_templates {
     evolution_branch {
       evolution: HOUNDOOM
       candy_cost: 45
-      form: 234
+      form: HOUNDOOM_PURIFIED
     }
     model_scale_v2: 1
-    form: 231
+    form: HOUNDOUR_PURIFIED
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -56831,10 +56831,10 @@ item_templates {
     evolution_branch {
       evolution: HOUNDOOM
       candy_cost: 50
-      form: 233
+      form: HOUNDOOM_SHADOW
     }
     model_scale_v2: 1
-    form: 230
+    form: HOUNDOUR_SHADOW
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -56848,11 +56848,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 3000
-      2: 3
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -57013,7 +57013,7 @@ item_templates {
     km_buddy_distance: 3
     model_height: 1.25
     model_scale_v2: 1
-    form: 232
+    form: HOUNDOOM_NORMAL
     buddy_offset_male: 4.3
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -57091,7 +57091,7 @@ item_templates {
     km_buddy_distance: 3
     model_height: 1.25
     model_scale_v2: 1
-    form: 234
+    form: HOUNDOOM_PURIFIED
     buddy_offset_male: 4.3
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -57169,7 +57169,7 @@ item_templates {
     km_buddy_distance: 3
     model_height: 1.25
     model_scale_v2: 1
-    form: 233
+    form: HOUNDOOM_SHADOW
     buddy_offset_male: 4.3
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -57183,11 +57183,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 3000
-      2: 3
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -59951,7 +59951,7 @@ item_templates {
     evolution_branch {
       evolution: MARSHTOMP
       candy_cost: 25
-      form: 208
+      form: MARSHTOMP_NORMAL
     }
     model_scale_v2: 1.1
     buddy_offset_male: 0
@@ -60031,10 +60031,10 @@ item_templates {
     evolution_branch {
       evolution: MARSHTOMP
       candy_cost: 25
-      form: 208
+      form: MARSHTOMP_NORMAL
     }
     model_scale_v2: 1.1
-    form: 205
+    form: MUDKIP_NORMAL
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -60112,10 +60112,10 @@ item_templates {
     evolution_branch {
       evolution: MARSHTOMP
       candy_cost: 22
-      form: 210
+      form: MARSHTOMP_PURIFIED
     }
     model_scale_v2: 1.1
-    form: 207
+    form: MUDKIP_PURIFIED
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -60193,10 +60193,10 @@ item_templates {
     evolution_branch {
       evolution: MARSHTOMP
       candy_cost: 25
-      form: 209
+      form: MARSHTOMP_SHADOW
     }
     model_scale_v2: 1.1
-    form: 206
+    form: MUDKIP_SHADOW
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -60213,11 +60213,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 3000
-      2: 3
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -60303,7 +60303,7 @@ item_templates {
     evolution_branch {
       evolution: SWAMPERT
       candy_cost: 100
-      form: 211
+      form: SWAMPERT_NORMAL
     }
     model_scale_v2: 1
     buddy_offset_male: 0
@@ -60384,10 +60384,10 @@ item_templates {
     evolution_branch {
       evolution: SWAMPERT
       candy_cost: 100
-      form: 211
+      form: SWAMPERT_NORMAL
     }
     model_scale_v2: 1
-    form: 208
+    form: MARSHTOMP_NORMAL
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -60466,10 +60466,10 @@ item_templates {
     evolution_branch {
       evolution: SWAMPERT
       candy_cost: 90
-      form: 213
+      form: SWAMPERT_PURIFIED
     }
     model_scale_v2: 1
-    form: 210
+    form: MARSHTOMP_PURIFIED
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -60548,10 +60548,10 @@ item_templates {
     evolution_branch {
       evolution: SWAMPERT
       candy_cost: 100
-      form: 212
+      form: SWAMPERT_SHADOW
     }
     model_scale_v2: 1
-    form: 209
+    form: MARSHTOMP_SHADOW
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -60565,11 +60565,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 3000
-      2: 3
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -60732,7 +60732,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.8
     model_scale_v2: 1
-    form: 211
+    form: SWAMPERT_NORMAL
     buddy_offset_male: 20
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -60811,7 +60811,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.8
     model_scale_v2: 1
-    form: 213
+    form: SWAMPERT_PURIFIED
     buddy_offset_male: 20
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -60890,7 +60890,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.8
     model_scale_v2: 1
-    form: 212
+    form: SWAMPERT_SHADOW
     buddy_offset_male: 20
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -60904,11 +60904,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 3000
-      2: 3
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -62846,7 +62846,7 @@ item_templates {
     evolution_branch {
       evolution: KIRLIA
       candy_cost: 25
-      form: 295
+      form: KIRLIA_NORMAL
     }
     model_scale_v2: 1.1
     buddy_offset_male: 0
@@ -62924,10 +62924,10 @@ item_templates {
     evolution_branch {
       evolution: KIRLIA
       candy_cost: 25
-      form: 295
+      form: KIRLIA_NORMAL
     }
     model_scale_v2: 1.1
-    form: 292
+    form: RALTS_NORMAL
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -63003,10 +63003,10 @@ item_templates {
     evolution_branch {
       evolution: KIRLIA
       candy_cost: 22
-      form: 297
+      form: KIRLIA_PURIFIED
     }
     model_scale_v2: 1.1
-    form: 294
+    form: RALTS_PURIFIED
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -63082,10 +63082,10 @@ item_templates {
     evolution_branch {
       evolution: KIRLIA
       candy_cost: 25
-      form: 296
+      form: KIRLIA_SHADOW
     }
     model_scale_v2: 1.1
-    form: 293
+    form: RALTS_SHADOW
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -63099,11 +63099,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 5000
-      2: 5
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 5000
+      purification_candy_needed: 5
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -63190,13 +63190,13 @@ item_templates {
       evolution: GALLADE
       evolution_item_requirement: ITEM_GEN4_EVOLUTION_STONE
       candy_cost: 100
-      form: 301
+      form: GALLADE_NORMAL
       gender_requirement: MALE
     }
     evolution_branch {
       evolution: GARDEVOIR
       candy_cost: 100
-      form: 298
+      form: GARDEVOIR_NORMAL
     }
     model_scale_v2: 1
     buddy_offset_male: 0
@@ -63278,16 +63278,16 @@ item_templates {
       evolution: GALLADE
       evolution_item_requirement: ITEM_GEN4_EVOLUTION_STONE
       candy_cost: 100
-      form: 301
+      form: GALLADE_NORMAL
       gender_requirement: MALE
     }
     evolution_branch {
       evolution: GARDEVOIR
       candy_cost: 100
-      form: 298
+      form: GARDEVOIR_NORMAL
     }
     model_scale_v2: 1
-    form: 295
+    form: KIRLIA_NORMAL
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -63367,16 +63367,16 @@ item_templates {
       evolution: GALLADE
       evolution_item_requirement: ITEM_GEN4_EVOLUTION_STONE
       candy_cost: 90
-      form: 303
+      form: GALLADE_PURIFIED
       gender_requirement: MALE
     }
     evolution_branch {
       evolution: GARDEVOIR
       candy_cost: 90
-      form: 300
+      form: GARDEVOIR_PURIFIED
     }
     model_scale_v2: 1
-    form: 297
+    form: KIRLIA_PURIFIED
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -63456,16 +63456,16 @@ item_templates {
       evolution: GALLADE
       evolution_item_requirement: ITEM_GEN4_EVOLUTION_STONE
       candy_cost: 100
-      form: 302
+      form: GALLADE_SHADOW
       gender_requirement: MALE
     }
     evolution_branch {
       evolution: GARDEVOIR
       candy_cost: 100
-      form: 299
+      form: GARDEVOIR_SHADOW
     }
     model_scale_v2: 1
-    form: 296
+    form: KIRLIA_SHADOW
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -63479,11 +63479,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 5000
-      2: 5
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 5000
+      purification_candy_needed: 5
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -63646,7 +63646,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.73414636
     model_scale_v2: 1
-    form: 298
+    form: GARDEVOIR_NORMAL
     buddy_offset_male: 20
     buddy_offset_male: 0
     buddy_offset_male: 75
@@ -63725,7 +63725,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.73414636
     model_scale_v2: 1
-    form: 300
+    form: GARDEVOIR_PURIFIED
     buddy_offset_male: 20
     buddy_offset_male: 0
     buddy_offset_male: 75
@@ -63804,7 +63804,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.73414636
     model_scale_v2: 1
-    form: 299
+    form: GARDEVOIR_SHADOW
     buddy_offset_male: 20
     buddy_offset_male: 0
     buddy_offset_male: 75
@@ -63818,11 +63818,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 5000
-      2: 5
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 5000
+      purification_candy_needed: 5
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
@@ -67391,7 +67391,7 @@ item_templates {
 item_templates {
   template_id: "V0322_MOVE_FRUSTRATION"
   move_settings {
-    movement_id: 322
+    movement_id: FRUSTRATION
     animation_id: 5
     pokemon_type: POKEMON_TYPE_NORMAL
     power: 10
@@ -67486,7 +67486,7 @@ item_templates {
 item_templates {
   template_id: "V0323_MOVE_RETURN"
   move_settings {
-    movement_id: 323
+    movement_id: RETURN
     animation_id: 5
     pokemon_type: POKEMON_TYPE_NORMAL
     power: 35
@@ -67581,7 +67581,7 @@ item_templates {
 item_templates {
   template_id: "V0324_MOVE_SYNCHRONOISE"
   move_settings {
-    movement_id: 324
+    movement_id: SYNCHRONOISE
     animation_id: 5
     pokemon_type: POKEMON_TYPE_PSYCHIC
     power: 80
@@ -81130,7 +81130,7 @@ item_templates {
     km_buddy_distance: 5
     model_height: 1.8
     model_scale_v2: 0.9
-    form: 301
+    form: GALLADE_NORMAL
     buddy_offset_male: 1.4
     buddy_offset_male: 0
     buddy_offset_male: -55.3
@@ -81209,7 +81209,7 @@ item_templates {
     km_buddy_distance: 5
     model_height: 1.8
     model_scale_v2: 0.9
-    form: 303
+    form: GALLADE_PURIFIED
     buddy_offset_male: 1.4
     buddy_offset_male: 0
     buddy_offset_male: -55.3
@@ -81288,7 +81288,7 @@ item_templates {
     km_buddy_distance: 5
     model_height: 1.8
     model_scale_v2: 0.9
-    form: 302
+    form: GALLADE_SHADOW
     buddy_offset_male: 1.4
     buddy_offset_male: 0
     buddy_offset_male: -55.3
@@ -81302,11 +81302,11 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
-    46 {
-      1: 5000
-      2: 5
-      3: 323
-      4: 322
+    shadow {
+      purification_stardust_needed: 5000
+      purification_candy_needed: 5
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
     }
   }
 }
