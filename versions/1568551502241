@@ -9887,6 +9887,7 @@ item_templates {
     additional_pokemon_allowed: MELTAN
     additional_pokemon_allowed: MELMETAL
     forms_allowed: FORM_UNSET
+<<<<<<< HEAD
     forms_allowed: 163
     forms_allowed: 166
     forms_allowed: 169
@@ -9896,6 +9897,17 @@ item_templates {
     forms_allowed: 181
     forms_allowed: 184
     forms_allowed: 187
+=======
+    forms_allowed: BULBASAUR_NORMAL
+    forms_allowed: IVYSAUR_NORMAL
+    forms_allowed: VENUSAUR_NORMAL
+    forms_allowed: CHARMANDER_NORMAL
+    forms_allowed: CHARMELION_NORMAL
+    forms_allowed: CHARIZARD_NORMAL
+    forms_allowed: SQUIRTLE_NORMAL
+    forms_allowed: WARTORTLE_NORMAL
+    forms_allowed: BLASTOISE_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     forms_allowed: RATTATA_NORMAL
     forms_allowed: RATTATA_ALOLA
     forms_allowed: RATICATE_NORMAL
@@ -9910,8 +9922,13 @@ item_templates {
     forms_allowed: VULPIX_ALOLA
     forms_allowed: NINETALES_NORMAL
     forms_allowed: NINETALES_ALOLA
+<<<<<<< HEAD
     forms_allowed: 157
     forms_allowed: 160
+=======
+    forms_allowed: ZUBAT_NORMAL
+    forms_allowed: GOLBAT_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     forms_allowed: DIGLETT_NORMAL
     forms_allowed: DIGLETT_ALOLA
     forms_allowed: DUGTRIO_NORMAL
@@ -9920,9 +9937,15 @@ item_templates {
     forms_allowed: MEOWTH_ALOLA
     forms_allowed: PERSIAN_NORMAL
     forms_allowed: PERSIAN_ALOLA
+<<<<<<< HEAD
     forms_allowed: 235
     forms_allowed: 238
     forms_allowed: 241
+=======
+    forms_allowed: POLIWAG_NORMAL
+    forms_allowed: POLIWHIRL_NORMAL
+    forms_allowed: POLIWRATH_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     forms_allowed: GEODUDE_NORMAL
     forms_allowed: GEODUDE_ALOLA
     forms_allowed: GRAVELER_NORMAL
@@ -9933,6 +9956,7 @@ item_templates {
     forms_allowed: GRIMER_ALOLA
     forms_allowed: MUK_NORMAL
     forms_allowed: MUK_ALOLA
+<<<<<<< HEAD
     forms_allowed: 214
     forms_allowed: 217
     forms_allowed: EXEGGUTOR_NORMAL
@@ -9947,6 +9971,22 @@ item_templates {
     forms_allowed: 190
     forms_allowed: 193
     forms_allowed: 196
+=======
+    forms_allowed: DROWZEE_NORMAL
+    forms_allowed: HYPNO_NORMAL
+    forms_allowed: EXEGGUTOR_NORMAL
+    forms_allowed: EXEGGUTOR_ALOLA
+    forms_allowed: CUBONE_NORMAL
+    forms_allowed: MAROWAK_NORMAL
+    forms_allowed: MAROWAK_ALOLA
+    forms_allowed: SCYTHER_NORMAL
+    forms_allowed: MAGIKARP_NORMAL
+    forms_allowed: GYARADOS_NORMAL
+    forms_allowed: SNORLAX_NORMAL
+    forms_allowed: DRATINI_NORMAL
+    forms_allowed: DRAGONAIR_NORMAL
+    forms_allowed: DRAGONITE_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     forms_allowed: MEWTWO_NORMAL
     costumes_allowed: COSTUME_UNSET
   }
@@ -10756,8 +10796,13 @@ item_templates {
     minimum_stat_stage: -4
     maximum_stat_stage: 4
     attack_buff_multiplier: 0.5
+<<<<<<< HEAD
     attack_buff_multiplier: 0.5714286
     attack_buff_multiplier: 0.66666669
+=======
+    attack_buff_multiplier: 0.571428597
+    attack_buff_multiplier: 0.666666687
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     attack_buff_multiplier: 0.8
     attack_buff_multiplier: 1
     attack_buff_multiplier: 1.25
@@ -10765,8 +10810,13 @@ item_templates {
     attack_buff_multiplier: 1.75
     attack_buff_multiplier: 2
     defense_buff_multiplier: 0.5
+<<<<<<< HEAD
     defense_buff_multiplier: 0.5714286
     defense_buff_multiplier: 0.66666669
+=======
+    defense_buff_multiplier: 0.571428597
+    defense_buff_multiplier: 0.666666687
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     defense_buff_multiplier: 0.8
     defense_buff_multiplier: 1
     defense_buff_multiplier: 1.25
@@ -12933,7 +12983,11 @@ item_templates {
 item_templates {
   template_id: "COMBAT_V0322_MOVE_FRUSTRATION"
   combat_move {
+<<<<<<< HEAD
     unique_id: 322
+=======
+    unique_id: FRUSTRATION
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     type: POKEMON_TYPE_NORMAL
     power: 10
     vfx_name: "frustration"
@@ -12943,7 +12997,11 @@ item_templates {
 item_templates {
   template_id: "COMBAT_V0323_MOVE_RETURN"
   combat_move {
+<<<<<<< HEAD
     unique_id: 323
+=======
+    unique_id: RETURN
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     type: POKEMON_TYPE_NORMAL
     power: 50
     vfx_name: "return"
@@ -12953,7 +13011,11 @@ item_templates {
 item_templates {
   template_id: "COMBAT_V0324_MOVE_SYNCHRONOISE"
   combat_move {
+<<<<<<< HEAD
     unique_id: 324
+=======
+    unique_id: SYNCHRONOISE
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     type: POKEMON_TYPE_PSYCHIC
     power: 80
     vfx_name: "synchronoise"
@@ -12984,6 +13046,7 @@ item_templates {
   form_settings {
     pokemon: BULBASAUR
     forms {
+<<<<<<< HEAD
       form: 163
     }
     forms {
@@ -12991,6 +13054,15 @@ item_templates {
     }
     forms {
       form: 165
+=======
+      form: BULBASAUR_NORMAL
+    }
+    forms {
+      form: BULBASAUR_SHADOW
+    }
+    forms {
+      form: BULBASAUR_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -12999,6 +13071,7 @@ item_templates {
   form_settings {
     pokemon: IVYSAUR
     forms {
+<<<<<<< HEAD
       form: 166
     }
     forms {
@@ -13006,6 +13079,15 @@ item_templates {
     }
     forms {
       form: 168
+=======
+      form: IVYSAUR_NORMAL
+    }
+    forms {
+      form: IVYSAUR_SHADOW
+    }
+    forms {
+      form: IVYSAUR_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -13014,6 +13096,7 @@ item_templates {
   form_settings {
     pokemon: VENUSAUR
     forms {
+<<<<<<< HEAD
       form: 169
     }
     forms {
@@ -13021,6 +13104,15 @@ item_templates {
     }
     forms {
       form: 171
+=======
+      form: VENUSAUR_NORMAL
+    }
+    forms {
+      form: VENUSAUR_SHADOW
+    }
+    forms {
+      form: VENUSAUR_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -13029,6 +13121,7 @@ item_templates {
   form_settings {
     pokemon: CHARMANDER
     forms {
+<<<<<<< HEAD
       form: 172
     }
     forms {
@@ -13036,6 +13129,15 @@ item_templates {
     }
     forms {
       form: 174
+=======
+      form: CHARMANDER_NORMAL
+    }
+    forms {
+      form: CHARMANDER_SHADOW
+    }
+    forms {
+      form: CHARMANDER_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -13044,6 +13146,7 @@ item_templates {
   form_settings {
     pokemon: CHARMELEON
     forms {
+<<<<<<< HEAD
       form: 175
     }
     forms {
@@ -13051,6 +13154,15 @@ item_templates {
     }
     forms {
       form: 177
+=======
+      form: CHARMELION_NORMAL
+    }
+    forms {
+      form: CHARMELION_SHADOW
+    }
+    forms {
+      form: CHARMELION_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -13059,6 +13171,7 @@ item_templates {
   form_settings {
     pokemon: CHARIZARD
     forms {
+<<<<<<< HEAD
       form: 178
     }
     forms {
@@ -13066,6 +13179,15 @@ item_templates {
     }
     forms {
       form: 180
+=======
+      form: CHARIZARD_NORMAL
+    }
+    forms {
+      form: CHARIZARD_SHADOW
+    }
+    forms {
+      form: CHARIZARD_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -13074,6 +13196,7 @@ item_templates {
   form_settings {
     pokemon: SQUIRTLE
     forms {
+<<<<<<< HEAD
       form: 181
     }
     forms {
@@ -13081,6 +13204,15 @@ item_templates {
     }
     forms {
       form: 183
+=======
+      form: SQUIRTLE_NORMAL
+    }
+    forms {
+      form: SQUIRTLE_SHADOW
+    }
+    forms {
+      form: SQUIRTLE_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -13089,6 +13221,7 @@ item_templates {
   form_settings {
     pokemon: WARTORTLE
     forms {
+<<<<<<< HEAD
       form: 184
     }
     forms {
@@ -13096,6 +13229,15 @@ item_templates {
     }
     forms {
       form: 186
+=======
+      form: WARTORTLE_NORMAL
+    }
+    forms {
+      form: WARTORTLE_SHADOW
+    }
+    forms {
+      form: WARTORTLE_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -13104,6 +13246,7 @@ item_templates {
   form_settings {
     pokemon: BLASTOISE
     forms {
+<<<<<<< HEAD
       form: 187
     }
     forms {
@@ -13111,6 +13254,15 @@ item_templates {
     }
     forms {
       form: 189
+=======
+      form: BLASTOISE_NORMAL
+    }
+    forms {
+      form: BLASTOISE_SHADOW
+    }
+    forms {
+      form: BLASTOISE_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -13180,10 +13332,17 @@ item_templates {
       asset_bundle_value: 61
     }
     forms {
+<<<<<<< HEAD
       form: 153
     }
     forms {
       form: 154
+=======
+      form: RATTATA_SHADOW
+    }
+    forms {
+      form: RATTATA_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -13199,10 +13358,17 @@ item_templates {
       asset_bundle_value: 61
     }
     forms {
+<<<<<<< HEAD
       form: 155
     }
     forms {
       form: 156
+=======
+      form: RATICATE_SHADOW
+    }
+    forms {
+      form: RATICATE_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -13366,6 +13532,7 @@ item_templates {
   form_settings {
     pokemon: ZUBAT
     forms {
+<<<<<<< HEAD
       form: 157
     }
     forms {
@@ -13373,6 +13540,15 @@ item_templates {
     }
     forms {
       form: 159
+=======
+      form: ZUBAT_NORMAL
+    }
+    forms {
+      form: ZUBAT_SHADOW
+    }
+    forms {
+      form: ZUBAT_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -13381,6 +13557,7 @@ item_templates {
   form_settings {
     pokemon: GOLBAT
     forms {
+<<<<<<< HEAD
       form: 160
     }
     forms {
@@ -13388,6 +13565,15 @@ item_templates {
     }
     forms {
       form: 162
+=======
+      form: GOLBAT_NORMAL
+    }
+    forms {
+      form: GOLBAT_SHADOW
+    }
+    forms {
+      form: GOLBAT_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -13526,6 +13712,7 @@ item_templates {
   form_settings {
     pokemon: POLIWAG
     forms {
+<<<<<<< HEAD
       form: 235
     }
     forms {
@@ -13533,6 +13720,15 @@ item_templates {
     }
     forms {
       form: 237
+=======
+      form: POLIWAG_NORMAL
+    }
+    forms {
+      form: POLIWAG_SHADOW
+    }
+    forms {
+      form: POLIWAG_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -13541,6 +13737,7 @@ item_templates {
   form_settings {
     pokemon: POLIWHIRL
     forms {
+<<<<<<< HEAD
       form: 238
     }
     forms {
@@ -13548,6 +13745,15 @@ item_templates {
     }
     forms {
       form: 240
+=======
+      form: POLIWHIRL_NORMAL
+    }
+    forms {
+      form: POLIWHIRL_SHADOW
+    }
+    forms {
+      form: POLIWHIRL_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -13556,6 +13762,7 @@ item_templates {
   form_settings {
     pokemon: POLIWRATH
     forms {
+<<<<<<< HEAD
       form: 241
     }
     forms {
@@ -13563,6 +13770,15 @@ item_templates {
     }
     forms {
       form: 243
+=======
+      form: POLIWRATH_NORMAL
+    }
+    forms {
+      form: POLIWRATH_SHADOW
+    }
+    forms {
+      form: POLIWRATH_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -13749,10 +13965,17 @@ item_templates {
       asset_bundle_value: 61
     }
     forms {
+<<<<<<< HEAD
       form: 220
     }
     forms {
       form: 221
+=======
+      form: GRIMER_SHADOW
+    }
+    forms {
+      form: GRIMER_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -13768,10 +13991,17 @@ item_templates {
       asset_bundle_value: 61
     }
     forms {
+<<<<<<< HEAD
       form: 222
     }
     forms {
       form: 223
+=======
+      form: MUK_SHADOW
+    }
+    forms {
+      form: MUK_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -13816,6 +14046,7 @@ item_templates {
   form_settings {
     pokemon: DROWZEE
     forms {
+<<<<<<< HEAD
       form: 214
     }
     forms {
@@ -13823,6 +14054,15 @@ item_templates {
     }
     forms {
       form: 216
+=======
+      form: DROWZEE_NORMAL
+    }
+    forms {
+      form: DROWZEE_SHADOW
+    }
+    forms {
+      form: DROWZEE_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -13831,6 +14071,7 @@ item_templates {
   form_settings {
     pokemon: HYPNO
     forms {
+<<<<<<< HEAD
       form: 217
     }
     forms {
@@ -13838,6 +14079,15 @@ item_templates {
     }
     forms {
       form: 219
+=======
+      form: HYPNO_NORMAL
+    }
+    forms {
+      form: HYPNO_SHADOW
+    }
+    forms {
+      form: HYPNO_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -13889,6 +14139,7 @@ item_templates {
   form_settings {
     pokemon: CUBONE
     forms {
+<<<<<<< HEAD
       form: 224
     }
     forms {
@@ -13896,6 +14147,15 @@ item_templates {
     }
     forms {
       form: 226
+=======
+      form: CUBONE_NORMAL
+    }
+    forms {
+      form: CUBONE_SHADOW
+    }
+    forms {
+      form: CUBONE_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -13911,10 +14171,17 @@ item_templates {
       asset_bundle_value: 61
     }
     forms {
+<<<<<<< HEAD
       form: 227
     }
     forms {
       form: 228
+=======
+      form: MAROWAK_SHADOW
+    }
+    forms {
+      form: MAROWAK_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -14025,6 +14292,7 @@ item_templates {
   form_settings {
     pokemon: SCYTHER
     forms {
+<<<<<<< HEAD
       form: 247
     }
     forms {
@@ -14032,6 +14300,15 @@ item_templates {
     }
     forms {
       form: 249
+=======
+      form: SCYTHER_NORMAL
+    }
+    forms {
+      form: SCYTHER_SHADOW
+    }
+    forms {
+      form: SCYTHER_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -14070,6 +14347,7 @@ item_templates {
   form_settings {
     pokemon: MAGIKARP
     forms {
+<<<<<<< HEAD
       form: 253
     }
     forms {
@@ -14077,6 +14355,15 @@ item_templates {
     }
     forms {
       form: 255
+=======
+      form: MAGIKARP_NORMAL
+    }
+    forms {
+      form: MAGIKARP_SHADOW
+    }
+    forms {
+      form: MAGIKARP_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -14085,6 +14372,7 @@ item_templates {
   form_settings {
     pokemon: GYARADOS
     forms {
+<<<<<<< HEAD
       form: 256
     }
     forms {
@@ -14092,6 +14380,15 @@ item_templates {
     }
     forms {
       form: 258
+=======
+      form: GYARADOS_NORMAL
+    }
+    forms {
+      form: GYARADOS_SHADOW
+    }
+    forms {
+      form: GYARADOS_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -14172,6 +14469,7 @@ item_templates {
   form_settings {
     pokemon: SNORLAX
     forms {
+<<<<<<< HEAD
       form: 199
     }
     forms {
@@ -14179,6 +14477,15 @@ item_templates {
     }
     forms {
       form: 201
+=======
+      form: SNORLAX_NORMAL
+    }
+    forms {
+      form: SNORLAX_SHADOW
+    }
+    forms {
+      form: SNORLAX_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -14205,6 +14512,7 @@ item_templates {
   form_settings {
     pokemon: DRATINI
     forms {
+<<<<<<< HEAD
       form: 190
     }
     forms {
@@ -14212,6 +14520,15 @@ item_templates {
     }
     forms {
       form: 192
+=======
+      form: DRATINI_NORMAL
+    }
+    forms {
+      form: DRATINI_SHADOW
+    }
+    forms {
+      form: DRATINI_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -14220,6 +14537,7 @@ item_templates {
   form_settings {
     pokemon: DRAGONAIR
     forms {
+<<<<<<< HEAD
       form: 193
     }
     forms {
@@ -14227,6 +14545,15 @@ item_templates {
     }
     forms {
       form: 195
+=======
+      form: DRAGONAIR_NORMAL
+    }
+    forms {
+      form: DRAGONAIR_SHADOW
+    }
+    forms {
+      form: DRAGONAIR_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -14235,6 +14562,7 @@ item_templates {
   form_settings {
     pokemon: DRAGONITE
     forms {
+<<<<<<< HEAD
       form: 196
     }
     forms {
@@ -14242,6 +14570,15 @@ item_templates {
     }
     forms {
       form: 198
+=======
+      form: DRAGONITE_NORMAL
+    }
+    forms {
+      form: DRAGONITE_SHADOW
+    }
+    forms {
+      form: DRAGONITE_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -14371,6 +14708,7 @@ item_templates {
   form_settings {
     pokemon: CROBAT
     forms {
+<<<<<<< HEAD
       form: 202
     }
     forms {
@@ -14378,6 +14716,15 @@ item_templates {
     }
     forms {
       form: 204
+=======
+      form: CROBAT_NORMAL
+    }
+    forms {
+      form: CROBAT_SHADOW
+    }
+    forms {
+      form: CROBAT_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -14482,6 +14829,7 @@ item_templates {
   form_settings {
     pokemon: POLITOED
     forms {
+<<<<<<< HEAD
       form: 244
     }
     forms {
@@ -14489,6 +14837,15 @@ item_templates {
     }
     forms {
       form: 246
+=======
+      form: POLITOED_NORMAL
+    }
+    forms {
+      form: POLITOED_SHADOW
+    }
+    forms {
+      form: POLITOED_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -14759,6 +15116,7 @@ item_templates {
   form_settings {
     pokemon: SCIZOR
     forms {
+<<<<<<< HEAD
       form: 250
     }
     forms {
@@ -14766,6 +15124,15 @@ item_templates {
     }
     forms {
       form: 252
+=======
+      form: SCIZOR_NORMAL
+    }
+    forms {
+      form: SCIZOR_SHADOW
+    }
+    forms {
+      form: SCIZOR_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -14864,6 +15231,7 @@ item_templates {
   form_settings {
     pokemon: HOUNDOUR
     forms {
+<<<<<<< HEAD
       form: 229
     }
     forms {
@@ -14871,6 +15239,15 @@ item_templates {
     }
     forms {
       form: 231
+=======
+      form: HOUNDOUR_NORMAL
+    }
+    forms {
+      form: HOUNDOUR_SHADOW
+    }
+    forms {
+      form: HOUNDOUR_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -14879,6 +15256,7 @@ item_templates {
   form_settings {
     pokemon: HOUNDOOM
     forms {
+<<<<<<< HEAD
       form: 232
     }
     forms {
@@ -14886,6 +15264,15 @@ item_templates {
     }
     forms {
       form: 234
+=======
+      form: HOUNDOOM_NORMAL
+    }
+    forms {
+      form: HOUNDOOM_SHADOW
+    }
+    forms {
+      form: HOUNDOOM_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -15062,6 +15449,7 @@ item_templates {
   form_settings {
     pokemon: MUDKIP
     forms {
+<<<<<<< HEAD
       form: 205
     }
     forms {
@@ -15069,6 +15457,15 @@ item_templates {
     }
     forms {
       form: 207
+=======
+      form: MUDKIP_NORMAL
+    }
+    forms {
+      form: MUDKIP_SHADOW
+    }
+    forms {
+      form: MUDKIP_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -15077,6 +15474,7 @@ item_templates {
   form_settings {
     pokemon: MARSHTOMP
     forms {
+<<<<<<< HEAD
       form: 208
     }
     forms {
@@ -15084,6 +15482,15 @@ item_templates {
     }
     forms {
       form: 210
+=======
+      form: MARSHTOMP_NORMAL
+    }
+    forms {
+      form: MARSHTOMP_SHADOW
+    }
+    forms {
+      form: MARSHTOMP_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -15092,6 +15499,7 @@ item_templates {
   form_settings {
     pokemon: SWAMPERT
     forms {
+<<<<<<< HEAD
       form: 211
     }
     forms {
@@ -15099,6 +15507,15 @@ item_templates {
     }
     forms {
       form: 213
+=======
+      form: SWAMPERT_NORMAL
+    }
+    forms {
+      form: SWAMPERT_SHADOW
+    }
+    forms {
+      form: SWAMPERT_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -15221,6 +15638,7 @@ item_templates {
   form_settings {
     pokemon: RALTS
     forms {
+<<<<<<< HEAD
       form: 292
     }
     forms {
@@ -15228,6 +15646,15 @@ item_templates {
     }
     forms {
       form: 294
+=======
+      form: RALTS_NORMAL
+    }
+    forms {
+      form: RALTS_SHADOW
+    }
+    forms {
+      form: RALTS_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -15236,6 +15663,7 @@ item_templates {
   form_settings {
     pokemon: KIRLIA
     forms {
+<<<<<<< HEAD
       form: 295
     }
     forms {
@@ -15243,6 +15671,15 @@ item_templates {
     }
     forms {
       form: 297
+=======
+      form: KIRLIA_NORMAL
+    }
+    forms {
+      form: KIRLIA_SHADOW
+    }
+    forms {
+      form: KIRLIA_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -15251,6 +15688,7 @@ item_templates {
   form_settings {
     pokemon: GARDEVOIR
     forms {
+<<<<<<< HEAD
       form: 298
     }
     forms {
@@ -15258,6 +15696,15 @@ item_templates {
     }
     forms {
       form: 300
+=======
+      form: GARDEVOIR_NORMAL
+    }
+    forms {
+      form: GARDEVOIR_SHADOW
+    }
+    forms {
+      form: GARDEVOIR_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -16578,6 +17025,7 @@ item_templates {
   form_settings {
     pokemon: GALLADE
     forms {
+<<<<<<< HEAD
       form: 301
     }
     forms {
@@ -16585,6 +17033,15 @@ item_templates {
     }
     forms {
       form: 303
+=======
+      form: GALLADE_NORMAL
+    }
+    forms {
+      form: GALLADE_SHADOW
+    }
+    forms {
+      form: GALLADE_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -17161,7 +17618,11 @@ item_templates {
     egg_incubator {
       incubator_type: INCUBATOR_DISTANCE
       uses: 3
+<<<<<<< HEAD
       distance_multiplier: 0.66666669
+=======
+      distance_multiplier: 0.666666687
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
   }
 }
@@ -17649,6 +18110,7 @@ item_templates {
     cp_multiplier: 0.094
     cp_multiplier: 0.16639787
     cp_multiplier: 0.21573247
+<<<<<<< HEAD
     cp_multiplier: 0.25572005
     cp_multiplier: 0.29024988
     cp_multiplier: 0.3210876
@@ -17683,6 +18145,42 @@ item_templates {
     cp_multiplier: 0.76156384
     cp_multiplier: 0.76739717
     cp_multiplier: 0.7731865
+=======
+    cp_multiplier: 0.255720049
+    cp_multiplier: 0.290249884
+    cp_multiplier: 0.321087599
+    cp_multiplier: 0.349212676
+    cp_multiplier: 0.375235587
+    cp_multiplier: 0.399567276
+    cp_multiplier: 0.4225
+    cp_multiplier: 0.443107545
+    cp_multiplier: 0.462798387
+    cp_multiplier: 0.481684953
+    cp_multiplier: 0.499858439
+    cp_multiplier: 0.517393947
+    cp_multiplier: 0.534354329
+    cp_multiplier: 0.550792694
+    cp_multiplier: 0.56675452
+    cp_multiplier: 0.582278907
+    cp_multiplier: 0.5974
+    cp_multiplier: 0.612157285
+    cp_multiplier: 0.626567125
+    cp_multiplier: 0.640652955
+    cp_multiplier: 0.654435635
+    cp_multiplier: 0.667934
+    cp_multiplier: 0.68116492
+    cp_multiplier: 0.694143653
+    cp_multiplier: 0.706884205
+    cp_multiplier: 0.719399095
+    cp_multiplier: 0.7317
+    cp_multiplier: 0.737769485
+    cp_multiplier: 0.743789434
+    cp_multiplier: 0.749761045
+    cp_multiplier: 0.755685508
+    cp_multiplier: 0.761563838
+    cp_multiplier: 0.767397165
+    cp_multiplier: 0.773186505
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     cp_multiplier: 0.77893275
     cp_multiplier: 0.784637
     cp_multiplier: 0.7903
@@ -25641,7 +26139,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.1667
     animation_time: 1.4
+<<<<<<< HEAD
     animation_time: 1.4666671
+=======
+    animation_time: 1.46666706
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: IVYSAUR
     evolution_pips: 1
     pokedex_height_m: 0.7
@@ -25655,7 +26157,11 @@ item_templates {
     evolution_branch {
       evolution: IVYSAUR
       candy_cost: 25
+<<<<<<< HEAD
       form: 166
+=======
+      form: IVYSAUR_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
     model_scale_v2: 0.89
     buddy_offset_male: 0
@@ -25721,7 +26227,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.1667
     animation_time: 1.4
+<<<<<<< HEAD
     animation_time: 1.4666671
+=======
+    animation_time: 1.46666706
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: IVYSAUR
     evolution_pips: 1
     pokedex_height_m: 0.7
@@ -25735,10 +26245,17 @@ item_templates {
     evolution_branch {
       evolution: IVYSAUR
       candy_cost: 25
+<<<<<<< HEAD
       form: 166
     }
     model_scale_v2: 0.89
     form: 163
+=======
+      form: IVYSAUR_NORMAL
+    }
+    model_scale_v2: 0.89
+    form: BULBASAUR_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -25802,7 +26319,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.1667
     animation_time: 1.4
+<<<<<<< HEAD
     animation_time: 1.4666671
+=======
+    animation_time: 1.46666706
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: IVYSAUR
     evolution_pips: 1
     pokedex_height_m: 0.7
@@ -25816,10 +26337,17 @@ item_templates {
     evolution_branch {
       evolution: IVYSAUR
       candy_cost: 22
+<<<<<<< HEAD
       form: 168
     }
     model_scale_v2: 0.89
     form: 165
+=======
+      form: IVYSAUR_PURIFIED
+    }
+    model_scale_v2: 0.89
+    form: BULBASAUR_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -25883,7 +26411,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.1667
     animation_time: 1.4
+<<<<<<< HEAD
     animation_time: 1.4666671
+=======
+    animation_time: 1.46666706
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: IVYSAUR
     evolution_pips: 1
     pokedex_height_m: 0.7
@@ -25897,10 +26429,17 @@ item_templates {
     evolution_branch {
       evolution: IVYSAUR
       candy_cost: 25
+<<<<<<< HEAD
       form: 167
     }
     model_scale_v2: 0.89
     form: 164
+=======
+      form: IVYSAUR_SHADOW
+    }
+    model_scale_v2: 0.89
+    form: BULBASAUR_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -25914,6 +26453,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -25966,7 +26514,11 @@ item_templates {
     animation_time: 0
     animation_time: 2
     animation_time: 1.6667
+<<<<<<< HEAD
     animation_time: 1.733333
+=======
+    animation_time: 1.73333299
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: VENUSAUR
     evolution_pips: 1
     pokedex_height_m: 1
@@ -25982,7 +26534,11 @@ item_templates {
     evolution_branch {
       evolution: VENUSAUR
       candy_cost: 100
+<<<<<<< HEAD
       form: 169
+=======
+      form: VENUSAUR_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
     model_scale_v2: 0.89
     buddy_offset_male: 9.3
@@ -26050,7 +26606,11 @@ item_templates {
     animation_time: 0
     animation_time: 2
     animation_time: 1.6667
+<<<<<<< HEAD
     animation_time: 1.733333
+=======
+    animation_time: 1.73333299
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: VENUSAUR
     evolution_pips: 1
     pokedex_height_m: 1
@@ -26066,10 +26626,17 @@ item_templates {
     evolution_branch {
       evolution: VENUSAUR
       candy_cost: 100
+<<<<<<< HEAD
       form: 169
     }
     model_scale_v2: 0.89
     form: 166
+=======
+      form: VENUSAUR_NORMAL
+    }
+    model_scale_v2: 0.89
+    form: IVYSAUR_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 9.3
     buddy_offset_male: 0
     buddy_offset_male: 66.7
@@ -26135,7 +26702,11 @@ item_templates {
     animation_time: 0
     animation_time: 2
     animation_time: 1.6667
+<<<<<<< HEAD
     animation_time: 1.733333
+=======
+    animation_time: 1.73333299
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: VENUSAUR
     evolution_pips: 1
     pokedex_height_m: 1
@@ -26151,10 +26722,17 @@ item_templates {
     evolution_branch {
       evolution: VENUSAUR
       candy_cost: 90
+<<<<<<< HEAD
       form: 171
     }
     model_scale_v2: 0.89
     form: 168
+=======
+      form: VENUSAUR_PURIFIED
+    }
+    model_scale_v2: 0.89
+    form: IVYSAUR_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 9.3
     buddy_offset_male: 0
     buddy_offset_male: 66.7
@@ -26220,7 +26798,11 @@ item_templates {
     animation_time: 0
     animation_time: 2
     animation_time: 1.6667
+<<<<<<< HEAD
     animation_time: 1.733333
+=======
+    animation_time: 1.73333299
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: VENUSAUR
     evolution_pips: 1
     pokedex_height_m: 1
@@ -26236,10 +26818,17 @@ item_templates {
     evolution_branch {
       evolution: VENUSAUR
       candy_cost: 100
+<<<<<<< HEAD
       form: 170
     }
     model_scale_v2: 0.89
     form: 167
+=======
+      form: VENUSAUR_SHADOW
+    }
+    model_scale_v2: 0.89
+    form: IVYSAUR_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 9.3
     buddy_offset_male: 0
     buddy_offset_male: 66.7
@@ -26253,6 +26842,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -26305,7 +26903,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.1333
     animation_time: 2
+<<<<<<< HEAD
     animation_time: 2.0666671
+=======
+    animation_time: 2.06666708
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_pips: 1
     pokedex_height_m: 2
     pokedex_weight_kg: 100
@@ -26391,7 +26993,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.1333
     animation_time: 2
+<<<<<<< HEAD
     animation_time: 2.0666671
+=======
+    animation_time: 2.06666708
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_pips: 1
     pokedex_height_m: 2
     pokedex_weight_kg: 100
@@ -26403,7 +27009,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.9
     model_scale_v2: 0.84
+<<<<<<< HEAD
     form: 169
+=======
+    form: VENUSAUR_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -26478,7 +27088,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.1333
     animation_time: 2
+<<<<<<< HEAD
     animation_time: 2.0666671
+=======
+    animation_time: 2.06666708
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_pips: 1
     pokedex_height_m: 2
     pokedex_weight_kg: 100
@@ -26490,7 +27104,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.9
     model_scale_v2: 0.84
+<<<<<<< HEAD
     form: 171
+=======
+    form: VENUSAUR_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -26565,7 +27183,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.1333
     animation_time: 2
+<<<<<<< HEAD
     animation_time: 2.0666671
+=======
+    animation_time: 2.06666708
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_pips: 1
     pokedex_height_m: 2
     pokedex_weight_kg: 100
@@ -26577,7 +27199,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.9
     model_scale_v2: 0.84
+<<<<<<< HEAD
     form: 170
+=======
+    form: VENUSAUR_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -26600,6 +27226,15 @@ item_templates {
     combat_player_focus_camera_angle: -1
     combat_player_focus_camera_angle: -0.7
     combat_player_focus_camera_angle: 0
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -26649,7 +27284,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.1333
     animation_time: 1.1667
+<<<<<<< HEAD
     animation_time: 1.333333
+=======
+    animation_time: 1.33333302
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: CHARMELEON
     evolution_pips: 1
     pokedex_height_m: 0.6
@@ -26663,7 +27302,11 @@ item_templates {
     evolution_branch {
       evolution: CHARMELEON
       candy_cost: 25
+<<<<<<< HEAD
       form: 175
+=======
+      form: CHARMELION_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
     model_scale_v2: 1
     buddy_offset_male: 0
@@ -26728,7 +27371,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.1333
     animation_time: 1.1667
+<<<<<<< HEAD
     animation_time: 1.333333
+=======
+    animation_time: 1.33333302
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: CHARMELEON
     evolution_pips: 1
     pokedex_height_m: 0.6
@@ -26742,10 +27389,17 @@ item_templates {
     evolution_branch {
       evolution: CHARMELEON
       candy_cost: 25
+<<<<<<< HEAD
       form: 175
     }
     model_scale_v2: 1
     form: 172
+=======
+      form: CHARMELION_NORMAL
+    }
+    model_scale_v2: 1
+    form: CHARMANDER_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -26808,7 +27462,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.1333
     animation_time: 1.1667
+<<<<<<< HEAD
     animation_time: 1.333333
+=======
+    animation_time: 1.33333302
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: CHARMELEON
     evolution_pips: 1
     pokedex_height_m: 0.6
@@ -26822,10 +27480,17 @@ item_templates {
     evolution_branch {
       evolution: CHARMELEON
       candy_cost: 22
+<<<<<<< HEAD
       form: 177
     }
     model_scale_v2: 1
     form: 174
+=======
+      form: CHARMELION_PURIFIED
+    }
+    model_scale_v2: 1
+    form: CHARMANDER_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -26888,7 +27553,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.1333
     animation_time: 1.1667
+<<<<<<< HEAD
     animation_time: 1.333333
+=======
+    animation_time: 1.33333302
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: CHARMELEON
     evolution_pips: 1
     pokedex_height_m: 0.6
@@ -26902,10 +27571,17 @@ item_templates {
     evolution_branch {
       evolution: CHARMELEON
       candy_cost: 25
+<<<<<<< HEAD
       form: 176
     }
     model_scale_v2: 1
     form: 173
+=======
+      form: CHARMELION_SHADOW
+    }
+    model_scale_v2: 1
+    form: CHARMANDER_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -26919,6 +27595,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -26967,10 +27652,17 @@ item_templates {
     animation_time: 0.6667
     animation_time: 1.8333
     animation_time: 1.5
+<<<<<<< HEAD
     animation_time: 6.666667
     animation_time: 2.3333
     animation_time: 2
     animation_time: 2.533334
+=======
+    animation_time: 6.66666698
+    animation_time: 2.3333
+    animation_time: 2
+    animation_time: 2.53333402
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: CHARIZARD
     evolution_pips: 1
     pokedex_height_m: 1.1
@@ -26985,7 +27677,11 @@ item_templates {
     evolution_branch {
       evolution: CHARIZARD
       candy_cost: 100
+<<<<<<< HEAD
       form: 178
+=======
+      form: CHARIZARD_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
     model_scale_v2: 1.07
     buddy_offset_male: 8.8
@@ -27049,10 +27745,17 @@ item_templates {
     animation_time: 0.6667
     animation_time: 1.8333
     animation_time: 1.5
+<<<<<<< HEAD
     animation_time: 6.666667
     animation_time: 2.3333
     animation_time: 2
     animation_time: 2.533334
+=======
+    animation_time: 6.66666698
+    animation_time: 2.3333
+    animation_time: 2
+    animation_time: 2.53333402
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: CHARIZARD
     evolution_pips: 1
     pokedex_height_m: 1.1
@@ -27067,10 +27770,17 @@ item_templates {
     evolution_branch {
       evolution: CHARIZARD
       candy_cost: 100
+<<<<<<< HEAD
       form: 178
     }
     model_scale_v2: 1.07
     form: 175
+=======
+      form: CHARIZARD_NORMAL
+    }
+    model_scale_v2: 1.07
+    form: CHARMELION_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 8.8
     buddy_offset_male: 0
     buddy_offset_male: 0.3
@@ -27132,10 +27842,17 @@ item_templates {
     animation_time: 0.6667
     animation_time: 1.8333
     animation_time: 1.5
+<<<<<<< HEAD
     animation_time: 6.666667
     animation_time: 2.3333
     animation_time: 2
     animation_time: 2.533334
+=======
+    animation_time: 6.66666698
+    animation_time: 2.3333
+    animation_time: 2
+    animation_time: 2.53333402
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: CHARIZARD
     evolution_pips: 1
     pokedex_height_m: 1.1
@@ -27150,10 +27867,17 @@ item_templates {
     evolution_branch {
       evolution: CHARIZARD
       candy_cost: 90
+<<<<<<< HEAD
       form: 180
     }
     model_scale_v2: 1.07
     form: 177
+=======
+      form: CHARIZARD_PURIFIED
+    }
+    model_scale_v2: 1.07
+    form: CHARMELION_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 8.8
     buddy_offset_male: 0
     buddy_offset_male: 0.3
@@ -27215,10 +27939,17 @@ item_templates {
     animation_time: 0.6667
     animation_time: 1.8333
     animation_time: 1.5
+<<<<<<< HEAD
     animation_time: 6.666667
     animation_time: 2.3333
     animation_time: 2
     animation_time: 2.533334
+=======
+    animation_time: 6.66666698
+    animation_time: 2.3333
+    animation_time: 2
+    animation_time: 2.53333402
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: CHARIZARD
     evolution_pips: 1
     pokedex_height_m: 1.1
@@ -27233,10 +27964,17 @@ item_templates {
     evolution_branch {
       evolution: CHARIZARD
       candy_cost: 100
+<<<<<<< HEAD
       form: 179
     }
     model_scale_v2: 1.07
     form: 176
+=======
+      form: CHARIZARD_SHADOW
+    }
+    model_scale_v2: 1.07
+    form: CHARMELION_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 8.8
     buddy_offset_male: 0
     buddy_offset_male: 0.3
@@ -27250,6 +27988,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -27300,7 +28047,11 @@ item_templates {
     animation_time: 0.6667
     animation_time: 1.6667
     animation_time: 0.8667
+<<<<<<< HEAD
     animation_time: 6.666667
+=======
+    animation_time: 6.66666698
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     animation_time: 2
     animation_time: 1.6
     animation_time: 2
@@ -27378,7 +28129,11 @@ item_templates {
     animation_time: 0.6667
     animation_time: 1.6667
     animation_time: 0.8667
+<<<<<<< HEAD
     animation_time: 6.666667
+=======
+    animation_time: 6.66666698
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     animation_time: 2
     animation_time: 1.6
     animation_time: 2
@@ -27393,7 +28148,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.91
     model_scale_v2: 1.1
+<<<<<<< HEAD
     form: 178
+=======
+    form: CHARIZARD_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 1.9
     buddy_offset_male: -11.4
     buddy_offset_male: 36.04
@@ -27457,7 +28216,11 @@ item_templates {
     animation_time: 0.6667
     animation_time: 1.6667
     animation_time: 0.8667
+<<<<<<< HEAD
     animation_time: 6.666667
+=======
+    animation_time: 6.66666698
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     animation_time: 2
     animation_time: 1.6
     animation_time: 2
@@ -27472,7 +28235,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.91
     model_scale_v2: 1.1
+<<<<<<< HEAD
     form: 180
+=======
+    form: CHARIZARD_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 1.9
     buddy_offset_male: -11.4
     buddy_offset_male: 36.04
@@ -27536,7 +28303,11 @@ item_templates {
     animation_time: 0.6667
     animation_time: 1.6667
     animation_time: 0.8667
+<<<<<<< HEAD
     animation_time: 6.666667
+=======
+    animation_time: 6.66666698
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     animation_time: 2
     animation_time: 1.6
     animation_time: 2
@@ -27551,7 +28322,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.91
     model_scale_v2: 1.1
+<<<<<<< HEAD
     form: 179
+=======
+    form: CHARIZARD_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 1.9
     buddy_offset_male: -11.4
     buddy_offset_male: 36.04
@@ -27565,6 +28340,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -27614,7 +28398,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.1667
     animation_time: 1
+<<<<<<< HEAD
     animation_time: 1.333333
+=======
+    animation_time: 1.33333302
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: WARTORTLE
     evolution_pips: 1
     pokedex_height_m: 0.5
@@ -27628,7 +28416,11 @@ item_templates {
     evolution_branch {
       evolution: WARTORTLE
       candy_cost: 25
+<<<<<<< HEAD
       form: 184
+=======
+      form: WARTORTLE_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
     model_scale_v2: 1.14
     buddy_offset_male: 0
@@ -27693,7 +28485,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.1667
     animation_time: 1
+<<<<<<< HEAD
     animation_time: 1.333333
+=======
+    animation_time: 1.33333302
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: WARTORTLE
     evolution_pips: 1
     pokedex_height_m: 0.5
@@ -27707,10 +28503,17 @@ item_templates {
     evolution_branch {
       evolution: WARTORTLE
       candy_cost: 25
+<<<<<<< HEAD
       form: 184
     }
     model_scale_v2: 1.14
     form: 181
+=======
+      form: WARTORTLE_NORMAL
+    }
+    model_scale_v2: 1.14
+    form: SQUIRTLE_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -27773,7 +28576,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.1667
     animation_time: 1
+<<<<<<< HEAD
     animation_time: 1.333333
+=======
+    animation_time: 1.33333302
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: WARTORTLE
     evolution_pips: 1
     pokedex_height_m: 0.5
@@ -27787,10 +28594,17 @@ item_templates {
     evolution_branch {
       evolution: WARTORTLE
       candy_cost: 22
+<<<<<<< HEAD
       form: 186
     }
     model_scale_v2: 1.14
     form: 183
+=======
+      form: WARTORTLE_PURIFIED
+    }
+    model_scale_v2: 1.14
+    form: SQUIRTLE_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -27853,7 +28667,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.1667
     animation_time: 1
+<<<<<<< HEAD
     animation_time: 1.333333
+=======
+    animation_time: 1.33333302
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: WARTORTLE
     evolution_pips: 1
     pokedex_height_m: 0.5
@@ -27867,10 +28685,17 @@ item_templates {
     evolution_branch {
       evolution: WARTORTLE
       candy_cost: 25
+<<<<<<< HEAD
       form: 185
     }
     model_scale_v2: 1.14
     form: 182
+=======
+      form: WARTORTLE_SHADOW
+    }
+    model_scale_v2: 1.14
+    form: SQUIRTLE_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -27884,6 +28709,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -27935,7 +28769,11 @@ item_templates {
     animation_time: 0
     animation_time: 1.8
     animation_time: 1.0667
+<<<<<<< HEAD
     animation_time: 1.133333
+=======
+    animation_time: 1.13333297
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: BLASTOISE
     evolution_pips: 1
     pokedex_height_m: 1
@@ -27950,7 +28788,11 @@ item_templates {
     evolution_branch {
       evolution: BLASTOISE
       candy_cost: 100
+<<<<<<< HEAD
       form: 187
+=======
+      form: BLASTOISE_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
     model_scale_v2: 1
     buddy_offset_male: 9.5
@@ -28017,7 +28859,11 @@ item_templates {
     animation_time: 0
     animation_time: 1.8
     animation_time: 1.0667
+<<<<<<< HEAD
     animation_time: 1.133333
+=======
+    animation_time: 1.13333297
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: BLASTOISE
     evolution_pips: 1
     pokedex_height_m: 1
@@ -28032,10 +28878,17 @@ item_templates {
     evolution_branch {
       evolution: BLASTOISE
       candy_cost: 100
+<<<<<<< HEAD
       form: 187
     }
     model_scale_v2: 1
     form: 184
+=======
+      form: BLASTOISE_NORMAL
+    }
+    model_scale_v2: 1
+    form: WARTORTLE_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 9.5
     buddy_offset_male: 0
     buddy_offset_male: 0.3
@@ -28100,7 +28953,11 @@ item_templates {
     animation_time: 0
     animation_time: 1.8
     animation_time: 1.0667
+<<<<<<< HEAD
     animation_time: 1.133333
+=======
+    animation_time: 1.13333297
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: BLASTOISE
     evolution_pips: 1
     pokedex_height_m: 1
@@ -28115,10 +28972,17 @@ item_templates {
     evolution_branch {
       evolution: BLASTOISE
       candy_cost: 90
+<<<<<<< HEAD
       form: 189
     }
     model_scale_v2: 1
     form: 186
+=======
+      form: BLASTOISE_PURIFIED
+    }
+    model_scale_v2: 1
+    form: WARTORTLE_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 9.5
     buddy_offset_male: 0
     buddy_offset_male: 0.3
@@ -28183,7 +29047,11 @@ item_templates {
     animation_time: 0
     animation_time: 1.8
     animation_time: 1.0667
+<<<<<<< HEAD
     animation_time: 1.133333
+=======
+    animation_time: 1.13333297
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: BLASTOISE
     evolution_pips: 1
     pokedex_height_m: 1
@@ -28198,10 +29066,17 @@ item_templates {
     evolution_branch {
       evolution: BLASTOISE
       candy_cost: 100
+<<<<<<< HEAD
       form: 188
     }
     model_scale_v2: 1
     form: 185
+=======
+      form: BLASTOISE_SHADOW
+    }
+    model_scale_v2: 1
+    form: WARTORTLE_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 9.5
     buddy_offset_male: 0
     buddy_offset_male: 0.3
@@ -28215,6 +29090,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -28245,7 +29129,11 @@ item_templates {
       dodge_probability: 0.15
       dodge_duration_s: 1
       dodge_distance: 1
+<<<<<<< HEAD
       camera_distance: 4.8468752
+=======
+      camera_distance: 4.84687519
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -28267,7 +29155,11 @@ item_templates {
     animation_time: 0
     animation_time: 2
     animation_time: 2.6667
+<<<<<<< HEAD
     animation_time: 1.333333
+=======
+    animation_time: 1.33333302
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_pips: 1
     pokedex_height_m: 1.6
     pokedex_weight_kg: 85.5
@@ -28322,7 +29214,11 @@ item_templates {
       dodge_probability: 0.15
       dodge_duration_s: 1
       dodge_distance: 1
+<<<<<<< HEAD
       camera_distance: 4.8468752
+=======
+      camera_distance: 4.84687519
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -28344,7 +29240,11 @@ item_templates {
     animation_time: 0
     animation_time: 2
     animation_time: 2.6667
+<<<<<<< HEAD
     animation_time: 1.333333
+=======
+    animation_time: 1.33333302
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_pips: 1
     pokedex_height_m: 1.6
     pokedex_weight_kg: 85.5
@@ -28356,7 +29256,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.39
     model_scale_v2: 1.15
+<<<<<<< HEAD
     form: 187
+=======
+    form: BLASTOISE_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: -1.1
     buddy_offset_male: 0
     buddy_offset_male: 25.6
@@ -28400,7 +29304,11 @@ item_templates {
       dodge_probability: 0.15
       dodge_duration_s: 1
       dodge_distance: 1
+<<<<<<< HEAD
       camera_distance: 4.8468752
+=======
+      camera_distance: 4.84687519
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -28422,7 +29330,11 @@ item_templates {
     animation_time: 0
     animation_time: 2
     animation_time: 2.6667
+<<<<<<< HEAD
     animation_time: 1.333333
+=======
+    animation_time: 1.33333302
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_pips: 1
     pokedex_height_m: 1.6
     pokedex_weight_kg: 85.5
@@ -28434,7 +29346,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.39
     model_scale_v2: 1.15
+<<<<<<< HEAD
     form: 189
+=======
+    form: BLASTOISE_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: -1.1
     buddy_offset_male: 0
     buddy_offset_male: 25.6
@@ -28478,7 +29394,11 @@ item_templates {
       dodge_probability: 0.2
       dodge_duration_s: 1
       dodge_distance: 1
+<<<<<<< HEAD
       camera_distance: 4.8468752
+=======
+      camera_distance: 4.84687519
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -28500,7 +29420,11 @@ item_templates {
     animation_time: 0
     animation_time: 2
     animation_time: 2.6667
+<<<<<<< HEAD
     animation_time: 1.333333
+=======
+    animation_time: 1.33333302
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_pips: 1
     pokedex_height_m: 1.6
     pokedex_weight_kg: 85.5
@@ -28512,7 +29436,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.39
     model_scale_v2: 1.15
+<<<<<<< HEAD
     form: 188
+=======
+    form: BLASTOISE_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: -1.1
     buddy_offset_male: 0
     buddy_offset_male: 25.6
@@ -28526,6 +29454,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -29099,7 +30036,11 @@ item_templates {
     animation_time: 0
     animation_time: 1.8333
     animation_time: 0.8
+<<<<<<< HEAD
     animation_time: 1.333333
+=======
+    animation_time: 1.33333302
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: PIDGEOTTO
     evolution_pips: 1
     pokedex_height_m: 0.3
@@ -29613,10 +30554,17 @@ item_templates {
     evolution_branch {
       evolution: RATICATE
       candy_cost: 22
+<<<<<<< HEAD
       form: 156
     }
     model_scale_v2: 1.14
     form: 154
+=======
+      form: RATICATE_PURIFIED
+    }
+    model_scale_v2: 1.14
+    form: RATTATA_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -29693,10 +30641,17 @@ item_templates {
     evolution_branch {
       evolution: RATICATE
       candy_cost: 25
+<<<<<<< HEAD
       form: 155
     }
     model_scale_v2: 1.14
     form: 153
+=======
+      form: RATICATE_SHADOW
+    }
+    model_scale_v2: 1.14
+    form: RATTATA_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -29710,6 +30665,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 1000
+      purification_candy_needed: 1
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -30019,7 +30983,11 @@ item_templates {
     km_buddy_distance: 1
     model_height: 0.7
     model_scale_v2: 1
+<<<<<<< HEAD
     form: 156
+=======
+    form: RATICATE_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 9.7
     buddy_offset_male: 0
     buddy_offset_male: -21.2
@@ -30095,7 +31063,11 @@ item_templates {
     km_buddy_distance: 1
     model_height: 0.7
     model_scale_v2: 1
+<<<<<<< HEAD
     form: 155
+=======
+    form: RATICATE_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 9.7
     buddy_offset_male: 0
     buddy_offset_male: -21.2
@@ -30109,6 +31081,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 1000
+      purification_candy_needed: 1
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -30535,7 +31516,11 @@ item_templates {
     animation_time: 0
     animation_time: 1.8
     animation_time: 1.1333
+<<<<<<< HEAD
     animation_time: 1.066667
+=======
+    animation_time: 1.06666696
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: RAICHU
     evolution_pips: 1
     pokedex_height_m: 0.4
@@ -30638,7 +31623,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.6667
     animation_time: 1
+<<<<<<< HEAD
     animation_time: 1.133333
+=======
+    animation_time: 1.13333297
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_pips: 1
     pokedex_height_m: 0.8
     pokedex_weight_kg: 30
@@ -30715,7 +31704,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.6667
     animation_time: 1
+<<<<<<< HEAD
     animation_time: 1.133333
+=======
+    animation_time: 1.13333297
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_pips: 1
     pokedex_height_m: 0.7
     pokedex_weight_kg: 21
@@ -30793,7 +31786,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.6667
     animation_time: 1
+<<<<<<< HEAD
     animation_time: 1.133333
+=======
+    animation_time: 1.13333297
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_pips: 1
     pokedex_height_m: 0.8
     pokedex_weight_kg: 30
@@ -31945,7 +32942,11 @@ item_templates {
     animation_time: 0
     animation_time: 2
     animation_time: 1.3333
+<<<<<<< HEAD
     animation_time: 1.666667
+=======
+    animation_time: 1.66666698
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: CLEFABLE
     evolution_pips: 1
     pokedex_height_m: 0.6
@@ -32722,7 +33723,11 @@ item_templates {
       dodge_probability: 0.15
       dodge_duration_s: 1
       dodge_distance: 1
+<<<<<<< HEAD
       camera_distance: 4.5890627
+=======
+      camera_distance: 4.58906269
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -32803,7 +33808,11 @@ item_templates {
       dodge_probability: 0.2
       dodge_duration_s: 0.7
       dodge_distance: 0.125
+<<<<<<< HEAD
       camera_distance: 4.8150005
+=======
+      camera_distance: 4.81500053
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -32839,7 +33848,11 @@ item_templates {
     evolution_branch {
       evolution: GOLBAT
       candy_cost: 25
+<<<<<<< HEAD
       form: 160
+=======
+      form: GOLBAT_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
     model_scale_v2: 1
     buddy_offset_male: 6.13
@@ -32885,7 +33898,11 @@ item_templates {
       dodge_probability: 0.2
       dodge_duration_s: 0.7
       dodge_distance: 0.125
+<<<<<<< HEAD
       camera_distance: 4.8150005
+=======
+      camera_distance: 4.81500053
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -32921,10 +33938,17 @@ item_templates {
     evolution_branch {
       evolution: GOLBAT
       candy_cost: 25
+<<<<<<< HEAD
       form: 160
     }
     model_scale_v2: 1
     form: 157
+=======
+      form: GOLBAT_NORMAL
+    }
+    model_scale_v2: 1
+    form: ZUBAT_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 6.13
     buddy_offset_male: 31.63
     buddy_offset_male: 32.8
@@ -32968,7 +33992,11 @@ item_templates {
       dodge_probability: 0.2
       dodge_duration_s: 0.7
       dodge_distance: 0.125
+<<<<<<< HEAD
       camera_distance: 4.8150005
+=======
+      camera_distance: 4.81500053
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -33004,10 +34032,17 @@ item_templates {
     evolution_branch {
       evolution: GOLBAT
       candy_cost: 22
+<<<<<<< HEAD
       form: 162
     }
     model_scale_v2: 1
     form: 159
+=======
+      form: GOLBAT_PURIFIED
+    }
+    model_scale_v2: 1
+    form: ZUBAT_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 6.13
     buddy_offset_male: 31.63
     buddy_offset_male: 32.8
@@ -33051,7 +34086,11 @@ item_templates {
       dodge_probability: 0.2
       dodge_duration_s: 0.7
       dodge_distance: 0.125
+<<<<<<< HEAD
       camera_distance: 4.8150005
+=======
+      camera_distance: 4.81500053
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -33087,10 +34126,17 @@ item_templates {
     evolution_branch {
       evolution: GOLBAT
       candy_cost: 25
+<<<<<<< HEAD
       form: 161
     }
     model_scale_v2: 1
     form: 158
+=======
+      form: GOLBAT_SHADOW
+    }
+    model_scale_v2: 1
+    form: ZUBAT_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 6.13
     buddy_offset_male: 31.63
     buddy_offset_male: 32.8
@@ -33104,6 +34150,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 1000
+      purification_candy_needed: 1
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -33190,7 +34245,11 @@ item_templates {
     evolution_branch {
       evolution: CROBAT
       candy_cost: 100
+<<<<<<< HEAD
       form: 202
+=======
+      form: CROBAT_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
     model_scale_v2: 0.9
     buddy_offset_male: 20
@@ -33273,10 +34332,17 @@ item_templates {
     evolution_branch {
       evolution: CROBAT
       candy_cost: 100
+<<<<<<< HEAD
       form: 202
     }
     model_scale_v2: 0.9
     form: 160
+=======
+      form: CROBAT_NORMAL
+    }
+    model_scale_v2: 0.9
+    form: GOLBAT_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 20
     buddy_offset_male: -50
     buddy_offset_male: -20
@@ -33357,10 +34423,17 @@ item_templates {
     evolution_branch {
       evolution: CROBAT
       candy_cost: 90
+<<<<<<< HEAD
       form: 204
     }
     model_scale_v2: 0.9
     form: 162
+=======
+      form: CROBAT_PURIFIED
+    }
+    model_scale_v2: 0.9
+    form: GOLBAT_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 20
     buddy_offset_male: -50
     buddy_offset_male: -20
@@ -33441,10 +34514,17 @@ item_templates {
     evolution_branch {
       evolution: CROBAT
       candy_cost: 100
+<<<<<<< HEAD
       form: 203
     }
     model_scale_v2: 0.9
     form: 161
+=======
+      form: CROBAT_SHADOW
+    }
+    model_scale_v2: 0.9
+    form: GOLBAT_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 20
     buddy_offset_male: -50
     buddy_offset_male: -20
@@ -33458,6 +34538,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 1000
+      purification_candy_needed: 1
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -33487,7 +34576,11 @@ item_templates {
       dodge_probability: 0.15
       dodge_duration_s: 1
       dodge_distance: 1
+<<<<<<< HEAD
       camera_distance: 3.0375004
+=======
+      camera_distance: 3.03750038
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -33549,14 +34642,22 @@ item_templates {
     camera {
       disk_radius_m: 0.7425
       cylinder_radius_m: 0.495
+<<<<<<< HEAD
       cylinder_height_m: 0.88000011
+=======
+      cylinder_height_m: 0.880000114
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
       base_capture_rate: 0.3
       base_flee_rate: 0.07
       collision_radius_m: 0.4125
+<<<<<<< HEAD
       collision_height_m: 0.88000011
+=======
+      collision_height_m: 0.880000114
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       collision_head_radius_m: 0.2475
       movement_type: MOVEMENT_JUMP
       movement_timer_s: 8
@@ -33793,7 +34894,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.3333
     animation_time: 1.3333
+<<<<<<< HEAD
     animation_time: 1.5333329
+=======
+    animation_time: 1.53333294
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: PARASECT
     evolution_pips: 1
     pokedex_height_m: 0.3
@@ -33966,7 +35071,11 @@ item_templates {
       dodge_probability: 0.15
       dodge_duration_s: 1
       dodge_distance: 1
+<<<<<<< HEAD
       camera_distance: 4.3931251
+=======
+      camera_distance: 4.39312506
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -34178,7 +35287,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.1667
     animation_time: 1.3333
+<<<<<<< HEAD
     animation_time: 1.333333
+=======
+    animation_time: 1.33333302
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: DUGTRIO
     evolution_pips: 1
     pokedex_height_m: 0.2
@@ -34255,7 +35368,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.1667
     animation_time: 1.3333
+<<<<<<< HEAD
     animation_time: 1.333333
+=======
+    animation_time: 1.33333302
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: DUGTRIO
     evolution_pips: 1
     pokedex_height_m: 0.2
@@ -34332,7 +35449,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.1667
     animation_time: 1.3333
+<<<<<<< HEAD
     animation_time: 1.333333
+=======
+    animation_time: 1.33333302
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: DUGTRIO
     evolution_pips: 1
     pokedex_height_m: 0.2
@@ -35324,7 +36445,11 @@ item_templates {
       dodge_probability: 0.15
       dodge_duration_s: 1
       dodge_distance: 1
+<<<<<<< HEAD
       camera_distance: 3.628125
+=======
+      camera_distance: 3.62812495
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -35746,7 +36871,11 @@ item_templates {
     evolution_branch {
       evolution: POLIWHIRL
       candy_cost: 25
+<<<<<<< HEAD
       form: 238
+=======
+      form: POLIWHIRL_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
     model_scale_v2: 1
     buddy_offset_male: 0
@@ -35825,10 +36954,17 @@ item_templates {
     evolution_branch {
       evolution: POLIWHIRL
       candy_cost: 25
+<<<<<<< HEAD
       form: 238
     }
     model_scale_v2: 1
     form: 235
+=======
+      form: POLIWHIRL_NORMAL
+    }
+    model_scale_v2: 1
+    form: POLIWAG_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -35905,10 +37041,17 @@ item_templates {
     evolution_branch {
       evolution: POLIWHIRL
       candy_cost: 22
+<<<<<<< HEAD
       form: 240
     }
     model_scale_v2: 1
     form: 237
+=======
+      form: POLIWHIRL_PURIFIED
+    }
+    model_scale_v2: 1
+    form: POLIWAG_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -35985,10 +37128,17 @@ item_templates {
     evolution_branch {
       evolution: POLIWHIRL
       candy_cost: 25
+<<<<<<< HEAD
       form: 239
     }
     model_scale_v2: 1
     form: 236
+=======
+      form: POLIWHIRL_SHADOW
+    }
+    model_scale_v2: 1
+    form: POLIWAG_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -36002,6 +37152,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -36069,13 +37228,21 @@ item_templates {
     evolution_branch {
       evolution: POLIWRATH
       candy_cost: 100
+<<<<<<< HEAD
       form: 241
+=======
+      form: POLIWRATH_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
     evolution_branch {
       evolution: POLITOED
       evolution_item_requirement: ITEM_KINGS_ROCK
       candy_cost: 100
+<<<<<<< HEAD
       form: 244
+=======
+      form: POLITOED_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
     model_scale_v2: 1
     buddy_offset_male: 20
@@ -36158,16 +37325,27 @@ item_templates {
     evolution_branch {
       evolution: POLIWRATH
       candy_cost: 100
+<<<<<<< HEAD
       form: 241
+=======
+      form: POLIWRATH_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
     evolution_branch {
       evolution: POLITOED
       evolution_item_requirement: ITEM_KINGS_ROCK
       candy_cost: 100
+<<<<<<< HEAD
       form: 244
     }
     model_scale_v2: 1
     form: 238
+=======
+      form: POLITOED_NORMAL
+    }
+    model_scale_v2: 1
+    form: POLIWHIRL_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 20
     buddy_offset_male: 0
     buddy_offset_male: 51.8
@@ -36248,16 +37426,27 @@ item_templates {
     evolution_branch {
       evolution: POLIWRATH
       candy_cost: 90
+<<<<<<< HEAD
       form: 243
+=======
+      form: POLIWRATH_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
     evolution_branch {
       evolution: POLITOED
       evolution_item_requirement: ITEM_KINGS_ROCK
       candy_cost: 90
+<<<<<<< HEAD
       form: 246
     }
     model_scale_v2: 1
     form: 240
+=======
+      form: POLITOED_PURIFIED
+    }
+    model_scale_v2: 1
+    form: POLIWHIRL_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 20
     buddy_offset_male: 0
     buddy_offset_male: 51.8
@@ -36338,16 +37527,27 @@ item_templates {
     evolution_branch {
       evolution: POLIWRATH
       candy_cost: 100
+<<<<<<< HEAD
       form: 242
+=======
+      form: POLIWRATH_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
     evolution_branch {
       evolution: POLITOED
       evolution_item_requirement: ITEM_KINGS_ROCK
       candy_cost: 100
+<<<<<<< HEAD
       form: 245
     }
     model_scale_v2: 1
     form: 239
+=======
+      form: POLITOED_SHADOW
+    }
+    model_scale_v2: 1
+    form: POLIWHIRL_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 20
     buddy_offset_male: 0
     buddy_offset_male: 51.8
@@ -36361,6 +37561,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -36523,7 +37732,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.42
     model_scale_v2: 1
+<<<<<<< HEAD
     form: 241
+=======
+    form: POLIWRATH_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 30
     buddy_offset_male: 0
     buddy_offset_male: 9.3
@@ -36602,7 +37815,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.42
     model_scale_v2: 1
+<<<<<<< HEAD
     form: 243
+=======
+    form: POLIWRATH_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 30
     buddy_offset_male: 0
     buddy_offset_male: 9.3
@@ -36681,7 +37898,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.42
     model_scale_v2: 1
+<<<<<<< HEAD
     form: 242
+=======
+    form: POLIWRATH_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 30
     buddy_offset_male: 0
     buddy_offset_male: 9.3
@@ -36695,6 +37916,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -36931,7 +38161,11 @@ item_templates {
       base_capture_rate: 0.1
       base_flee_rate: 0.05
       collision_radius_m: 0.425
+<<<<<<< HEAD
       collision_height_m: 0.93500012
+=======
+      collision_height_m: 0.935000122
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       collision_head_radius_m: 0.255
       movement_type: MOVEMENT_JUMP
       movement_timer_s: 4
@@ -37037,7 +38271,11 @@ item_templates {
       dodge_probability: 0.15
       dodge_duration_s: 1
       dodge_distance: 1
+<<<<<<< HEAD
       camera_distance: 3.3000004
+=======
+      camera_distance: 3.30000043
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -37123,7 +38361,11 @@ item_templates {
     encounter {
       base_capture_rate: 0.25
       base_flee_rate: 0.07
+<<<<<<< HEAD
       collision_radius_m: 0.54600012
+=======
+      collision_radius_m: 0.546000123
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       collision_height_m: 1.092
       collision_head_radius_m: 0.1365
       movement_type: MOVEMENT_JUMP
@@ -37240,7 +38482,11 @@ item_templates {
     animation_time: 0
     animation_time: 1.6667
     animation_time: 1.3333
+<<<<<<< HEAD
     animation_time: 1.333333
+=======
+    animation_time: 1.33333302
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_pips: 1
     pokedex_height_m: 1.6
     pokedex_weight_kg: 130
@@ -37580,7 +38826,11 @@ item_templates {
     camera {
       disk_radius_m: 0.4725
       cylinder_radius_m: 0.315
+<<<<<<< HEAD
       cylinder_height_m: 0.91874993
+=======
+      cylinder_height_m: 0.918749928
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       cylinder_ground_m: 0.25
       shoulder_mode_scale: 0.5
     }
@@ -37588,7 +38838,11 @@ item_templates {
       base_capture_rate: 0.5
       base_flee_rate: 0.15
       collision_radius_m: 0.21
+<<<<<<< HEAD
       collision_height_m: 0.91874993
+=======
+      collision_height_m: 0.918749928
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       collision_head_radius_m: 0.1575
       movement_type: MOVEMENT_HOVERING
       movement_timer_s: 23
@@ -37598,7 +38852,11 @@ item_templates {
       dodge_probability: 0.15
       dodge_duration_s: 0.6
       dodge_distance: 0.6
+<<<<<<< HEAD
       camera_distance: 3.445312
+=======
+      camera_distance: 3.44531202
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -38566,7 +39824,11 @@ item_templates {
     animation_time: 0.6667
     animation_time: 1.6667
     animation_time: 1.5
+<<<<<<< HEAD
     animation_time: 5.333333
+=======
+    animation_time: 5.33333302
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     animation_time: 2.3333
     animation_time: 1.6667
     animation_time: 0
@@ -38943,7 +40205,11 @@ item_templates {
     animation_time: 0
     animation_time: 2
     animation_time: 1.1667
+<<<<<<< HEAD
     animation_time: 1.166667
+=======
+    animation_time: 1.16666698
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: MAGNETON
     evolution_pips: 1
     pokedex_height_m: 0.3
@@ -39595,7 +40861,11 @@ item_templates {
       base_capture_rate: 0.5
       base_flee_rate: 0.1
       collision_radius_m: 0.49
+<<<<<<< HEAD
       collision_height_m: 0.83300012
+=======
+      collision_height_m: 0.833000124
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       collision_head_radius_m: 0.294
       movement_type: MOVEMENT_JUMP
       movement_timer_s: 23
@@ -39676,7 +40946,11 @@ item_templates {
       base_capture_rate: 0.5
       base_flee_rate: 0.1
       collision_radius_m: 0.49
+<<<<<<< HEAD
       collision_height_m: 0.83300012
+=======
+      collision_height_m: 0.833000124
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       collision_head_radius_m: 0.294
       movement_type: MOVEMENT_JUMP
       movement_timer_s: 23
@@ -39760,7 +41034,11 @@ item_templates {
       base_capture_rate: 0.5
       base_flee_rate: 0.1
       collision_radius_m: 0.49
+<<<<<<< HEAD
       collision_height_m: 0.83300012
+=======
+      collision_height_m: 0.833000124
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       collision_head_radius_m: 0.294
       movement_type: MOVEMENT_JUMP
       movement_timer_s: 23
@@ -39844,7 +41122,11 @@ item_templates {
       base_capture_rate: 0.5
       base_flee_rate: 0.1
       collision_radius_m: 0.49
+<<<<<<< HEAD
       collision_height_m: 0.83300012
+=======
+      collision_height_m: 0.833000124
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       collision_head_radius_m: 0.294
       movement_type: MOVEMENT_JUMP
       movement_timer_s: 23
@@ -39890,10 +41172,17 @@ item_templates {
     evolution_branch {
       evolution: MUK
       candy_cost: 45
+<<<<<<< HEAD
       form: 223
     }
     model_scale_v2: 1
     form: 221
+=======
+      form: MUK_PURIFIED
+    }
+    model_scale_v2: 1
+    form: GRIMER_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 11.1
     buddy_offset_male: 0
     buddy_offset_male: 31.7
@@ -39928,7 +41217,11 @@ item_templates {
       base_capture_rate: 0.05
       base_flee_rate: 0.1
       collision_radius_m: 0.49
+<<<<<<< HEAD
       collision_height_m: 0.83300012
+=======
+      collision_height_m: 0.833000124
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       collision_head_radius_m: 0.294
       movement_type: MOVEMENT_JUMP
       movement_timer_s: 23
@@ -39974,10 +41267,17 @@ item_templates {
     evolution_branch {
       evolution: MUK
       candy_cost: 50
+<<<<<<< HEAD
       form: 222
     }
     model_scale_v2: 1
     form: 220
+=======
+      form: MUK_SHADOW
+    }
+    model_scale_v2: 1
+    form: GRIMER_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 11.1
     buddy_offset_male: 0
     buddy_offset_male: 31.7
@@ -39994,6 +41294,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -40321,7 +41630,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.88
     model_scale_v2: 1
+<<<<<<< HEAD
     form: 223
+=======
+    form: MUK_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -40403,7 +41716,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.88
     model_scale_v2: 1
+<<<<<<< HEAD
     form: 222
+=======
+    form: MUK_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -40420,6 +41737,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -40557,7 +41883,11 @@ item_templates {
       base_flee_rate: 0.06
       collision_radius_m: 0.42
       collision_height_m: 1.05
+<<<<<<< HEAD
       collision_head_radius_m: 0.54599988
+=======
+      collision_head_radius_m: 0.545999885
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       movement_type: MOVEMENT_HOVERING
       movement_timer_s: 3
       jump_time_s: 1
@@ -40872,7 +42202,11 @@ item_templates {
     animation_time: 0
     animation_time: 1.6667
     animation_time: 1.3333
+<<<<<<< HEAD
     animation_time: 1.666667
+=======
+    animation_time: 1.66666698
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_pips: 1
     pokedex_height_m: 1.5
     pokedex_weight_kg: 40.5
@@ -41082,7 +42416,11 @@ item_templates {
     evolution_branch {
       evolution: HYPNO
       candy_cost: 50
+<<<<<<< HEAD
       form: 217
+=======
+      form: HYPNO_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
     model_scale_v2: 1
     buddy_offset_male: 6.9
@@ -41162,10 +42500,17 @@ item_templates {
     evolution_branch {
       evolution: HYPNO
       candy_cost: 50
+<<<<<<< HEAD
       form: 217
     }
     model_scale_v2: 1
     form: 214
+=======
+      form: HYPNO_NORMAL
+    }
+    model_scale_v2: 1
+    form: DROWZEE_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 6.9
     buddy_offset_male: 0
     buddy_offset_male: 55.3
@@ -41243,10 +42588,17 @@ item_templates {
     evolution_branch {
       evolution: HYPNO
       candy_cost: 45
+<<<<<<< HEAD
       form: 219
     }
     model_scale_v2: 1
     form: 216
+=======
+      form: HYPNO_PURIFIED
+    }
+    model_scale_v2: 1
+    form: DROWZEE_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 6.9
     buddy_offset_male: 0
     buddy_offset_male: 55.3
@@ -41324,10 +42676,17 @@ item_templates {
     evolution_branch {
       evolution: HYPNO
       candy_cost: 50
+<<<<<<< HEAD
       form: 218
     }
     model_scale_v2: 1
     form: 215
+=======
+      form: HYPNO_SHADOW
+    }
+    model_scale_v2: 1
+    form: DROWZEE_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 6.9
     buddy_offset_male: 0
     buddy_offset_male: 55.3
@@ -41341,6 +42700,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -41486,7 +42854,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.55
     model_scale_v2: 1
+<<<<<<< HEAD
     form: 217
+=======
+    form: HYPNO_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 3.8
     buddy_offset_male: 0
     buddy_offset_male: 31.05
@@ -41566,7 +42938,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.55
     model_scale_v2: 1
+<<<<<<< HEAD
     form: 219
+=======
+    form: HYPNO_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 3.8
     buddy_offset_male: 0
     buddy_offset_male: 31.05
@@ -41646,7 +43022,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.55
     model_scale_v2: 1
+<<<<<<< HEAD
     form: 218
+=======
+    form: HYPNO_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 3.8
     buddy_offset_male: 0
     buddy_offset_male: 31.05
@@ -41660,6 +43040,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -42556,7 +43945,11 @@ item_templates {
       form: MAROWAK_NORMAL
     }
     model_scale_v2: 1.1
+<<<<<<< HEAD
     form: 224
+=======
+    form: CUBONE_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -42633,10 +44026,17 @@ item_templates {
     evolution_branch {
       evolution: MAROWAK
       candy_cost: 45
+<<<<<<< HEAD
       form: 228
     }
     model_scale_v2: 1.1
     form: 226
+=======
+      form: MAROWAK_PURIFIED
+    }
+    model_scale_v2: 1.1
+    form: CUBONE_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -42713,10 +44113,17 @@ item_templates {
     evolution_branch {
       evolution: MAROWAK
       candy_cost: 50
+<<<<<<< HEAD
       form: 227
     }
     model_scale_v2: 1.1
     form: 225
+=======
+      form: MAROWAK_SHADOW
+    }
+    model_scale_v2: 1.1
+    form: CUBONE_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -42730,6 +44137,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -43039,7 +44455,11 @@ item_templates {
     km_buddy_distance: 3
     model_height: 1
     model_scale_v2: 1
+<<<<<<< HEAD
     form: 228
+=======
+    form: MAROWAK_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 20
@@ -43115,7 +44535,11 @@ item_templates {
     km_buddy_distance: 3
     model_height: 1
     model_scale_v2: 1
+<<<<<<< HEAD
     form: 227
+=======
+    form: MAROWAK_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 20
@@ -43129,6 +44553,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -43485,7 +44918,11 @@ item_templates {
     animation_time: 0.6667
     animation_time: 1.5
     animation_time: 0.6667
+<<<<<<< HEAD
     animation_time: 6.666667
+=======
+    animation_time: 6.66666698
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     animation_time: 2
     animation_time: 2
     animation_time: 0
@@ -43568,7 +45005,11 @@ item_templates {
     animation_time: 0.6667
     animation_time: 1.6667
     animation_time: 0.6667
+<<<<<<< HEAD
     animation_time: 3.333333
+=======
+    animation_time: 3.33333302
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     animation_time: 2.4667
     animation_time: 2.6667
     animation_time: 0
@@ -43829,7 +45270,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.1667
     animation_time: 1.7333
+<<<<<<< HEAD
     animation_time: 1.666667
+=======
+    animation_time: 1.66666698
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_pips: 1
     pokedex_height_m: 1.1
     pokedex_weight_kg: 34.6
@@ -44024,7 +45469,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.3333
     animation_time: 2.3333
+<<<<<<< HEAD
     animation_time: 2.333333
+=======
+    animation_time: 2.33333302
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_pips: 1
     pokedex_height_m: 2.2
     pokedex_weight_kg: 80
@@ -44435,14 +45884,22 @@ item_templates {
     camera {
       disk_radius_m: 0.6188
       cylinder_radius_m: 0.4125
+<<<<<<< HEAD
       cylinder_height_m: 0.88000011
+=======
+      cylinder_height_m: 0.880000114
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
       base_capture_rate: 0.5
       base_flee_rate: 0.15
       collision_radius_m: 0.4125
+<<<<<<< HEAD
       collision_height_m: 0.88000011
+=======
+      collision_height_m: 0.880000114
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       collision_head_radius_m: 0.20625
       movement_type: MOVEMENT_JUMP
       movement_timer_s: 10
@@ -44452,7 +45909,11 @@ item_templates {
       dodge_probability: 0.2
       dodge_duration_s: 1
       dodge_distance: 1
+<<<<<<< HEAD
       camera_distance: 3.3000004
+=======
+      camera_distance: 3.30000043
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -44778,7 +46239,11 @@ item_templates {
       evolution: SCIZOR
       evolution_item_requirement: ITEM_METAL_COAT
       candy_cost: 50
+<<<<<<< HEAD
       form: 250
+=======
+      form: SCIZOR_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
     model_scale_v2: 0.92
     buddy_offset_male: 30
@@ -44862,10 +46327,17 @@ item_templates {
       evolution: SCIZOR
       evolution_item_requirement: ITEM_METAL_COAT
       candy_cost: 50
+<<<<<<< HEAD
       form: 250
     }
     model_scale_v2: 0.92
     form: 247
+=======
+      form: SCIZOR_NORMAL
+    }
+    model_scale_v2: 0.92
+    form: SCYTHER_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 30
     buddy_offset_male: -20.55
     buddy_offset_male: 7.1
@@ -44947,10 +46419,17 @@ item_templates {
       evolution: SCIZOR
       evolution_item_requirement: ITEM_METAL_COAT
       candy_cost: 45
+<<<<<<< HEAD
       form: 252
     }
     model_scale_v2: 0.92
     form: 249
+=======
+      form: SCIZOR_PURIFIED
+    }
+    model_scale_v2: 0.92
+    form: SCYTHER_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 30
     buddy_offset_male: -20.55
     buddy_offset_male: 7.1
@@ -45032,10 +46511,17 @@ item_templates {
       evolution: SCIZOR
       evolution_item_requirement: ITEM_METAL_COAT
       candy_cost: 50
+<<<<<<< HEAD
       form: 251
     }
     model_scale_v2: 0.92
     form: 248
+=======
+      form: SCIZOR_SHADOW
+    }
+    model_scale_v2: 0.92
+    form: SCYTHER_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 30
     buddy_offset_male: -20.55
     buddy_offset_male: 7.1
@@ -45052,6 +46538,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 5000
+      purification_candy_needed: 5
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -45573,7 +47068,11 @@ item_templates {
     evolution_branch {
       evolution: GYARADOS
       candy_cost: 400
+<<<<<<< HEAD
       form: 256
+=======
+      form: GYARADOS_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
     model_scale_v2: 1
     buddy_offset_male: 1
@@ -45648,10 +47147,17 @@ item_templates {
     evolution_branch {
       evolution: GYARADOS
       candy_cost: 400
+<<<<<<< HEAD
       form: 256
     }
     model_scale_v2: 1
     form: 253
+=======
+      form: GYARADOS_NORMAL
+    }
+    model_scale_v2: 1
+    form: MAGIKARP_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 1
     buddy_offset_male: 0
     buddy_offset_male: 13.6
@@ -45724,10 +47230,17 @@ item_templates {
     evolution_branch {
       evolution: GYARADOS
       candy_cost: 360
+<<<<<<< HEAD
       form: 258
     }
     model_scale_v2: 1
     form: 255
+=======
+      form: GYARADOS_PURIFIED
+    }
+    model_scale_v2: 1
+    form: MAGIKARP_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 1
     buddy_offset_male: 0
     buddy_offset_male: 13.6
@@ -45800,10 +47313,17 @@ item_templates {
     evolution_branch {
       evolution: GYARADOS
       candy_cost: 400
+<<<<<<< HEAD
       form: 257
     }
     model_scale_v2: 1
     form: 254
+=======
+      form: GYARADOS_SHADOW
+    }
+    model_scale_v2: 1
+    form: MAGIKARP_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 1
     buddy_offset_male: 0
     buddy_offset_male: 13.6
@@ -45817,6 +47337,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 1000
+      purification_candy_needed: 1
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -45960,7 +47489,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 5.56
     model_scale_v2: 0.62
+<<<<<<< HEAD
     form: 256
+=======
+    form: GYARADOS_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 23.8
     buddy_offset_male: -31.9
     buddy_offset_male: 63
@@ -46039,7 +47572,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 5.56
     model_scale_v2: 0.62
+<<<<<<< HEAD
     form: 258
+=======
+    form: GYARADOS_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 23.8
     buddy_offset_male: -31.9
     buddy_offset_male: 63
@@ -46118,7 +47655,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 5.56
     model_scale_v2: 0.62
+<<<<<<< HEAD
     form: 257
+=======
+    form: GYARADOS_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 23.8
     buddy_offset_male: -31.9
     buddy_offset_male: 63
@@ -46132,6 +47673,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 1000
+      purification_candy_needed: 1
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -46202,7 +47752,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.4
     animation_time: 3
+<<<<<<< HEAD
     animation_time: 2.666667
+=======
+    animation_time: 2.66666698
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_pips: 1
     pokedex_height_m: 2.5
     pokedex_weight_kg: 220
@@ -46378,7 +47932,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.3333
     animation_time: 0.8667
+<<<<<<< HEAD
     animation_time: 1.233333
+=======
+    animation_time: 1.23333299
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_ids: VAPOREON
     evolution_ids: JOLTEON
     evolution_ids: FLAREON
@@ -46476,7 +48034,11 @@ item_templates {
     camera {
       disk_radius_m: 0.5198
       cylinder_radius_m: 0.45
+<<<<<<< HEAD
       cylinder_height_m: 0.94499987
+=======
+      cylinder_height_m: 0.944999874
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.4
     }
     encounter {
@@ -46495,7 +48057,11 @@ item_templates {
       dodge_probability: 0.15
       dodge_duration_s: 1
       dodge_distance: 1
+<<<<<<< HEAD
       camera_distance: 3.5437496
+=======
+      camera_distance: 3.54374957
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -46515,7 +48081,11 @@ item_templates {
     animation_time: 0
     animation_time: 2
     animation_time: 2.1333
+<<<<<<< HEAD
     animation_time: 2.133333
+=======
+    animation_time: 2.13333297
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_pips: 1
     pokedex_height_m: 1
     pokedex_weight_kg: 29
@@ -46572,7 +48142,11 @@ item_templates {
     camera {
       disk_radius_m: 0.495
       cylinder_radius_m: 0.33
+<<<<<<< HEAD
       cylinder_height_m: 0.88000011
+=======
+      cylinder_height_m: 0.880000114
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -46591,7 +48165,11 @@ item_templates {
       dodge_probability: 0.2
       dodge_duration_s: 1
       dodge_distance: 1
+<<<<<<< HEAD
       camera_distance: 3.3000004
+=======
+      camera_distance: 3.30000043
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -46612,7 +48190,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.6667
     animation_time: 1.3333
+<<<<<<< HEAD
     animation_time: 1.866667
+=======
+    animation_time: 1.86666703
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_pips: 1
     pokedex_height_m: 0.8
     pokedex_weight_kg: 24.5
@@ -46709,7 +48291,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.3333
     animation_time: 1
+<<<<<<< HEAD
     animation_time: 2.666667
+=======
+    animation_time: 2.66666698
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_pips: 1
     pokedex_height_m: 0.9
     pokedex_weight_kg: 25
@@ -46766,7 +48352,11 @@ item_templates {
     camera {
       disk_radius_m: 0.825
       cylinder_radius_m: 0.55
+<<<<<<< HEAD
       cylinder_height_m: 0.93500012
+=======
+      cylinder_height_m: 0.935000122
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       cylinder_ground_m: 0.5
       shoulder_mode_scale: 0.5
     }
@@ -47201,7 +48791,11 @@ item_templates {
     animation_time: 0
     animation_time: 2
     animation_time: 1.3333
+<<<<<<< HEAD
     animation_time: 1.666667
+=======
+    animation_time: 1.66666698
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_pips: 1
     pokedex_height_m: 1.8
     pokedex_weight_kg: 59
@@ -47279,7 +48873,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.5
     animation_time: 2.5
+<<<<<<< HEAD
     animation_time: 2.333333
+=======
+    animation_time: 2.33333302
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_pips: 1
     pokedex_height_m: 2.1
     pokedex_weight_kg: 460
@@ -47364,7 +48962,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.5
     animation_time: 2.5
+<<<<<<< HEAD
     animation_time: 2.333333
+=======
+    animation_time: 2.33333302
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_pips: 1
     pokedex_height_m: 2.1
     pokedex_weight_kg: 460
@@ -47376,7 +48978,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 2
     model_scale_v2: 1
+<<<<<<< HEAD
     form: 199
+=======
+    form: SNORLAX_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 10
     buddy_offset_male: 0
     buddy_offset_male: 28.01
@@ -47450,7 +49056,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.5
     animation_time: 2.5
+<<<<<<< HEAD
     animation_time: 2.333333
+=======
+    animation_time: 2.33333302
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_pips: 1
     pokedex_height_m: 2.1
     pokedex_weight_kg: 460
@@ -47462,7 +49072,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 2
     model_scale_v2: 1
+<<<<<<< HEAD
     form: 201
+=======
+    form: SNORLAX_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 10
     buddy_offset_male: 0
     buddy_offset_male: 28.01
@@ -47536,7 +49150,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.5
     animation_time: 2.5
+<<<<<<< HEAD
     animation_time: 2.333333
+=======
+    animation_time: 2.33333302
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_pips: 1
     pokedex_height_m: 2.1
     pokedex_weight_kg: 460
@@ -47548,7 +49166,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 2
     model_scale_v2: 1
+<<<<<<< HEAD
     form: 200
+=======
+    form: SNORLAX_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 10
     buddy_offset_male: 0
     buddy_offset_male: 28.01
@@ -47571,6 +49193,15 @@ item_templates {
     combat_default_camera_angle: 2.7
     combat_default_camera_angle: 2
     combat_default_camera_angle: 2
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 5000
+      purification_candy_needed: 5
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -47623,7 +49254,11 @@ item_templates {
     animation_time: 0
     animation_time: 2.4
     animation_time: 1.3333
+<<<<<<< HEAD
     animation_time: 1.333333
+=======
+    animation_time: 1.33333302
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_pips: 1
     rarity: POKEMON_RARITY_LEGENDARY
     pokedex_height_m: 1.7
@@ -47699,7 +49334,11 @@ item_templates {
     animation_time: 0
     animation_time: 2
     animation_time: 1
+<<<<<<< HEAD
     animation_time: 1.666667
+=======
+    animation_time: 1.66666698
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_pips: 1
     rarity: POKEMON_RARITY_LEGENDARY
     pokedex_height_m: 1.6
@@ -47827,7 +49466,11 @@ item_templates {
       dodge_probability: 0.15
       dodge_duration_s: 1
       dodge_distance: 1
+<<<<<<< HEAD
       camera_distance: 3.121875
+=======
+      camera_distance: 3.12187505
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -47862,7 +49505,11 @@ item_templates {
     evolution_branch {
       evolution: DRAGONAIR
       candy_cost: 25
+<<<<<<< HEAD
       form: 193
+=======
+      form: DRAGONAIR_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
     model_scale_v2: 1
     buddy_offset_male: 0
@@ -47906,7 +49553,11 @@ item_templates {
       dodge_probability: 0.15
       dodge_duration_s: 1
       dodge_distance: 1
+<<<<<<< HEAD
       camera_distance: 3.121875
+=======
+      camera_distance: 3.12187505
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -47941,10 +49592,17 @@ item_templates {
     evolution_branch {
       evolution: DRAGONAIR
       candy_cost: 25
+<<<<<<< HEAD
       form: 193
     }
     model_scale_v2: 1
     form: 190
+=======
+      form: DRAGONAIR_NORMAL
+    }
+    model_scale_v2: 1
+    form: DRATINI_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -47986,7 +49644,11 @@ item_templates {
       dodge_probability: 0.15
       dodge_duration_s: 1
       dodge_distance: 1
+<<<<<<< HEAD
       camera_distance: 3.121875
+=======
+      camera_distance: 3.12187505
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -48021,10 +49683,17 @@ item_templates {
     evolution_branch {
       evolution: DRAGONAIR
       candy_cost: 22
+<<<<<<< HEAD
       form: 195
     }
     model_scale_v2: 1
     form: 192
+=======
+      form: DRAGONAIR_PURIFIED
+    }
+    model_scale_v2: 1
+    form: DRATINI_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -48066,7 +49735,11 @@ item_templates {
       dodge_probability: 0.2
       dodge_duration_s: 1
       dodge_distance: 1
+<<<<<<< HEAD
       camera_distance: 3.121875
+=======
+      camera_distance: 3.12187505
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -48101,10 +49774,17 @@ item_templates {
     evolution_branch {
       evolution: DRAGONAIR
       candy_cost: 25
+<<<<<<< HEAD
       form: 194
     }
     model_scale_v2: 1
     form: 191
+=======
+      form: DRAGONAIR_SHADOW
+    }
+    model_scale_v2: 1
+    form: DRATINI_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -48118,6 +49798,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 5000
+      purification_candy_needed: 5
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -48185,7 +49874,11 @@ item_templates {
     evolution_branch {
       evolution: DRAGONITE
       candy_cost: 100
+<<<<<<< HEAD
       form: 196
+=======
+      form: DRAGONITE_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
     model_scale_v2: 1
     buddy_offset_male: 30
@@ -48268,10 +49961,17 @@ item_templates {
     evolution_branch {
       evolution: DRAGONITE
       candy_cost: 100
+<<<<<<< HEAD
       form: 196
     }
     model_scale_v2: 1
     form: 193
+=======
+      form: DRAGONITE_NORMAL
+    }
+    model_scale_v2: 1
+    form: DRAGONAIR_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 30
     buddy_offset_male: 0
     buddy_offset_male: 39.7
@@ -48352,10 +50052,17 @@ item_templates {
     evolution_branch {
       evolution: DRAGONITE
       candy_cost: 90
+<<<<<<< HEAD
       form: 198
     }
     model_scale_v2: 1
     form: 195
+=======
+      form: DRAGONITE_PURIFIED
+    }
+    model_scale_v2: 1
+    form: DRAGONAIR_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 30
     buddy_offset_male: 0
     buddy_offset_male: 39.7
@@ -48436,10 +50143,17 @@ item_templates {
     evolution_branch {
       evolution: DRAGONITE
       candy_cost: 100
+<<<<<<< HEAD
       form: 197
     }
     model_scale_v2: 1
     form: 194
+=======
+      form: DRAGONITE_SHADOW
+    }
+    model_scale_v2: 1
+    form: DRAGONAIR_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 30
     buddy_offset_male: 0
     buddy_offset_male: 39.7
@@ -48453,6 +50167,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 5000
+      purification_candy_needed: 5
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -48596,7 +50319,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 2.28
     model_scale_v2: 0.96
+<<<<<<< HEAD
     form: 196
+=======
+    form: DRAGONITE_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 20
     buddy_offset_male: -26.3
     buddy_offset_male: 51.7
@@ -48675,7 +50402,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 2.28
     model_scale_v2: 0.96
+<<<<<<< HEAD
     form: 198
+=======
+    form: DRAGONITE_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 20
     buddy_offset_male: -26.3
     buddy_offset_male: 51.7
@@ -48754,7 +50485,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 2.28
     model_scale_v2: 0.96
+<<<<<<< HEAD
     form: 197
+=======
+    form: DRAGONITE_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 20
     buddy_offset_male: -26.3
     buddy_offset_male: 51.7
@@ -48768,6 +50503,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 5000
+      purification_candy_needed: 5
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -49030,7 +50774,11 @@ item_templates {
       dodge_probability: 1
       dodge_duration_s: 1
       dodge_distance: 0.3
+<<<<<<< HEAD
       camera_distance: 2.9081249
+=======
+      camera_distance: 2.90812492
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -49618,7 +51366,11 @@ item_templates {
       dodge_probability: 0.15
       dodge_duration_s: 1
       dodge_distance: 1
+<<<<<<< HEAD
       camera_distance: 2.9711249
+=======
+      camera_distance: 2.97112489
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -49698,7 +51450,11 @@ item_templates {
       dodge_probability: 0.15
       dodge_duration_s: 1
       dodge_distance: 1
+<<<<<<< HEAD
       camera_distance: 3.819375
+=======
+      camera_distance: 3.81937504
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -49933,7 +51689,11 @@ item_templates {
       dodge_probability: 0.2
       dodge_duration_s: 1
       dodge_distance: 1
+<<<<<<< HEAD
       camera_distance: 3.454875
+=======
+      camera_distance: 3.45487499
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -50073,7 +51833,11 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 1
       cylinder_height_m: 1.7
+<<<<<<< HEAD
       cylinder_ground_m: 0.49382716
+=======
+      cylinder_ground_m: 0.493827164
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -50154,7 +51918,11 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.5
       cylinder_height_m: 0.9
+<<<<<<< HEAD
       cylinder_ground_m: 0.43010753
+=======
+      cylinder_ground_m: 0.430107534
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -50238,7 +52006,11 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.42
       cylinder_height_m: 1.162
+<<<<<<< HEAD
       cylinder_ground_m: 0.45977011
+=======
+      cylinder_ground_m: 0.459770113
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -50477,7 +52249,11 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 1.25
       cylinder_height_m: 1.5105
+<<<<<<< HEAD
       cylinder_ground_m: 1.1363636
+=======
+      cylinder_ground_m: 1.13636363
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -50558,7 +52334,11 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 1.25
       cylinder_height_m: 1.5105
+<<<<<<< HEAD
       cylinder_ground_m: 1.1363636
+=======
+      cylinder_ground_m: 1.13636363
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -50610,7 +52390,11 @@ item_templates {
     buddy_size: BUDDY_FLYING
     model_height: 2.65
     model_scale_v2: 0.9
+<<<<<<< HEAD
     form: 202
+=======
+    form: CROBAT_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 40
     buddy_offset_male: -20
     buddy_offset_male: -40
@@ -50640,7 +52424,11 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 1.25
       cylinder_height_m: 1.5105
+<<<<<<< HEAD
       cylinder_ground_m: 1.1363636
+=======
+      cylinder_ground_m: 1.13636363
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -50692,7 +52480,11 @@ item_templates {
     buddy_size: BUDDY_FLYING
     model_height: 2.65
     model_scale_v2: 0.9
+<<<<<<< HEAD
     form: 204
+=======
+    form: CROBAT_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 40
     buddy_offset_male: -20
     buddy_offset_male: -40
@@ -50722,7 +52514,11 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 1.25
       cylinder_height_m: 1.5105
+<<<<<<< HEAD
       cylinder_ground_m: 1.1363636
+=======
+      cylinder_ground_m: 1.13636363
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -50774,7 +52570,11 @@ item_templates {
     buddy_size: BUDDY_FLYING
     model_height: 2.65
     model_scale_v2: 0.9
+<<<<<<< HEAD
     form: 203
+=======
+    form: CROBAT_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 40
     buddy_offset_male: -20
     buddy_offset_male: -40
@@ -50791,6 +52591,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 1000
+      purification_candy_needed: 1
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -50884,7 +52693,11 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.5
       cylinder_height_m: 0.7
+<<<<<<< HEAD
       cylinder_ground_m: 0.45977011
+=======
+      cylinder_ground_m: 0.459770113
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -51451,7 +53264,11 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 1
       cylinder_height_m: 1.25
+<<<<<<< HEAD
       cylinder_ground_m: 0.24691358
+=======
+      cylinder_ground_m: 0.246913582
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -52206,7 +54023,11 @@ item_templates {
     km_buddy_distance: 1.5
     model_height: 1.1
     model_scale_v2: 1
+<<<<<<< HEAD
     form: 244
+=======
+    form: POLITOED_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 5.7
     buddy_offset_male: 0
     buddy_offset_male: -48.41
@@ -52285,7 +54106,11 @@ item_templates {
     km_buddy_distance: 1.5
     model_height: 1.1
     model_scale_v2: 1
+<<<<<<< HEAD
     form: 246
+=======
+    form: POLITOED_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 5.7
     buddy_offset_male: 0
     buddy_offset_male: -48.41
@@ -52364,7 +54189,11 @@ item_templates {
     km_buddy_distance: 1.5
     model_height: 1.1
     model_scale_v2: 1
+<<<<<<< HEAD
     form: 245
+=======
+    form: POLITOED_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 5.7
     buddy_offset_male: 0
     buddy_offset_male: -48.41
@@ -52381,6 +54210,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -52394,7 +54232,11 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.6
       cylinder_height_m: 0.95
+<<<<<<< HEAD
       cylinder_ground_m: 0.41284403
+=======
+      cylinder_ground_m: 0.412844032
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -52475,7 +54317,11 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.6
       cylinder_height_m: 0.75
+<<<<<<< HEAD
       cylinder_ground_m: 0.42372882
+=======
+      cylinder_ground_m: 0.423728824
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -52562,7 +54408,11 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.45
       cylinder_height_m: 0.8
+<<<<<<< HEAD
       cylinder_ground_m: 0.44247788
+=======
+      cylinder_ground_m: 0.442477882
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -52881,7 +54731,11 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.7
       cylinder_height_m: 0.8
+<<<<<<< HEAD
       cylinder_ground_m: 0.31578946
+=======
+      cylinder_ground_m: 0.315789461
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -53450,7 +55304,11 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.45
       cylinder_height_m: 0.75
+<<<<<<< HEAD
       cylinder_ground_m: 0.24590164
+=======
+      cylinder_ground_m: 0.245901644
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -53550,7 +55408,11 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.35
       cylinder_height_m: 0.5
+<<<<<<< HEAD
       cylinder_ground_m: 0.22222222
+=======
+      cylinder_ground_m: 0.222222224
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -53921,7 +55783,11 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.9
       cylinder_height_m: 1.25
+<<<<<<< HEAD
       cylinder_ground_m: 0.32608697
+=======
+      cylinder_ground_m: 0.326086968
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -54113,7 +55979,11 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.6
       cylinder_height_m: 1.1
+<<<<<<< HEAD
       cylinder_ground_m: 0.10309278
+=======
+      cylinder_ground_m: 0.103092782
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -54497,7 +56367,11 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.55
       cylinder_height_m: 0.6
+<<<<<<< HEAD
       cylinder_ground_m: 0.44444445
+=======
+      cylinder_ground_m: 0.444444448
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -54718,7 +56592,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.91
     model_scale_v2: 1
+<<<<<<< HEAD
     form: 250
+=======
+    form: SCIZOR_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 20
     buddy_offset_male: 0
     buddy_offset_male: 28.6
@@ -54796,7 +56674,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.91
     model_scale_v2: 1
+<<<<<<< HEAD
     form: 252
+=======
+    form: SCIZOR_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 20
     buddy_offset_male: 0
     buddy_offset_male: 28.6
@@ -54874,7 +56756,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.91
     model_scale_v2: 1
+<<<<<<< HEAD
     form: 251
+=======
+    form: SCIZOR_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 20
     buddy_offset_male: 0
     buddy_offset_male: 28.6
@@ -54888,6 +56774,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 5000
+      purification_candy_needed: 5
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -55877,7 +57772,11 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.32
       cylinder_height_m: 0.4
+<<<<<<< HEAD
       cylinder_ground_m: 0.38759691
+=======
+      cylinder_ground_m: 0.387596905
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -56159,7 +58058,11 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 1
       cylinder_height_m: 0.7
+<<<<<<< HEAD
       cylinder_ground_m: 0.34246576
+=======
+      cylinder_ground_m: 0.342465758
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -56253,7 +58156,11 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 1
       cylinder_height_m: 1.3
+<<<<<<< HEAD
       cylinder_ground_m: 0.64935064
+=======
+      cylinder_ground_m: 0.649350643
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -56397,7 +58304,11 @@ item_templates {
     evolution_branch {
       evolution: HOUNDOOM
       candy_cost: 50
+<<<<<<< HEAD
       form: 232
+=======
+      form: HOUNDOOM_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
     model_scale_v2: 1
     buddy_offset_male: 0
@@ -56477,10 +58388,17 @@ item_templates {
     evolution_branch {
       evolution: HOUNDOOM
       candy_cost: 50
+<<<<<<< HEAD
       form: 232
     }
     model_scale_v2: 1
     form: 229
+=======
+      form: HOUNDOOM_NORMAL
+    }
+    model_scale_v2: 1
+    form: HOUNDOUR_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -56558,10 +58476,17 @@ item_templates {
     evolution_branch {
       evolution: HOUNDOOM
       candy_cost: 45
+<<<<<<< HEAD
       form: 234
     }
     model_scale_v2: 1
     form: 231
+=======
+      form: HOUNDOOM_PURIFIED
+    }
+    model_scale_v2: 1
+    form: HOUNDOUR_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -56639,10 +58564,17 @@ item_templates {
     evolution_branch {
       evolution: HOUNDOOM
       candy_cost: 50
+<<<<<<< HEAD
       form: 233
     }
     model_scale_v2: 1
     form: 230
+=======
+      form: HOUNDOOM_SHADOW
+    }
+    model_scale_v2: 1
+    form: HOUNDOUR_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -56656,6 +58588,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -56815,7 +58756,11 @@ item_templates {
     km_buddy_distance: 3
     model_height: 1.25
     model_scale_v2: 1
+<<<<<<< HEAD
     form: 232
+=======
+    form: HOUNDOOM_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 4.3
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -56893,7 +58838,11 @@ item_templates {
     km_buddy_distance: 3
     model_height: 1.25
     model_scale_v2: 1
+<<<<<<< HEAD
     form: 234
+=======
+    form: HOUNDOOM_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 4.3
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -56971,7 +58920,11 @@ item_templates {
     km_buddy_distance: 3
     model_height: 1.25
     model_scale_v2: 1
+<<<<<<< HEAD
     form: 233
+=======
+    form: HOUNDOOM_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 4.3
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -56985,6 +58938,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -57016,7 +58978,11 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.85
       cylinder_height_m: 2
+<<<<<<< HEAD
       cylinder_ground_m: 0.64102566
+=======
+      cylinder_ground_m: 0.641025662
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -57302,7 +59268,11 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.5
       cylinder_height_m: 0.7
+<<<<<<< HEAD
       cylinder_ground_m: 0.32258064
+=======
+      cylinder_ground_m: 0.322580636
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -58835,7 +60805,11 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 3
       cylinder_height_m: 5
+<<<<<<< HEAD
       cylinder_ground_m: 0.23809524
+=======
+      cylinder_ground_m: 0.238095239
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -58928,7 +60902,11 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 4
       cylinder_height_m: 4.5
+<<<<<<< HEAD
       cylinder_ground_m: 0.18867925
+=======
+      cylinder_ground_m: 0.188679248
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -59026,7 +61004,11 @@ item_templates {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.4
       cylinder_height_m: 0.6
+<<<<<<< HEAD
       cylinder_ground_m: 0.41666666
+=======
+      cylinder_ground_m: 0.416666657
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -59747,7 +61729,11 @@ item_templates {
     evolution_branch {
       evolution: MARSHTOMP
       candy_cost: 25
+<<<<<<< HEAD
       form: 208
+=======
+      form: MARSHTOMP_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
     model_scale_v2: 1.1
     buddy_offset_male: 0
@@ -59827,10 +61813,17 @@ item_templates {
     evolution_branch {
       evolution: MARSHTOMP
       candy_cost: 25
+<<<<<<< HEAD
       form: 208
     }
     model_scale_v2: 1.1
     form: 205
+=======
+      form: MARSHTOMP_NORMAL
+    }
+    model_scale_v2: 1.1
+    form: MUDKIP_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -59908,10 +61901,17 @@ item_templates {
     evolution_branch {
       evolution: MARSHTOMP
       candy_cost: 22
+<<<<<<< HEAD
       form: 210
     }
     model_scale_v2: 1.1
     form: 207
+=======
+      form: MARSHTOMP_PURIFIED
+    }
+    model_scale_v2: 1.1
+    form: MUDKIP_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -59989,10 +61989,17 @@ item_templates {
     evolution_branch {
       evolution: MARSHTOMP
       candy_cost: 25
+<<<<<<< HEAD
       form: 209
     }
     model_scale_v2: 1.1
     form: 206
+=======
+      form: MARSHTOMP_SHADOW
+    }
+    model_scale_v2: 1.1
+    form: MUDKIP_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -60009,6 +62016,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -60093,7 +62109,11 @@ item_templates {
     evolution_branch {
       evolution: SWAMPERT
       candy_cost: 100
+<<<<<<< HEAD
       form: 211
+=======
+      form: SWAMPERT_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
     model_scale_v2: 1
     buddy_offset_male: 0
@@ -60174,10 +62194,17 @@ item_templates {
     evolution_branch {
       evolution: SWAMPERT
       candy_cost: 100
+<<<<<<< HEAD
       form: 211
     }
     model_scale_v2: 1
     form: 208
+=======
+      form: SWAMPERT_NORMAL
+    }
+    model_scale_v2: 1
+    form: MARSHTOMP_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -60256,10 +62283,17 @@ item_templates {
     evolution_branch {
       evolution: SWAMPERT
       candy_cost: 90
+<<<<<<< HEAD
       form: 213
     }
     model_scale_v2: 1
     form: 210
+=======
+      form: SWAMPERT_PURIFIED
+    }
+    model_scale_v2: 1
+    form: MARSHTOMP_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -60338,10 +62372,17 @@ item_templates {
     evolution_branch {
       evolution: SWAMPERT
       candy_cost: 100
+<<<<<<< HEAD
       form: 212
     }
     model_scale_v2: 1
     form: 209
+=======
+      form: SWAMPERT_SHADOW
+    }
+    model_scale_v2: 1
+    form: MARSHTOMP_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -60355,6 +62396,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -60516,7 +62566,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.8
     model_scale_v2: 1
+<<<<<<< HEAD
     form: 211
+=======
+    form: SWAMPERT_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 20
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -60595,7 +62649,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.8
     model_scale_v2: 1
+<<<<<<< HEAD
     form: 213
+=======
+    form: SWAMPERT_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 20
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -60674,7 +62732,11 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.8
     model_scale_v2: 1
+<<<<<<< HEAD
     form: 212
+=======
+    form: SWAMPERT_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 20
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -60688,6 +62750,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 3000
+      purification_candy_needed: 3
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -61643,7 +63714,11 @@ item_templates {
     family_id: FAMILY_LOTAD
     km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
+<<<<<<< HEAD
     model_height: 0.4074074
+=======
+    model_height: 0.407407403
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_branch {
       evolution: LOMBRE
       candy_cost: 25
@@ -61742,7 +63817,11 @@ item_templates {
     family_id: FAMILY_LOTAD
     km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
+<<<<<<< HEAD
     model_height: 1.1086956
+=======
+    model_height: 1.10869563
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_branch {
       evolution: LUDICOLO
       candy_cost: 100
@@ -61843,7 +63922,11 @@ item_templates {
     family_id: FAMILY_LOTAD
     km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
+<<<<<<< HEAD
     model_height: 1.9642857
+=======
+    model_height: 1.96428573
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     model_scale_v2: 1
     buddy_offset_male: 20
     buddy_offset_male: 0
@@ -62137,7 +64220,11 @@ item_templates {
     family_id: FAMILY_SEEDOT
     km_buddy_distance: 3
     buddy_size: BUDDY_BIG
+<<<<<<< HEAD
     model_height: 1.2782608
+=======
+    model_height: 1.27826083
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     model_scale_v2: 1
     buddy_offset_male: 20
     buddy_offset_male: 0
@@ -62427,7 +64514,11 @@ item_templates {
     family_id: FAMILY_WINGULL
     km_buddy_distance: 1.5
     buddy_size: BUDDY_FLYING
+<<<<<<< HEAD
     model_height: 1.7341464
+=======
+    model_height: 1.73414636
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_branch {
       evolution: PELIPPER
       candy_cost: 50
@@ -62528,7 +64619,11 @@ item_templates {
     family_id: FAMILY_WINGULL
     km_buddy_distance: 1.5
     buddy_size: BUDDY_FLYING
+<<<<<<< HEAD
     model_height: 2.5828571
+=======
+    model_height: 2.58285713
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     model_scale_v2: 0.96
     buddy_offset_male: 20
     buddy_offset_male: 0
@@ -62624,7 +64719,11 @@ item_templates {
     evolution_branch {
       evolution: KIRLIA
       candy_cost: 25
+<<<<<<< HEAD
       form: 295
+=======
+      form: KIRLIA_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
     model_scale_v2: 1.1
     buddy_offset_male: 0
@@ -62702,10 +64801,17 @@ item_templates {
     evolution_branch {
       evolution: KIRLIA
       candy_cost: 25
+<<<<<<< HEAD
       form: 295
     }
     model_scale_v2: 1.1
     form: 292
+=======
+      form: KIRLIA_NORMAL
+    }
+    model_scale_v2: 1.1
+    form: RALTS_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -62781,10 +64887,17 @@ item_templates {
     evolution_branch {
       evolution: KIRLIA
       candy_cost: 22
+<<<<<<< HEAD
       form: 297
     }
     model_scale_v2: 1.1
     form: 294
+=======
+      form: KIRLIA_PURIFIED
+    }
+    model_scale_v2: 1.1
+    form: RALTS_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -62860,10 +64973,17 @@ item_templates {
     evolution_branch {
       evolution: KIRLIA
       candy_cost: 25
+<<<<<<< HEAD
       form: 296
     }
     model_scale_v2: 1.1
     form: 293
+=======
+      form: KIRLIA_SHADOW
+    }
+    model_scale_v2: 1.1
+    form: RALTS_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -62877,6 +64997,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 5000
+      purification_candy_needed: 5
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -62957,18 +65086,30 @@ item_templates {
     weight_std_dev: 2.525
     family_id: FAMILY_RALTS
     km_buddy_distance: 5
+<<<<<<< HEAD
     model_height: 0.94545454
+=======
+    model_height: 0.945454538
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_branch {
       evolution: GALLADE
       evolution_item_requirement: ITEM_GEN4_EVOLUTION_STONE
       candy_cost: 100
+<<<<<<< HEAD
       form: 301
+=======
+      form: GALLADE_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       gender_requirement: MALE
     }
     evolution_branch {
       evolution: GARDEVOIR
       candy_cost: 100
+<<<<<<< HEAD
       form: 298
+=======
+      form: GARDEVOIR_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     }
     model_scale_v2: 1
     buddy_offset_male: 0
@@ -63045,21 +65186,36 @@ item_templates {
     weight_std_dev: 2.525
     family_id: FAMILY_RALTS
     km_buddy_distance: 5
+<<<<<<< HEAD
     model_height: 0.94545454
+=======
+    model_height: 0.945454538
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_branch {
       evolution: GALLADE
       evolution_item_requirement: ITEM_GEN4_EVOLUTION_STONE
       candy_cost: 100
+<<<<<<< HEAD
       form: 301
+=======
+      form: GALLADE_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       gender_requirement: MALE
     }
     evolution_branch {
       evolution: GARDEVOIR
       candy_cost: 100
+<<<<<<< HEAD
       form: 298
     }
     model_scale_v2: 1
     form: 295
+=======
+      form: GARDEVOIR_NORMAL
+    }
+    model_scale_v2: 1
+    form: KIRLIA_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -63134,21 +65290,36 @@ item_templates {
     weight_std_dev: 2.525
     family_id: FAMILY_RALTS
     km_buddy_distance: 5
+<<<<<<< HEAD
     model_height: 0.94545454
+=======
+    model_height: 0.945454538
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_branch {
       evolution: GALLADE
       evolution_item_requirement: ITEM_GEN4_EVOLUTION_STONE
       candy_cost: 90
+<<<<<<< HEAD
       form: 303
+=======
+      form: GALLADE_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       gender_requirement: MALE
     }
     evolution_branch {
       evolution: GARDEVOIR
       candy_cost: 90
+<<<<<<< HEAD
       form: 300
     }
     model_scale_v2: 1
     form: 297
+=======
+      form: GARDEVOIR_PURIFIED
+    }
+    model_scale_v2: 1
+    form: KIRLIA_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -63223,21 +65394,36 @@ item_templates {
     weight_std_dev: 2.525
     family_id: FAMILY_RALTS
     km_buddy_distance: 5
+<<<<<<< HEAD
     model_height: 0.94545454
+=======
+    model_height: 0.945454538
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_branch {
       evolution: GALLADE
       evolution_item_requirement: ITEM_GEN4_EVOLUTION_STONE
       candy_cost: 100
+<<<<<<< HEAD
       form: 302
+=======
+      form: GALLADE_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
       gender_requirement: MALE
     }
     evolution_branch {
       evolution: GARDEVOIR
       candy_cost: 100
+<<<<<<< HEAD
       form: 299
     }
     model_scale_v2: 1
     form: 296
+=======
+      form: GARDEVOIR_SHADOW
+    }
+    model_scale_v2: 1
+    form: KIRLIA_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -63251,6 +65437,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 5000
+      purification_candy_needed: 5
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -63332,7 +65527,11 @@ item_templates {
     family_id: FAMILY_RALTS
     km_buddy_distance: 5
     buddy_size: BUDDY_BIG
+<<<<<<< HEAD
     model_height: 1.7341464
+=======
+    model_height: 1.73414636
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     model_scale_v2: 1
     buddy_offset_male: 20
     buddy_offset_male: 0
@@ -63410,9 +65609,15 @@ item_templates {
     family_id: FAMILY_RALTS
     km_buddy_distance: 5
     buddy_size: BUDDY_BIG
+<<<<<<< HEAD
     model_height: 1.7341464
     model_scale_v2: 1
     form: 298
+=======
+    model_height: 1.73414636
+    model_scale_v2: 1
+    form: GARDEVOIR_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 20
     buddy_offset_male: 0
     buddy_offset_male: 75
@@ -63489,9 +65694,15 @@ item_templates {
     family_id: FAMILY_RALTS
     km_buddy_distance: 5
     buddy_size: BUDDY_BIG
+<<<<<<< HEAD
     model_height: 1.7341464
     model_scale_v2: 1
     form: 300
+=======
+    model_height: 1.73414636
+    model_scale_v2: 1
+    form: GARDEVOIR_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 20
     buddy_offset_male: 0
     buddy_offset_male: 75
@@ -63568,9 +65779,15 @@ item_templates {
     family_id: FAMILY_RALTS
     km_buddy_distance: 5
     buddy_size: BUDDY_BIG
+<<<<<<< HEAD
     model_height: 1.7341464
     model_scale_v2: 1
     form: 299
+=======
+    model_height: 1.73414636
+    model_scale_v2: 1
+    form: GARDEVOIR_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 20
     buddy_offset_male: 0
     buddy_offset_male: 75
@@ -63584,6 +65801,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 5000
+      purification_candy_needed: 5
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -63955,7 +66181,11 @@ item_templates {
     family_id: FAMILY_SHROOMISH
     km_buddy_distance: 3
     buddy_size: BUDDY_BIG
+<<<<<<< HEAD
     model_height: 1.2604166
+=======
+    model_height: 1.26041663
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     model_scale_v2: 1
     buddy_offset_male: 20
     buddy_offset_male: 0
@@ -64243,7 +66473,11 @@ item_templates {
     family_id: FAMILY_SLAKOTH
     km_buddy_distance: 5
     buddy_size: BUDDY_BIG
+<<<<<<< HEAD
     model_height: 2.589041
+=======
+    model_height: 2.58904099
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     model_scale_v2: 0.99
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -64334,7 +66568,11 @@ item_templates {
     weight_std_dev: 0.6875
     family_id: FAMILY_NINCADA
     km_buddy_distance: 5
+<<<<<<< HEAD
     model_height: 0.55555558
+=======
+    model_height: 0.555555582
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_branch {
       evolution: NINJASK
       candy_cost: 50
@@ -64437,7 +66675,11 @@ item_templates {
     family_id: FAMILY_NINCADA
     km_buddy_distance: 5
     buddy_size: BUDDY_FLYING
+<<<<<<< HEAD
     model_height: 0.81391305
+=======
+    model_height: 0.813913047
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     model_scale_v2: 1
     buddy_offset_male: 20
     buddy_offset_male: 0
@@ -64533,7 +66775,11 @@ item_templates {
     family_id: FAMILY_NINCADA
     km_buddy_distance: 5
     buddy_size: BUDDY_FLYING
+<<<<<<< HEAD
     model_height: 0.8449074
+=======
+    model_height: 0.844907403
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     model_scale_v2: 1
     buddy_offset_male: 20
     buddy_offset_male: 0
@@ -65406,7 +67652,11 @@ item_templates {
     family_id: FAMILY_SKITTY
     km_buddy_distance: 3
     buddy_size: BUDDY_BIG
+<<<<<<< HEAD
     model_height: 1.2604166
+=======
+    model_height: 1.26041663
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     model_scale_v2: 1
     buddy_offset_male: 20
     buddy_offset_male: 0
@@ -66024,7 +68274,11 @@ item_templates {
     family_id: FAMILY_MEDITITE
     km_buddy_distance: 3
     buddy_size: BUDDY_BIG
+<<<<<<< HEAD
     model_height: 1.5113636
+=======
+    model_height: 1.51136363
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     model_scale_v2: 1
     buddy_offset_male: 20
     buddy_offset_male: 0
@@ -66177,7 +68431,11 @@ item_templates {
     family_id: FAMILY_ELECTRIKE
     km_buddy_distance: 3
     buddy_size: BUDDY_BIG
+<<<<<<< HEAD
     model_height: 1.6091954
+=======
+    model_height: 1.60919535
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     model_scale_v2: 1
     buddy_offset_male: 20
     buddy_offset_male: 0
@@ -66570,7 +68828,11 @@ item_templates {
     weight_std_dev: 0.25
     family_id: FAMILY_ROSELIA
     km_buddy_distance: 3
+<<<<<<< HEAD
     model_height: 0.35714287
+=======
+    model_height: 0.357142866
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_branch {
       evolution: ROSERADE
       evolution_item_requirement: ITEM_GEN4_EVOLUTION_STONE
@@ -67037,7 +69299,11 @@ item_templates {
     family_id: FAMILY_WAILMER
     km_buddy_distance: 0.5
     buddy_size: BUDDY_BIG
+<<<<<<< HEAD
     model_height: 1.654054
+=======
+    model_height: 1.65405405
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_branch {
       evolution: WAILORD
       candy_cost: 400
@@ -67151,7 +69417,11 @@ item_templates {
 item_templates {
   template_id: "V0322_MOVE_FRUSTRATION"
   move_settings {
+<<<<<<< HEAD
     movement_id: 322
+=======
+    movement_id: FRUSTRATION
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     animation_id: 5
     pokemon_type: POKEMON_TYPE_NORMAL
     power: 10
@@ -67246,7 +69516,11 @@ item_templates {
 item_templates {
   template_id: "V0323_MOVE_RETURN"
   move_settings {
+<<<<<<< HEAD
     movement_id: 323
+=======
+    movement_id: RETURN
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     animation_id: 5
     pokemon_type: POKEMON_TYPE_NORMAL
     power: 35
@@ -67321,7 +69595,11 @@ item_templates {
     family_id: FAMILY_NUMEL
     km_buddy_distance: 3
     buddy_size: BUDDY_BIG
+<<<<<<< HEAD
     model_height: 1.8461539
+=======
+    model_height: 1.84615386
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     model_scale_v2: 1
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -67341,7 +69619,11 @@ item_templates {
 item_templates {
   template_id: "V0324_MOVE_SYNCHRONOISE"
   move_settings {
+<<<<<<< HEAD
     movement_id: 324
+=======
+    movement_id: SYNCHRONOISE
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     animation_id: 5
     pokemon_type: POKEMON_TYPE_PSYCHIC
     power: 80
@@ -67568,7 +69850,11 @@ item_templates {
     family_id: FAMILY_SPOINK
     km_buddy_distance: 1
     buddy_size: BUDDY_BIG
+<<<<<<< HEAD
     model_height: 1.1490566
+=======
+    model_height: 1.14905655
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     model_scale_v2: 1
     buddy_offset_male: 20
     buddy_offset_male: 0
@@ -68031,7 +70317,11 @@ item_templates {
     family_id: FAMILY_CACNEA
     km_buddy_distance: 3
     buddy_size: BUDDY_BIG
+<<<<<<< HEAD
     model_height: 1.3736264
+=======
+    model_height: 1.37362635
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     model_scale_v2: 1
     buddy_offset_male: 10
     buddy_offset_male: 0
@@ -68562,7 +70852,11 @@ item_templates {
     weight_std_dev: 0.2375
     family_id: FAMILY_BARBOACH
     km_buddy_distance: 0.5
+<<<<<<< HEAD
     model_height: 0.48648649
+=======
+    model_height: 0.486486495
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_branch {
       evolution: WHISCASH
       candy_cost: 50
@@ -68647,7 +70941,11 @@ item_templates {
     family_id: FAMILY_BARBOACH
     km_buddy_distance: 0.5
     buddy_size: BUDDY_BIG
+<<<<<<< HEAD
     model_height: 1.1142857
+=======
+    model_height: 1.11428571
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     model_scale_v2: 1
     buddy_offset_male: 10
     buddy_offset_male: 0
@@ -70411,7 +72709,11 @@ item_templates {
     weight_std_dev: 5.875
     family_id: FAMILY_ABSOL
     km_buddy_distance: 5
+<<<<<<< HEAD
     model_height: 1.3043479
+=======
+    model_height: 1.30434787
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     model_scale_v2: 1
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -70482,7 +72784,11 @@ item_templates {
     family_id: FAMILY_WOBBUFFET
     km_buddy_distance: 3
     buddy_size: BUDDY_BIG
+<<<<<<< HEAD
     model_height: 0.59583336
+=======
+    model_height: 0.595833361
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_branch {
       evolution: WOBBUFFET
       candy_cost: 25
@@ -70558,7 +72864,11 @@ item_templates {
     weight_std_dev: 2.1
     family_id: FAMILY_SNORUNT
     km_buddy_distance: 3
+<<<<<<< HEAD
     model_height: 0.65811968
+=======
+    model_height: 0.658119678
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_branch {
       evolution: FROSLASS
       evolution_item_requirement: ITEM_GEN4_EVOLUTION_STONE
@@ -70806,7 +73116,11 @@ item_templates {
     family_id: FAMILY_SPHEAL
     km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
+<<<<<<< HEAD
     model_height: 0.84705883
+=======
+    model_height: 0.847058833
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     evolution_branch {
       evolution: WALREIN
       candy_cost: 100
@@ -70887,7 +73201,11 @@ item_templates {
     family_id: FAMILY_SPHEAL
     km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
+<<<<<<< HEAD
     model_height: 1.3876405
+=======
+    model_height: 1.38764048
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     model_scale_v2: 1
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -71043,7 +73361,11 @@ item_templates {
     family_id: FAMILY_CLAMPERL
     km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
+<<<<<<< HEAD
     model_height: 2.1465116
+=======
+    model_height: 2.14651155
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     model_scale_v2: 1
     buddy_offset_male: 10
     buddy_offset_male: 0
@@ -72047,7 +74369,11 @@ item_templates {
     family_id: FAMILY_LATIAS
     km_buddy_distance: 20
     buddy_size: BUDDY_FLYING
+<<<<<<< HEAD
     model_height: 1.5225806
+=======
+    model_height: 1.52258062
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     model_scale_v2: 1
     buddy_offset_male: 20
     buddy_offset_male: 0
@@ -80890,7 +83216,11 @@ item_templates {
     km_buddy_distance: 5
     model_height: 1.8
     model_scale_v2: 0.9
+<<<<<<< HEAD
     form: 301
+=======
+    form: GALLADE_NORMAL
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 1.4
     buddy_offset_male: 0
     buddy_offset_male: -55.3
@@ -80969,7 +83299,11 @@ item_templates {
     km_buddy_distance: 5
     model_height: 1.8
     model_scale_v2: 0.9
+<<<<<<< HEAD
     form: 303
+=======
+    form: GALLADE_PURIFIED
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 1.4
     buddy_offset_male: 0
     buddy_offset_male: -55.3
@@ -81048,7 +83382,11 @@ item_templates {
     km_buddy_distance: 5
     model_height: 1.8
     model_scale_v2: 0.9
+<<<<<<< HEAD
     form: 302
+=======
+    form: GALLADE_SHADOW
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
     buddy_offset_male: 1.4
     buddy_offset_male: 0
     buddy_offset_male: -55.3
@@ -81062,6 +83400,15 @@ item_templates {
     }
     is_transferable: true
     is_deployable: true
+<<<<<<< HEAD
+=======
+    shadow {
+      purification_stardust_needed: 5000
+      purification_candy_needed: 5
+      purified_charge_move: RETURN
+      shadow_charge_move: FRUSTRATION
+    }
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
   }
 }
 item_templates {
@@ -97774,4 +100121,7 @@ item_templates {
     sequence: "sys complete"
   }
 }
+<<<<<<< HEAD
 timestamp_ms: 1568551502241
+=======
+>>>>>>> 403512cba021998cd7b3002a6482710d22b28d0d
