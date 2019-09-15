@@ -10075,7 +10075,7 @@ item_templates {
     forms_allowed: IVYSAUR_NORMAL
     forms_allowed: VENUSAUR_NORMAL
     forms_allowed: CHARMANDER_NORMAL
-    forms_allowed: CHARMELION_NORMAL
+    forms_allowed: CHARMELEON_NORMAL
     forms_allowed: CHARIZARD_NORMAL
     forms_allowed: SQUIRTLE_NORMAL
     forms_allowed: WARTORTLE_NORMAL
@@ -13228,13 +13228,13 @@ item_templates {
   form_settings {
     pokemon: CHARMELEON
     forms {
-      form: CHARMELION_NORMAL
+      form: CHARMELEON_NORMAL
     }
     forms {
-      form: CHARMELION_SHADOW
+      form: CHARMELEON_SHADOW
     }
     forms {
-      form: CHARMELION_PURIFIED
+      form: CHARMELEON_PURIFIED
     }
   }
 }
@@ -30564,7 +30564,7 @@ item_templates {
     evolution_branch {
       evolution: CHARMELEON
       candy_cost: 25
-      form: CHARMELION_NORMAL
+      form: CHARMELEON_NORMAL
     }
     model_scale_v2: 1
     buddy_offset_male: 0
@@ -30643,7 +30643,7 @@ item_templates {
     evolution_branch {
       evolution: CHARMELEON
       candy_cost: 25
-      form: CHARMELION_NORMAL
+      form: CHARMELEON_NORMAL
     }
     model_scale_v2: 1
     form: CHARMANDER_NORMAL
@@ -30723,7 +30723,7 @@ item_templates {
     evolution_branch {
       evolution: CHARMELEON
       candy_cost: 22
-      form: CHARMELION_PURIFIED
+      form: CHARMELEON_PURIFIED
     }
     model_scale_v2: 1
     form: CHARMANDER_PURIFIED
@@ -30803,7 +30803,7 @@ item_templates {
     evolution_branch {
       evolution: CHARMELEON
       candy_cost: 25
-      form: CHARMELION_SHADOW
+      form: CHARMELEON_SHADOW
     }
     model_scale_v2: 1
     form: CHARMANDER_SHADOW
@@ -30977,7 +30977,7 @@ item_templates {
       form: CHARIZARD_NORMAL
     }
     model_scale_v2: 1.07
-    form: CHARMELION_NORMAL
+    form: CHARMELEON_NORMAL
     buddy_offset_male: 8.8
     buddy_offset_male: 0
     buddy_offset_male: 0.3
@@ -31060,7 +31060,7 @@ item_templates {
       form: CHARIZARD_PURIFIED
     }
     model_scale_v2: 1.07
-    form: CHARMELION_PURIFIED
+    form: CHARMELEON_PURIFIED
     buddy_offset_male: 8.8
     buddy_offset_male: 0
     buddy_offset_male: 0.3
@@ -31143,7 +31143,7 @@ item_templates {
       form: CHARIZARD_SHADOW
     }
     model_scale_v2: 1.07
-    form: CHARMELION_SHADOW
+    form: CHARMELEON_SHADOW
     buddy_offset_male: 8.8
     buddy_offset_male: 0
     buddy_offset_male: 0.3
