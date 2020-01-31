@@ -10103,7 +10103,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_GLOBAL_TICKETED_EVENT"
   badge_settings {
-    badge_type: 5100
+    badge_type: BADGE_GLOBAL_TICKETED_EVENT
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -11144,341 +11144,362 @@ item_templates {
 }
 item_templates {
   template_id: "BUDDY_ACTIVITY_ATTRACTIVE_POI"
-  54 {
-    1: 15
-    2: 7
-    3: 1
-    4: 1
-    5: 3
+  buddy_activity_settings {
+    activity: BUDDY_ACTIVITY_ATTRACTIVE_POI
+    activity_category: BUDDY_CATEGORY_BONUS
+    max_times_per_day: 1
+    num_points_per_action: 1
+    num_emotion_points_per_action: 3
   }
 }
 item_templates {
   template_id: "BUDDY_ACTIVITY_FEED"
-  54 {
-    1: 1
-    2: 1
-    3: 3
-    4: 1
-    5: 1
-    6: 1800000
+  buddy_activity_settings {
+    activity: BUDDY_ACTIVITY_FEED
+    activity_category: BUDDY_CATEGORY_FEED
+    max_times_per_day: 3
+    num_points_per_action: 1
+    num_emotion_points_per_action: 1
+    emotion_cooldown_duration_ms: 1800000
   }
 }
 item_templates {
   template_id: "BUDDY_ACTIVITY_GYM_BATTLE"
-  54 {
-    1: 6
-    2: 5
-    3: 1
-    4: 1
-    5: 1
-    6: 1800000
+  buddy_activity_settings {
+    activity: BUDDY_ACTIVITY_GYM_BATTLE
+    activity_category: BUDDY_CATEGORY_BATTLE
+    max_times_per_day: 1
+    num_points_per_action: 1
+    num_emotion_points_per_action: 1
+    emotion_cooldown_duration_ms: 1800000
   }
 }
 item_templates {
   template_id: "BUDDY_ACTIVITY_INVASION_GIOVANNI"
-  54 {
-    1: 14
-    2: 5
-    3: 1
-    4: 1
-    5: 1
-    6: 1800000
+  buddy_activity_settings {
+    activity: BUDDY_ACTIVITY_INVASION_GIOVANNI
+    activity_category: BUDDY_CATEGORY_BATTLE
+    max_times_per_day: 1
+    num_points_per_action: 1
+    num_emotion_points_per_action: 1
+    emotion_cooldown_duration_ms: 1800000
   }
 }
 item_templates {
   template_id: "BUDDY_ACTIVITY_INVASION_GRUNT"
-  54 {
-    1: 12
-    2: 5
-    3: 1
-    4: 1
-    5: 1
-    6: 1800000
+  buddy_activity_settings {
+    activity: BUDDY_ACTIVITY_INVASION_GRUNT
+    activity_category: BUDDY_CATEGORY_BATTLE
+    max_times_per_day: 1
+    num_points_per_action: 1
+    num_emotion_points_per_action: 1
+    emotion_cooldown_duration_ms: 1800000
   }
 }
 item_templates {
   template_id: "BUDDY_ACTIVITY_INVASION_LEADER"
-  54 {
-    1: 13
-    2: 5
-    3: 1
-    4: 1
-    5: 1
-    6: 1800000
+  buddy_activity_settings {
+    activity: BUDDY_ACTIVITY_INVASION_LEADER
+    activity_category: BUDDY_CATEGORY_BATTLE
+    max_times_per_day: 1
+    num_points_per_action: 1
+    num_emotion_points_per_action: 1
+    emotion_cooldown_duration_ms: 1800000
   }
 }
 item_templates {
   template_id: "BUDDY_ACTIVITY_NEW_POIS"
-  54 {
-    1: 5
-    2: 6
-    3: 1
-    4: 1
-    5: 1
-    6: 1800000
+  buddy_activity_settings {
+    activity: BUDDY_ACTIVITY_NEW_POIS
+    activity_category: BUDDY_CATEGORY_EXPLORE
+    max_times_per_day: 1
+    num_points_per_action: 1
+    num_emotion_points_per_action: 1
+    emotion_cooldown_duration_ms: 1800000
   }
 }
 item_templates {
   template_id: "BUDDY_ACTIVITY_NPC_BATTLE"
-  54 {
-    1: 8
-    2: 5
-    3: 1
-    4: 1
-    5: 1
-    6: 1800000
+  buddy_activity_settings {
+    activity: BUDDY_ACTIVITY_NPC_BATTLE
+    activity_category: BUDDY_CATEGORY_BATTLE
+    max_times_per_day: 1
+    num_points_per_action: 1
+    num_emotion_points_per_action: 1
+    emotion_cooldown_duration_ms: 1800000
   }
 }
 item_templates {
   template_id: "BUDDY_ACTIVITY_OPEN_CONSUMABLES"
-  54 {
-    1: 11
-    2: 7
-    3: 1
-    4: 1
-    5: 3
+  buddy_activity_settings {
+    activity: BUDDY_ACTIVITY_OPEN_CONSUMABLES
+    activity_category: BUDDY_CATEGORY_BONUS
+    max_times_per_day: 1
+    num_points_per_action: 1
+    num_emotion_points_per_action: 3
   }
 }
 item_templates {
   template_id: "BUDDY_ACTIVITY_OPEN_SOUVENIRS"
-  54 {
-    1: 10
-    2: 7
-    3: 1
-    4: 1
-    5: 3
+  buddy_activity_settings {
+    activity: BUDDY_ACTIVITY_OPEN_SOUVENIRS
+    activity_category: BUDDY_CATEGORY_BONUS
+    max_times_per_day: 1
+    num_points_per_action: 1
+    num_emotion_points_per_action: 3
   }
 }
 item_templates {
   template_id: "BUDDY_ACTIVITY_PET"
-  54 {
-    1: 2
-    2: 2
-    3: 1
-    4: 1
-    5: 1
-    6: 1800000
+  buddy_activity_settings {
+    activity: BUDDY_ACTIVITY_PET
+    activity_category: BUDDY_CATEGORY_CARE
+    max_times_per_day: 1
+    num_points_per_action: 1
+    num_emotion_points_per_action: 1
+    emotion_cooldown_duration_ms: 1800000
   }
 }
 item_templates {
   template_id: "BUDDY_ACTIVITY_PVP_BATTLE"
-  54 {
-    1: 9
-    2: 5
-    3: 1
-    4: 1
-    5: 1
-    6: 1800000
+  buddy_activity_settings {
+    activity: BUDDY_ACTIVITY_PVP_BATTLE
+    activity_category: BUDDY_CATEGORY_BATTLE
+    max_times_per_day: 1
+    num_points_per_action: 1
+    num_emotion_points_per_action: 1
+    emotion_cooldown_duration_ms: 1800000
   }
 }
 item_templates {
   template_id: "BUDDY_ACTIVITY_RAID_BATTLE"
-  54 {
-    1: 7
-    2: 5
-    3: 1
-    4: 1
-    5: 1
-    6: 1800000
+  buddy_activity_settings {
+    activity: BUDDY_ACTIVITY_RAID_BATTLE
+    activity_category: BUDDY_CATEGORY_BATTLE
+    max_times_per_day: 1
+    num_points_per_action: 1
+    num_emotion_points_per_action: 1
+    emotion_cooldown_duration_ms: 1800000
   }
 }
 item_templates {
   template_id: "BUDDY_ACTIVITY_SNAPSHOT"
-  54 {
-    1: 3
-    2: 3
-    3: 1
-    4: 1
-    5: 1
-    6: 1800000
+  buddy_activity_settings {
+    activity: BUDDY_ACTIVITY_SNAPSHOT
+    activity_category: BUDDY_CATEGORY_SNAPSHOT
+    max_times_per_day: 1
+    num_points_per_action: 1
+    num_emotion_points_per_action: 1
+    emotion_cooldown_duration_ms: 1800000
   }
 }
 item_templates {
   template_id: "BUDDY_ACTIVITY_WALK"
-  54 {
-    1: 4
-    2: 4
-    3: 3
-    4: 1
-    5: 3
+  buddy_activity_settings {
+    activity: BUDDY_ACTIVITY_WALK
+    activity_category: BUDDY_CATEGORY_WALK
+    max_times_per_day: 3
+    num_points_per_action: 1
+    num_emotion_points_per_action: 3
   }
 }
 item_templates {
   template_id: "BUDDY_CATEGORY_BATTLE"
-  53 {
-    1: 5
-    2: 1
+  buddy_activity_category_settings {
+    activityCategory: BUDDY_CATEGORY_BATTLE
+    maxPointsPerDay: 1
   }
 }
 item_templates {
   template_id: "BUDDY_CATEGORY_BONUS"
-  53 {
-    1: 7
-    2: 3
+  buddy_activity_category_settings {
+    activityCategory: BUDDY_CATEGORY_BONUS
+    maxPointsPerDay: 3
   }
 }
 item_templates {
   template_id: "BUDDY_CATEGORY_CARE"
-  53 {
-    1: 2
-    2: 1
+  buddy_activity_category_settings {
+    activityCategory: BUDDY_CATEGORY_CARE
+    maxPointsPerDay: 1
   }
 }
 item_templates {
   template_id: "BUDDY_CATEGORY_EXPLORE"
-  53 {
-    1: 6
-    2: 1
+  buddy_activity_category_settings {
+    activityCategory: BUDDY_CATEGORY_EXPLORE
+    maxPointsPerDay: 1
   }
 }
 item_templates {
   template_id: "BUDDY_CATEGORY_FEED"
-  53 {
-    1: 1
-    2: 3
+  buddy_activity_category_settings {
+    activityCategory: BUDDY_CATEGORY_FEED
+    maxPointsPerDay: 3
   }
 }
 item_templates {
   template_id: "BUDDY_CATEGORY_SNAPSHOT"
-  53 {
-    1: 3
-    2: 1
+  buddy_activity_category_settings {
+    activityCategory: BUDDY_CATEGORY_SNAPSHOT
+    maxPointsPerDay: 1
   }
 }
 item_templates {
   template_id: "BUDDY_CATEGORY_WALK"
-  53 {
-    1: 4
-    2: 3
+  buddy_activity_category_settings {
+    activityCategory: BUDDY_CATEGORY_WALK
+    maxPointsPerDay: 3
   }
 }
 item_templates {
   template_id: "BUDDY_EMOTION_LEVEL_0"
-  61 {
-    1: 1
-    3: 2
+  buddyEmotionLevelSettings {
+    emotionLevel: BUDDY_EMOTION_LEVEL_0
+    emotionAnimation: BUDDY_ANIMATION_HATE
   }
 }
 item_templates {
   template_id: "BUDDY_EMOTION_LEVEL_1"
-  61 {
-    1: 2
-    2: 1
-    3: 2
+  buddyEmotionLevelSettings {
+    emotionLevel: BUDDY_EMOTION_LEVEL_1
+    minEmotionPointsRequired: 1
+    emotionAnimation: BUDDY_ANIMATION_HATE
   }
 }
 item_templates {
   template_id: "BUDDY_EMOTION_LEVEL_2"
-  61 {
-    1: 3
-    2: 2
+  buddyEmotionLevelSettings {
+    emotionLevel: BUDDY_EMOTION_LEVEL_2
+    minEmotionPointsRequired: 2
   }
 }
 item_templates {
   template_id: "BUDDY_EMOTION_LEVEL_3"
-  61 {
-    1: 4
-    2: 4
-    3: 1
+  buddyEmotionLevelSettings {
+    emotionLevel: BUDDY_EMOTION_LEVEL_3
+    minEmotionPointsRequired: 4
+    emotionAnimation: BUDDY_ANIMATION_HAPPY
   }
 }
 item_templates {
   template_id: "BUDDY_EMOTION_LEVEL_4"
-  61 {
-    1: 5
-    2: 8
-    3: 1
+  buddyEmotionLevelSettings {
+    emotionLevel: BUDDY_EMOTION_LEVEL_4
+    minEmotionPointsRequired: 8
+    emotionAnimation: BUDDY_ANIMATION_HAPPY
   }
 }
 item_templates {
   template_id: "BUDDY_EMOTION_LEVEL_5"
-  61 {
-    1: 6
-    2: 16
-    3: 1
+  buddyEmotionLevelSettings {
+    emotionLevel: BUDDY_EMOTION_LEVEL_5
+    minEmotionPointsRequired: 16
+    emotionAnimation: BUDDY_ANIMATION_HAPPY
   }
 }
 item_templates {
   template_id: "BUDDY_EMOTION_LEVEL_6"
-  61 {
-    1: 7
-    2: 32
-    3: 1
+  buddyEmotionLevelSettings {
+    emotionLevel: BUDDY_EMOTION_LEVEL_6
+    minEmotionPointsRequired: 32
+    emotionAnimation: BUDDY_ANIMATION_HAPPY
   }
 }
 item_templates {
   template_id: "BUDDY_ENCOUNTER_CAMEO_SETTINGS"
-  59 {
-    1: 0x3e4ccccd
-    2: 0x3e4ccccd
-    3: 0x3e4ccccd
-    4: 0x3e4ccccd
+  buddyEncounterCameoSettings {
+    buddyWildEncounterCameoChancePercent: 0.2
+    buddyQuestEncounterCameoChancePercent: 0.2
+    buddyRaidEncounterCameoChancePercent: 0.2
+    buddyInvasionEncounterCameoChancePercen: 0.2
   }
 }
 item_templates {
   template_id: "BUDDY_HUNGER_SETTINGS"
-  72 {
-    1: 6
-    2: 2
-    3: 3600000
-    4: 3600000
-    5: 86400000
+  buddyHungerSettings {
+    numHungerPointsRequiredForFull: 6
+    decayPointsPerBucket: 2
+    millisecondsPerBucket: 3600000
+    cooldownDurationMs: 3600000
+    decayDurationAfterFullMs: 86400000
   }
 }
 item_templates {
   template_id: "BUDDY_INTERACTION_SETTINGS"
-  63 {
-    1: "\275\005\277\005\301\005\302\005\304\005\305\005"
+  buddyInteractionSettings {
+    feedItemWhitelist: ITEM_RAZZ_BERRY
+    feedItemWhitelist: ITEM_NANAB_BERRY
+    feedItemWhitelist: ITEM_PINAP_BERRY
+    feedItemWhitelist: ITEM_GOLDEN_RAZZ_BERRY
+    feedItemWhitelist: ITEM_GOLDEN_PINAP_BERRY
+    feedItemWhitelist: ITEM_POFFIN
   }
 }
 item_templates {
   template_id: "BUDDY_LEVEL_0"
-  52 {
-    1: 1
+  buddyLevelSettings {
+    level: BUDDY_LEVEL_0
   }
 }
 item_templates {
   template_id: "BUDDY_LEVEL_1"
-  52 {
-    1: 2
-    2: 1
-    3: "\001\003"
+  buddyLevelSettings {
+    level: BUDDY_LEVEL_1
+    minNonCumulativePointsRequired: 1
+    unlockedTraits: MAP_DEPLOY
+    unlockedTraits: EMOTION_INDICATOR
   }
 }
 item_templates {
   template_id: "BUDDY_LEVEL_2"
-  52 {
-    1: 3
-    2: 70
-    3: "\001\003\002\004"
+  buddyLevelSettings {
+    level: BUDDY_LEVEL_2
+    minNonCumulativePointsRequired: 70
+    unlockedTraits: MAP_DEPLOY
+    unlockedTraits: EMOTION_INDICATOR
+    unlockedTraits: ENCOUNTER_CAMEO
+    unlockedTraits: PICK_UP_CONSUMABLES
   }
 }
 item_templates {
   template_id: "BUDDY_LEVEL_3"
-  52 {
-    1: 4
-    2: 150
-    3: "\001\003\002\004\005\006"
+  buddyLevelSettings {
+    level: BUDDY_LEVEL_3
+    minNonCumulativePointsRequired: 150
+    unlockedTraits: MAP_DEPLOY
+    unlockedTraits: EMOTION_INDICATOR
+    unlockedTraits: ENCOUNTER_CAMEO
+    unlockedTraits: PICK_UP_CONSUMABLES
+    unlockedTraits: PICK_UP_SOUVENIRS
+    unlockedTraits: FIND_ATTRACTIVE_POIS
   }
 }
 item_templates {
   template_id: "BUDDY_LEVEL_4"
-  52 {
-    1: 5
-    2: 300
-    3: "\001\003\002\004\005\006\007\010"
+  buddyLevelSettings {
+    level: BUDDY_LEVEL_4
+    minNonCumulativePointsRequired: 300
+    unlockedTraits: MAP_DEPLOY
+    unlockedTraits: EMOTION_INDICATOR
+    unlockedTraits: ENCOUNTER_CAMEO
+    unlockedTraits: PICK_UP_CONSUMABLES
+    unlockedTraits: PICK_UP_SOUVENIRS
+    unlockedTraits: FIND_ATTRACTIVE_POIS
+    unlockedTraits: BEST_BUDDY_ASSET
+    unlockedTraits: CP_BOOST
   }
 }
 item_templates {
   template_id: "BUDDY_SWAP_SETTINGS"
-  56 {
-    1: 20
+  buddySwapSettings {
+    maxSwapsPerDay: 20
   }
 }
 item_templates {
   template_id: "BUDDY_WALK_SETTINGS"
-  69 {
-    1: 0x40000000
+  buddyWalkSettings {
+    kmRequiredPerAffectionPoint: 2
   }
 }
 item_templates {
@@ -14814,7 +14835,7 @@ item_templates {
       form: BULBASAUR_PURIFIED
     }
     forms {
-      form: 897
+      form: BULBASAUR_FALL_2019
       asset_bundle_suffix: "pm0001_00_pgo_fall2019"
     }
   }
@@ -14863,7 +14884,7 @@ item_templates {
       form: CHARMANDER_PURIFIED
     }
     forms {
-      form: 896
+      form: CHARMANDER_FALL_2019
       asset_bundle_suffix: "pm0004_00_pgo_fall2019"
     }
   }
@@ -14912,7 +14933,7 @@ item_templates {
       form: SQUIRTLE_PURIFIED
     }
     forms {
-      form: 895
+      form: SQUIRTLE_FALL_2019
       asset_bundle_suffix: "pm0007_00_pgo_fall2019"
     }
   }
@@ -14970,13 +14991,13 @@ item_templates {
   form_settings {
     pokemon: WEEDLE
     forms {
-      form: 616
+      form: WEEDLE_NORMAL
     }
     forms {
-      form: 617
+      form: WEEDLE_SHADOW
     }
     forms {
-      form: 618
+      form: WEEDLE_PURIFIED
     }
   }
 }
@@ -14985,13 +15006,13 @@ item_templates {
   form_settings {
     pokemon: KAKUNA
     forms {
-      form: 619
+      form: KAKUNA_NORMAL
     }
     forms {
-      form: 620
+      form: KAKUNA_SHADOW
     }
     forms {
-      form: 621
+      form: KAKUNA_PURIFIED
     }
   }
 }
@@ -15000,13 +15021,13 @@ item_templates {
   form_settings {
     pokemon: BEEDRILL
     forms {
-      form: 622
+      form: BEEDRILL_NORMAL
     }
     forms {
-      form: 623
+      form: BEEDRILL_SHADOW
     }
     forms {
-      form: 624
+      form: BEEDRILL_PURIFIED
     }
   }
 }
@@ -15083,13 +15104,13 @@ item_templates {
   form_settings {
     pokemon: EKANS
     forms {
-      form: 697
+      form: EKANS_NORMAL
     }
     forms {
-      form: 699
+      form: EKANS_PURIFIED
     }
     forms {
-      form: 698
+      form: EKANS_SHADOW
     }
   }
 }
@@ -15098,13 +15119,13 @@ item_templates {
   form_settings {
     pokemon: ARBOK
     forms {
-      form: 700
+      form: ARBOK_NORMAL
     }
     forms {
-      form: 702
+      form: ARBOK_PURIFIED
     }
     forms {
-      form: 701
+      form: ARBOK_SHADOW
     }
   }
 }
@@ -15113,10 +15134,10 @@ item_templates {
   form_settings {
     pokemon: PIKACHU
     forms {
-      form: 598
+      form: PIKACHU_NORMAL
     }
     forms {
-      form: 894
+      form: PIKACHU_FALL_2019
       asset_bundle_suffix: "pm0025_00_pgo_fall2019"
     }
   }
@@ -15146,10 +15167,10 @@ item_templates {
       asset_bundle_value: 61
     }
     forms {
-      form: 674
+      form: SANDSHREW_PURIFIED
     }
     forms {
-      form: 673
+      form: SANDSHREW_SHADOW
     }
   }
 }
@@ -15165,10 +15186,10 @@ item_templates {
       asset_bundle_value: 61
     }
     forms {
-      form: 676
+      form: SANDSLASH_PURIFIED
     }
     forms {
-      form: 675
+      form: SANDSLASH_SHADOW
     }
   }
 }
@@ -15387,10 +15408,10 @@ item_templates {
       asset_bundle_value: 61
     }
     forms {
-      form: 843
+      form: DIGLETT_PURIFIED
     }
     forms {
-      form: 842
+      form: DIGLETT_SHADOW
     }
   }
 }
@@ -20818,51 +20839,51 @@ item_templates {
 }
 item_templates {
   template_id: "INVASION_AVAILABILITY_SETTINGS_FRIDAY"
-  62 {
-    1: 360
-    2: 1320
+  pokestopInvasionAvailabilitySettings {
+    availabilityStartMinute: 360
+    availabilityEndMinute: 1320
   }
 }
 item_templates {
   template_id: "INVASION_AVAILABILITY_SETTINGS_MONDAY"
-  62 {
-    1: 360
-    2: 1320
+  pokestopInvasionAvailabilitySettings {
+    availabilityStartMinute: 360
+    availabilityEndMinute: 1320
   }
 }
 item_templates {
   template_id: "INVASION_AVAILABILITY_SETTINGS_SATURDAY"
-  62 {
-    1: 360
-    2: 1320
+  pokestopInvasionAvailabilitySettings {
+    availabilityStartMinute: 360
+    availabilityEndMinute: 1320
   }
 }
 item_templates {
   template_id: "INVASION_AVAILABILITY_SETTINGS_SUNDAY"
-  62 {
-    1: 360
-    2: 1320
+  pokestopInvasionAvailabilitySettings {
+    availabilityStartMinute: 360
+    availabilityEndMinute: 1320
   }
 }
 item_templates {
   template_id: "INVASION_AVAILABILITY_SETTINGS_THURSDAY"
-  62 {
-    1: 360
-    2: 1320
+  pokestopInvasionAvailabilitySettings {
+    availabilityStartMinute: 360
+    availabilityEndMinute: 1320
   }
 }
 item_templates {
   template_id: "INVASION_AVAILABILITY_SETTINGS_TUESDAY"
-  62 {
-    1: 360
-    2: 1320
+  pokestopInvasionAvailabilitySettings {
+    availabilityStartMinute: 360
+    availabilityEndMinute: 1320
   }
 }
 item_templates {
   template_id: "INVASION_AVAILABILITY_SETTINGS_WEDNESDAY"
-  62 {
-    1: 360
-    2: 1320
+  pokestopInvasionAvailabilitySettings {
+    availabilityStartMinute: 360
+    availabilityEndMinute: 1320
   }
 }
 item_templates {
@@ -20918,7 +20939,7 @@ item_templates {
 item_templates {
   template_id: "ITEM_GEN5_EVOLUTION_STONE"
   item_settings {
-    item_id: 1107
+    item_id: ITEM_GEN5_EVOLUTION_STONE
     item_type: ITEM_TYPE_EVOLUTION_REQUIREMENT
     category: ITEM_CATEGORY_EVOLUTION_REQUIREMENT
     drop_trainer_level: 10
@@ -20927,28 +20948,28 @@ item_templates {
 item_templates {
   template_id: "ITEM_GIOVANNI_MAP"
   item_settings {
-    item_id: 1503
-    item_type: 22
-    category: 21
+    item_id: ITEM_GIOVANNI_MAP
+    item_type: ITEM_TYPE_INCIDENT_TICKET
+    category: ITEM_CATEGORY_INCIDENT_TICKET
     drop_trainer_level: 8
-    17 {
-      1: 1
+    incidentTicket {
+      ignoreFullInventory: true
     }
   }
 }
 item_templates {
   template_id: "ITEM_GLOBAL_EVENT_TICKET"
   item_settings {
-    item_id: 1600
-    item_type: 23
-    category: 22
-    18 {
-      1: 5100
-      2: 86400000
-      3: "2019-11-02T11:00:00"
-      4: "2019-11-02T19:00:00"
-      100: 1572692400000
-      101: 1572721200000
+    item_id: ITEM_GLOBAL_EVENT_TICKET
+    item_type: ITEM_TYPE_GLOBAL_EVENT_TICKET
+    category: ITEM_CATEGORY_GLOBAL_EVENT_TICKET
+    globalEventTicket {
+      eventBadge: BADGE_GLOBAL_TICKETED_EVENT
+      grantBadgeBeforeEventStartMs: 86400000
+      eventStartTime: "2019-11-02T11:00:00"
+      eventEndTime: "2019-11-02T19:00:00"
+      clientEventStartTimeUtcMs: 734369664
+      clientEventEndTimeUtcMs: 763169664
     }
   }
 }
@@ -20967,10 +20988,10 @@ item_templates {
       growth_percent: 0.1
       berry_multiplier: 2
       remote_berry_multiplier: 0.5
-      6: 1
-      7: 5400000
-      8: 5400000
-      9: 3
+      numBuddyAffectionPoints: 1
+      mapDurationMs: 5400000
+      activeDurationMs: 5400000
+      numBuddyHungerPoints: 3
     }
   }
 }
@@ -20987,10 +21008,10 @@ item_templates {
       item_effect_percent: 2.5
       item_effect_percent: 1
       berry_multiplier: 1
-      6: 1
-      7: 5400000
-      8: 5400000
-      9: 3
+      numBuddyAffectionPoints: 1
+      mapDurationMs: 5400000
+      activeDurationMs: 5400000
+      numBuddyHungerPoints: 3
     }
   }
 }
@@ -21099,25 +21120,25 @@ item_templates {
 item_templates {
   template_id: "ITEM_LEADER_MAP"
   item_settings {
-    item_id: 1502
-    item_type: 22
-    category: 21
+    item_id: ITEM_LEADER_MAP
+    item_type: ITEM_TYPE_INCIDENT_TICKET
+    category: ITEM_CATEGORY_INCIDENT_TICKET
     drop_trainer_level: 8
-    17 {
-      1: 1
+    incidentTicket {
+      ignoreFullInventory: true
     }
   }
 }
 item_templates {
   template_id: "ITEM_LEADER_MAP_FRAGMENT"
   item_settings {
-    item_id: 1501
-    item_type: 22
-    category: 21
+    item_id: ITEM_LEADER_MAP_FRAGMENT
+    item_type: ITEM_TYPE_INCIDENT_TICKET
+    category: ITEM_CATEGORY_INCIDENT_TICKET
     drop_trainer_level: 8
-    17 {
-      2: 6
-      3: 1502
+    incidentTicket {
+      upgradeRequirementCount: 6
+      upgradedItem: ITEM_LEADER_MAP
     }
   }
 }
@@ -21216,10 +21237,10 @@ item_templates {
       growth_percent: 0.1
       berry_multiplier: 1.25
       remote_berry_multiplier: 0.3125
-      6: 1
-      7: 3600000
-      8: 3600000
-      9: 2
+      numBuddyAffectionPoints: 1
+      mapDurationMs: 3600000
+      activeDurationMs: 3600000
+      numBuddyHungerPoints: 2
     }
   }
 }
@@ -21245,24 +21266,24 @@ item_templates {
       growth_percent: 0.1
       berry_multiplier: 1
       remote_berry_multiplier: 0.25
-      6: 1
-      7: 3600000
-      8: 3600000
-      9: 2
+      numBuddyAffectionPoints: 1
+      mapDurationMs: 3600000
+      activeDurationMs: 3600000
+      numBuddyHungerPoints: 2
     }
   }
 }
 item_templates {
   template_id: "ITEM_POFFIN"
   item_settings {
-    item_id: 709
+    item_id: ITEM_POFFIN
     item_type: ITEM_TYPE_FOOD
-    category: 23
+    category: ITEM_CATEGORY_BUDDY_EXCLUSIVE_FOOD
     food {
-      6: 1
-      7: 21600000
-      8: 21600000
-      9: 6
+      numBuddyAffectionPoints: 1
+      mapDurationMs: 21600000
+      activeDurationMs: 21600000
+      numBuddyHungerPoints: 6
     }
   }
 }
@@ -21331,10 +21352,10 @@ item_templates {
       growth_percent: 0.1
       berry_multiplier: 1
       remote_berry_multiplier: 0.25
-      6: 1
-      7: 3600000
-      8: 3600000
-      9: 2
+      numBuddyAffectionPoints: 1
+      mapDurationMs: 3600000
+      activeDurationMs: 3600000
+      numBuddyHungerPoints: 2
     }
   }
 }
@@ -21522,23 +21543,23 @@ item_templates {
 }
 item_templates {
   template_id: "LPSKU_bundle.general1.tiny.2"
-  60 {
-    1: 1
-    2: 1
+  limitedPurchaseSkuSettings {
+    purchaseLimit: 1
+    version: 1
   }
 }
 item_templates {
   template_id: "LPSKU_bundle.general1.tiny.3"
-  60 {
-    1: 1
-    2: 1
+  limitedPurchaseSkuSettings {
+    purchaseLimit: 1
+    version: 1
   }
 }
 item_templates {
   template_id: "LPSKU_bundle.general1.tiny.4"
-  60 {
-    1: 1
-    2: 1
+  limitedPurchaseSkuSettings {
+    purchaseLimit: 1
+    version: 1
   }
 }
 item_templates {
@@ -21569,10 +21590,9 @@ item_templates {
 }
 item_templates {
   template_id: "PLATYPUS_ROLLOUT_SETTINGS"
-  70 {
-    1: 2
-    2: 2
-    4: ""
+  platypusRolloutSettings {
+    buddyV2MinPlayerLevel: 2
+    buddyMultiplayerMinPlayerLevel: 2
   }
 }
 item_templates {
@@ -34614,7 +34634,7 @@ item_templates {
     km_buddy_distance: 3
     model_height: 0.7
     model_scale_v2: 0.89
-    form: 897
+    form: BULBASAUR_FALL_2019
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -35726,7 +35746,7 @@ item_templates {
     km_buddy_distance: 3
     model_height: 0.6
     model_scale_v2: 1
-    form: 896
+    form: CHARMANDER_FALL_2019
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -36795,7 +36815,7 @@ item_templates {
     km_buddy_distance: 3
     model_height: 0.43
     model_scale_v2: 1.14
-    form: 895
+    form: SQUIRTLE_FALL_2019
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -38036,7 +38056,7 @@ item_templates {
     evolution_branch {
       evolution: KAKUNA
       candy_cost: 12
-      form: 619
+      form: KAKUNA_NORMAL
     }
     model_scale_v2: 1.72
     buddy_offset_male: 0
@@ -38116,10 +38136,10 @@ item_templates {
     evolution_branch {
       evolution: KAKUNA
       candy_cost: 12
-      form: 619
+      form: KAKUNA_NORMAL
     }
     model_scale_v2: 1.72
-    form: 616
+    form: WEEDLE_NORMAL
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -38197,10 +38217,10 @@ item_templates {
     evolution_branch {
       evolution: KAKUNA
       candy_cost: 10
-      form: 621
+      form: KAKUNA_PURIFIED
     }
     model_scale_v2: 1.72
-    form: 618
+    form: WEEDLE_PURIFIED
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -38278,10 +38298,10 @@ item_templates {
     evolution_branch {
       evolution: KAKUNA
       candy_cost: 12
-      form: 620
+      form: KAKUNA_SHADOW
     }
     model_scale_v2: 1.72
-    form: 617
+    form: WEEDLE_SHADOW
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -38383,7 +38403,7 @@ item_templates {
     evolution_branch {
       evolution: BEEDRILL
       candy_cost: 50
-      form: 622
+      form: BEEDRILL_NORMAL
     }
     model_scale_v2: 1
     buddy_offset_male: 0
@@ -38465,10 +38485,10 @@ item_templates {
     evolution_branch {
       evolution: BEEDRILL
       candy_cost: 50
-      form: 622
+      form: BEEDRILL_NORMAL
     }
     model_scale_v2: 1
-    form: 619
+    form: KAKUNA_NORMAL
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -38548,10 +38568,10 @@ item_templates {
     evolution_branch {
       evolution: BEEDRILL
       candy_cost: 45
-      form: 624
+      form: BEEDRILL_PURIFIED
     }
     model_scale_v2: 1
-    form: 621
+    form: KAKUNA_PURIFIED
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -38631,10 +38651,10 @@ item_templates {
     evolution_branch {
       evolution: BEEDRILL
       candy_cost: 50
-      form: 623
+      form: BEEDRILL_SHADOW
     }
     model_scale_v2: 1
-    form: 620
+    form: KAKUNA_SHADOW
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -38804,7 +38824,7 @@ item_templates {
     buddy_size: BUDDY_FLYING
     model_height: 1.28
     model_scale_v2: 0.77
-    form: 622
+    form: BEEDRILL_NORMAL
     buddy_offset_male: 7.5
     buddy_offset_male: 0
     buddy_offset_male: 25.2
@@ -38885,7 +38905,7 @@ item_templates {
     buddy_size: BUDDY_FLYING
     model_height: 1.28
     model_scale_v2: 0.77
-    form: 624
+    form: BEEDRILL_PURIFIED
     buddy_offset_male: 7.5
     buddy_offset_male: 0
     buddy_offset_male: 25.2
@@ -38966,7 +38986,7 @@ item_templates {
     buddy_size: BUDDY_FLYING
     model_height: 1.28
     model_scale_v2: 0.77
-    form: 623
+    form: BEEDRILL_SHADOW
     buddy_offset_male: 7.5
     buddy_offset_male: 0
     buddy_offset_male: 25.2
@@ -40355,7 +40375,7 @@ item_templates {
     evolution_branch {
       evolution: ARBOK
       candy_cost: 50
-      form: 700
+      form: ARBOK_NORMAL
     }
     model_scale_v2: 1.32
     buddy_offset_male: 0
@@ -40435,10 +40455,10 @@ item_templates {
     evolution_branch {
       evolution: ARBOK
       candy_cost: 50
-      form: 700
+      form: ARBOK_NORMAL
     }
     model_scale_v2: 1.32
-    form: 697
+    form: EKANS_NORMAL
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -40516,10 +40536,10 @@ item_templates {
     evolution_branch {
       evolution: ARBOK
       candy_cost: 45
-      form: 702
+      form: ARBOK_PURIFIED
     }
     model_scale_v2: 1.32
-    form: 699
+    form: EKANS_PURIFIED
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -40597,10 +40617,10 @@ item_templates {
     evolution_branch {
       evolution: ARBOK
       candy_cost: 50
-      form: 701
+      form: ARBOK_SHADOW
     }
     model_scale_v2: 1.32
-    form: 698
+    form: EKANS_SHADOW
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -40787,7 +40807,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.6
     model_scale_v2: 1
-    form: 700
+    form: ARBOK_NORMAL
     buddy_offset_male: 7.28
     buddy_offset_male: 0
     buddy_offset_male: 55.5
@@ -40870,7 +40890,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.6
     model_scale_v2: 1
-    form: 702
+    form: ARBOK_PURIFIED
     buddy_offset_male: 7.28
     buddy_offset_male: 0
     buddy_offset_male: 55.5
@@ -40953,7 +40973,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.6
     model_scale_v2: 1
-    form: 701
+    form: ARBOK_SHADOW
     buddy_offset_male: 7.28
     buddy_offset_male: 0
     buddy_offset_male: 55.5
@@ -41119,7 +41139,7 @@ item_templates {
     buddy_size: BUDDY_SHOULDER
     model_height: 0.4
     model_scale_v2: 1.1
-    form: 894
+    form: PIKACHU_FALL_2019
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -41201,7 +41221,7 @@ item_templates {
       candy_cost: 50
     }
     model_scale_v2: 1.1
-    form: 598
+    form: PIKACHU_NORMAL
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -41778,10 +41798,10 @@ item_templates {
     evolution_branch {
       evolution: SANDSLASH
       candy_cost: 45
-      form: 676
+      form: SANDSLASH_PURIFIED
     }
     model_scale_v2: 1
-    form: 674
+    form: SANDSHREW_PURIFIED
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -41859,10 +41879,10 @@ item_templates {
     evolution_branch {
       evolution: SANDSLASH
       candy_cost: 50
-      form: 675
+      form: SANDSLASH_SHADOW
     }
     model_scale_v2: 1
-    form: 673
+    form: SANDSHREW_SHADOW
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -42196,7 +42216,7 @@ item_templates {
     km_buddy_distance: 3
     model_height: 1
     model_scale_v2: 1
-    form: 676
+    form: SANDSLASH_PURIFIED
     buddy_offset_male: 11.5
     buddy_offset_male: 0
     buddy_offset_male: -1.4
@@ -42273,7 +42293,7 @@ item_templates {
     km_buddy_distance: 3
     model_height: 1
     model_scale_v2: 1
-    form: 675
+    form: SANDSLASH_SHADOW
     buddy_offset_male: 11.5
     buddy_offset_male: 0
     buddy_offset_male: -1.4
@@ -46750,7 +46770,7 @@ item_templates {
       form: 845
     }
     model_scale_v2: 1.6
-    form: 843
+    form: DIGLETT_PURIFIED
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -46828,7 +46848,7 @@ item_templates {
       form: 844
     }
     model_scale_v2: 1.6
-    form: 842
+    form: DIGLETT_SHADOW
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -121792,7 +121812,7 @@ item_templates {
     model_height: 0.6
     evolution_branch {
       evolution: SIMISAGE
-      evolution_item_requirement: 1107
+      evolution_item_requirement: ITEM_GEN5_EVOLUTION_STONE
       candy_cost: 50
     }
     model_scale_v2: 1
@@ -121954,7 +121974,7 @@ item_templates {
     model_height: 0.6
     evolution_branch {
       evolution: SIMISEAR
-      evolution_item_requirement: 1107
+      evolution_item_requirement: ITEM_GEN5_EVOLUTION_STONE
       candy_cost: 50
     }
     model_scale_v2: 1
@@ -122116,7 +122136,7 @@ item_templates {
     model_height: 0.6
     evolution_branch {
       evolution: SIMIPOUR
-      evolution_item_requirement: 1107
+      evolution_item_requirement: ITEM_GEN5_EVOLUTION_STONE
       candy_cost: 50
     }
     model_scale_v2: 1
@@ -122280,7 +122300,7 @@ item_templates {
     model_height: 0.6
     evolution_branch {
       evolution: MUSHARNA
-      evolution_item_requirement: 1107
+      evolution_item_requirement: ITEM_GEN5_EVOLUTION_STONE
       candy_cost: 50
     }
     model_scale_v2: 1
@@ -127103,7 +127123,7 @@ item_templates {
     model_height: 0.4
     evolution_branch {
       evolution: CINCCINO
-      evolution_item_requirement: 1107
+      evolution_item_requirement: ITEM_GEN5_EVOLUTION_STONE
       candy_cost: 50
     }
     model_scale_v2: 1.1
@@ -130297,7 +130317,7 @@ item_templates {
     model_height: 0.6
     evolution_branch {
       evolution: EELEKTROSS
-      evolution_item_requirement: 1107
+      evolution_item_requirement: ITEM_GEN5_EVOLUTION_STONE
       candy_cost: 100
     }
     model_scale_v2: 1
@@ -130709,7 +130729,7 @@ item_templates {
     model_height: 0.77
     evolution_branch {
       evolution: CHANDELURE
-      evolution_item_requirement: 1107
+      evolution_item_requirement: ITEM_GEN5_EVOLUTION_STONE
       candy_cost: 100
     }
     model_scale_v2: 1
